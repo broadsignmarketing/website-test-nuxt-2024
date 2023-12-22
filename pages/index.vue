@@ -4,7 +4,7 @@
 
 <script setup>
 const { t } = useI18n({
-	useScope: "global",
+	useScope: "local",
 });
 </script>
 
