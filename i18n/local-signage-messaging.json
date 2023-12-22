@@ -1,0 +1,512 @@
+{
+	"en": {
+		"seo": {
+			"title": "Local Signage Messaging",
+			"description": "Enable on-site teams to easily create custom digital signage messages while remaining on-brand with a customizable content management tool."
+		},
+		"hero": {
+			"overtitle": "Local Signage Messaging",
+			"title": "Make Messages More Relevant With Customizable Content",
+			"blurb": "Enable on-site teams to easily create custom digital signage messages while remaining on-brand with a customizable content management tool.",
+			"ctaBookCall": "Book a call",
+			"ctaDemo": "Request a demo",
+			"ctaPricing": "See our plans"
+		},
+		"logos": {
+			"title": "Trusted by our customers worldwide"
+		},
+		"features": {
+			"local_messaging": {
+				"overtitle": "Local messaging",
+				"title": "Engage local audiences with custom, relevant messages",
+				"par": "Increase the relevance of digital signage content to an audience by enabling individual businesses to personalize the on-screen message."
+			},
+			"custom_content": {
+				"overtitle": "Custom content",
+				"title": "Create messages that are always on-brand",
+				"par": "Ensure your clients' content remains on brand by providing access to a library of pre-approved images, videos and design templates."
+			},
+			"content_management": {
+				"overtitle": "Integrated content management",
+				"title": "Seamlessly connect local content to your network's messaging schedule",
+				"par": "Your local content solution comes with direct integration with our content management system, so all your custom messages will easily fit alongside your other scheduled media."
+			},
+			"insights": {
+				"overtitle": "Insights",
+				"title": "Easier monitoring and reporting",
+				"par": "Want to better understand how different teams use their messaging access? Our Insights Dashboard gives you full visibility into the custom content created across your network whenever you want it."
+			},
+			"user_friendly": {
+				"overtitle": "User-friendly",
+				"title": "No technical or design skills required",
+				"par": "With our custom messaging tool's intuitive visual interface, your clients will be creating great-looking content in no time, minimal training required."
+			},
+			"clients_groups": {
+				"overtitle": "Clients groups",
+				"title": "Stay in control of product access",
+				"par": "Messaging access for your clients' teams shouldn't be a free-for-all. With our product, you can grant different levels of access to different teams and keep a separation between their messaging and the rest of your content."
+			},
+			"timeline_visualization": {
+				"overtitle": "Timeline visualization",
+				"title": "See all of your scheduled content at once",
+				"par": "See all of your scheduled messages on a timeline to ensure that your content goes out when and where you need it."
+			},
+			"comingSoon": "Coming Soon"
+		},
+		"customers": {
+			"title": "Trusted by our customers worldwide",
+			"testimonials": [
+				{
+					"id": "bonjour_sante",
+					"quote": "Broadsign's local signage messaging tool was a hit with our customers right away. They love being able to quickly produce messages and get them out across their screens alongside regularly scheduled content."
+				},
+				{
+					"id": "hmn",
+					"quote": "Broadsign's local signage messaging tool enables our practices to display their own custom messages to their patients, allowing them to create a much better and much more targeted communication strategy."
+				}
+			]
+		},
+		"faq": {
+			"title": "FAQs",
+			"list": [
+				{
+					"id": "faq_local_signage_messaging_1",
+					"q": "Can I preview my messages or playlists before publishing them?",
+					"a": "Yup! All regular assets, including messages, images and videos, can be previewed before publication."
+				},
+				{
+					"id": "faq_local_signage_messaging_2",
+					"q": "Can I quickly change the messages on my screen to reflect local conditions?",
+					"a": "Users can modify certain aspects of a pre-defined template, which will allow messages to reflect local conditions like price changes and special offers."
+				},
+				{
+					"id": "faq_local_signage_messaging_3",
+					"q": "Can I take over certain screens to broadcast emergency messages?",
+					"a": "Media owners can give select users permission to play an emergency message that interrupts the scheduled content and takes over the entire screen until it is de-activated."
+				},
+				{
+					"id": "faq_local_signage_messaging_4",
+					"q": "Can I set different permission levels for my users?",
+					"a": "Media owners can create and define different user roles, privileges and restrictions."
+				}
+			]
+		},
+		"shin": {
+			"title": "Discover what we can do for your network",
+			"par": "Get in touch with us and a member of our team will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+			"ctaBookCall": "Book a call",
+			"ctaDemo": "Request a demo",
+			"ctaPricing": "See our plans"
+		},
+		"bookACall": {
+			"title": "Book a call"
+		}
+	},
+	"fr": {
+		"seo": {
+			"title": "Affichage numérique de messages locaux",
+			"description": "Enable local teams to easily create custom digital signage messages while remaining on-brand with a customizable content management tool."
+		},
+		"hero": {
+			"overtitle": "Affichage numérique de messages locaux",
+			"title": "Rendez les messages locaux plus pertinents grâce à un contenu personnalisable",
+			"blurb": "Permettez aux équipes locales de créer facilement des messages d'affichage numérique personnalisés tout en restant fidèles à la marque grâce à un outil de gestion de contenu personnalisable.",
+			"ctaBookCall": "Réservez un appel",
+			"ctaDemo": "Demander une démo",
+			"ctaPricing": "Découvrir nos forfaits"
+		},
+		"logos": {
+			"title": "Des clients du monde entier nous font confiance"
+		},
+		"features": {
+			"local_messaging": {
+				"overtitle": "Messages locaux",
+				"title": "Attirez l'attention des audiences locales avec des messages personnalisés et pertinents",
+				"par": "Améliorez la pertinence du contenu de l'affichage numérique pour le public local en permettant aux entreprises individuelles de personnaliser le message à l'écran."
+			},
+			"custom_content": {
+				"overtitle": "Contenu personnalisé",
+				"title": "Créez des messages toujours fidèles à la marque",
+				"par": "Assurez-vous que le contenu de vos clients reste fidèle à leur marque en permettant aux équipes locales d'accéder à une bibliothèque d'images, de vidéos et de modèles de conception préapprouvés."
+			},
+			"content_management": {
+				"overtitle": "Gestion de contenu intégrée",
+				"title": "Connectez de manière harmonieuse le contenu local au calendrier de diffusion de votre réseau",
+				"par": "Votre solution de contenu local est directement intégrée à notre système de gestion de contenu. Ainsi, tous vos messages locaux s'intègrent facilement à vos autres médias de diffusion programmée."
+			},
+			"insights": {
+				"overtitle": "Données pertinentes",
+				"title": "Suivi et établissement de rapports plus faciles",
+				"par": "Vous souhaitez mieux comprendre comment les équipes différentes utilisent leur accès? Notre tableau de bord Insights vous offre une visibilité totale sur le contenu local créé sur votre réseau, quand vous le souhaitez."
+			},
+			"user_friendly": {
+				"overtitle": "Convivialité",
+				"title": "Aucune compétence technique ni compétence en conception requise",
+				"par": "Grâce à l'interface visuelle intuitive de notre outil de diffusion de messages locaux, vos clients pourront créer du contenu de qualité en un rien de temps, avec un minimum de formation."
+			},
+			"clients_groups": {
+				"overtitle": "Groupes de clients",
+				"title": "Contrôlez l'accès aux produits",
+				"par": "Les messages destinés à une équipe locale ne devraient pas être accessibles à n'importe qui. Grâce à notre produit, accordez différents niveaux d'accès à différentes équipes et séparez leurs messages du reste de votre contenu."
+			},
+			"timeline_visualization": {
+				"overtitle": "Visualisation de la chronologie",
+				"title": "Visualisez tout votre contenu programmé à la fois",
+				"par": "Visualisez tous vos messages programmés dans une chronologie afin de vous assurer que votre contenu est diffusé au moment et à l'endroit voulus."
+			},
+			"comingSoon": "Bientôt disponible!"
+		},
+		"customers": {
+			"title": "Des clients du monde entier nous font confiance",
+			"testimonials": [
+				{
+					"id": "bonjour_sante",
+					"quote": "L'outil d'affichage de messages locaux de Broadsign a connu un succès immédiat auprès de nos clients. Ils aiment la possibilité de produire rapidement des messages et de les diffuser sur leurs écrans en même temps que du contenu régulièrement programmé."
+				},
+				{
+					"id": "hmn",
+					"quote": "L'outil d'affichage de messages locaux de Broadsign permet à nos cabinets de diffuser des messages personnalisés aux patients. Ils peuvent ainsi créer une stratégie de communication bien meilleure et beaucoup plus ciblée."
+				}
+			]
+		},
+		"faq": {
+			"title": "FAQs",
+			"list": [
+				{
+					"id": "faq_local_signage_messaging_1",
+					"q": "Puis-je prévisualiser mes messages ou mes listes de lecture avant de les publier?",
+					"a": "Certainement! Vous pouvez prévisualiser toutes les ressources régulières (y compris les messages, les images et les vidéos) avant leur publication."
+				},
+				{
+					"id": "faq_local_signage_messaging_2",
+					"q": "Puis-je modifier rapidement les messages qui s'affichent sur mon écran afin de les adapter au contexte local?",
+					"a": "Les utilisateurs locaux peuvent modifier certains aspects d'un modèle prédéfini pour adapter les messages aux particularités locales, comme les changements de prix et les offres spéciales."
+				},
+				{
+					"id": "faq_local_signage_messaging_3",
+					"q": "Puis-je prendre le contrôle de certains écrans pour diffuser des messages d'urgence?",
+					"a": "Les propriétaires de médias peuvent accorder à certains utilisateurs la permission de diffuser un message d'urgence qui interrompt le contenu programmé et occupe tout l'écran jusqu'à sa désactivation."
+				},
+				{
+					"id": "faq_local_signage_messaging_4",
+					"q": "Puis-je définir différents niveaux d'autorisation pour mes utilisateurs?",
+					"a": "Les propriétaires de médias peuvent créer et définir différents rôles, privilèges et restrictions pour les utilisateurs."
+				}
+			]
+		},
+		"shin": {
+			"title": "Découvrez ce que nous pouvons faire pour votre réseau",
+			"par": "Contactez-nous et un membre de notre équipe vous contactera dans les plus brefs délais pour organiser un appel. Laissez-nous faire savoir s'il y a des questions dont vous aimeriez discuter.",
+			"ctaBookCall": "Réservez un appel",
+			"ctaDemo": "Demander une démo",
+			"ctaPricing": "Découvrir nos forfaits"
+		},
+		"bookACall": { "title": "Réservez un appel" }
+	},
+	"es": {
+		"seo": {
+			"title": "Señalización digital de mensajería local",
+			"description": "Enable local teams to easily create custom digital signage messages while remaining on-brand with a customizable content management tool."
+		},
+		"hero": {
+			"overtitle": "Señalización digital de mensajería local",
+			"title": "Haga mensajes locales más relevantes con contenido personalizable",
+			"blurb": "Permita que los equipos locales creen fácilmente mensajes de señalización digital personalizados mientras mantienen el branding de la marca con una herramienta de administración de contenido personalizable.",
+			"ctaBookCall": "Reservar una llamada",
+			"ctaDemo": "Solicite una demostración",
+			"ctaPricing": "Vea nuestros planes"
+		},
+		"logos": {
+			"title": "Con la confianza de nuestros clientes en todo el mundo"
+		},
+		"features": {
+			"local_messaging": {
+				"overtitle": "Mensajería local",
+				"title": "Involucre a las audiencias locales con mensajes personalizados y relevantes",
+				"par": "Aumente la relevancia del contenido de señalización digital para las audiencias locales al permitir que las empresas individuales personalicen el mensaje en pantalla."
+			},
+			"custom_content": {
+				"overtitle": "Contenido personalizado",
+				"title": "Cree mensajes siempre compatibles con la imagen de la marca",
+				"par": "Asegúrese de que el contenido de sus clientes respete el branding de la marca  al brindar a los equipos locales acceso a una colección de imágenes, videos y plantillas de diseño preaprobados."
+			},
+			"content_management": {
+				"overtitle": "Gestión de contenidos integrada",
+				"title": "Conecte de manera homogénea el contenido local al programa de mensajería de su red",
+				"par": "Su solución de contenido local viene con una integración directa a nuestro sistema de administración de contenido, para que todos sus mensajes locales encajen fácilmente junto con sus otros medios programados."
+			},
+			"insights": {
+				"overtitle": "Detalles",
+				"title": "Monitoreo e informes más sencillos",
+				"par": "¿Quiere comprender mejor cómo los equipos locales utilizan su acceso a la mensajería local? Nuestro panel de información le brinda visibilidad integral del contenido local creado en su red cuando lo desee."
+			},
+			"user_friendly": {
+				"overtitle": "Fácil de usar",
+				"title": "No requiere conocimientos técnicos ni de diseño",
+				"par": "Con la interfaz visual intuitiva de nuestra herramienta de mensajería local, sus clientes crearán contenido atractivo en muy poco tiempo. Se requiere una capacitación mínima."
+			},
+			"clients_groups": {
+				"overtitle": "Grupos de clientes",
+				"title": "Mantenga el control del acceso al producto",
+				"par": "El acceso a la mensajería para los equipos locales no debería ser gratuito para todos. Con nuestro producto, usted puede otorgar diferentes niveles de acceso a diferentes equipos y separar sus mensajes del resto de su contenido."
+			},
+			"timeline_visualization": {
+				"overtitle": "Visualización de la línea de tiempo",
+				"title": "Vea todo su contenido programado a la vez",
+				"par": "Vea todos sus mensajes programados en una línea de tiempo para asegurarse de que su contenido salga cuando y donde lo necesite."
+			},
+			"comingSoon": "Próximamente"
+		},
+		"customers": {
+			"title": "Con la confianza de nuestros clientes en todo el mundo",
+			"testimonials": [
+				{
+					"id": "bonjour_sante",
+					"quote": "La herramienta de señalización de mensajería local de Broadsign fue un éxito rotundo entre nuestros clientes. Les encanta poder producir mensajes de manera rápida y mostrarlos en sus pantallas junto con el contenido programado regularmente."
+				},
+				{
+					"id": "hmn",
+					"quote": "La herramienta de señalización de mensajería local de Broadsign permite que nuestros consultorios muestren sus propios mensajes personalizados a los pacientes, y esto crea una estrategia de comunicación mucho mejor y más específica."
+				}
+			]
+		},
+		"faq": {
+			"title": "Preguntas frecuentes",
+			"list": [
+				{
+					"id": "faq_local_signage_messaging_1",
+					"q": "¿Puedo obtener una vista previa de mis mensajes o listas de reproducción antes de publicarlos?",
+					"a": "¡Así es! Todos los activos regulares, incluidos los mensajes, las imágenes y los videos, se pueden previsualizar antes de su publicación."
+				},
+				{
+					"id": "faq_local_signage_messaging_2",
+					"q": "¿Puedo cambiar rápidamente los mensajes en mi pantalla para reflejar las condiciones locales?",
+					"a": "Los usuarios locales pueden modificar ciertos aspectos de una plantilla predefinida, lo que permitirá que los mensajes reflejen las condiciones locales, como los cambios de precios y las ofertas especiales."
+				},
+				{
+					"id": "faq_local_signage_messaging_3",
+					"q": "¿Puedo tomar el control de algunas pantallas para transmitir mensajes de emergencia?",
+					"a": "Los propietarios de medios pueden permitir que usuarios seleccionados reproduzcan un mensaje de emergencia que interrumpe el contenido programado y ocupa toda la pantalla hasta que se desactiva."
+				},
+				{
+					"id": "faq_local_signage_messaging_4",
+					"q": "¿Puedo establecer diferentes niveles de permisos para mis usuarios?",
+					"a": "Los propietarios de medios pueden crear y definir diferentes privilegios, restricciones y roles de usuario."
+				}
+			]
+		},
+		"shin": {
+			"title": "Descubra lo que podemos hacer por su red",
+			"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+			"ctaBookCall": "Reservar una llamada",
+			"ctaDemo": "Solicite una demostración",
+			"ctaPricing": "Vea nuestros planes"
+		},
+		"bookACall": { "title": "Reservar una llamada" }
+	},
+	"de": {
+		"seo": {
+			"title": "Lokale Signage-Nachrichten",
+			"description": "Versetzen Sie lokale Teams in die Lage, benutzerspezifische digitale Signage-Nachrichten zu erstellen und gleichzeitig mit einem anpassbaren Inhaltsmanagement-Tool der Markenbotschaft treu zu bleiben."
+		},
+		"hero": {
+			"overtitle": "Lokale Signage-Nachrichten",
+			"title": "Lokale Nachrichten mit benutzerdefiniertem Inhalt relevanter machen",
+			"blurb": "Versetzen Sie lokale Teams in die Lage, benutzerspezifische digitale Signage-Nachrichten zu erstellen und gleichzeitig mit einem anpassbaren Inhaltsmanagement-Tool der Markenbotschaft treu zu bleiben.",
+			"ctaBookCall": "Büchen Sie einen Anruf",
+			"ctaDemo": "Demo anfordern",
+			"ctaPricing": "Unsere Angebote anzeigen"
+		},
+		"logos": {
+			"title": "Kunden in aller Welt sprechen uns ihr Vertrauen aus"
+		},
+		"features": {
+			"local_messaging": {
+				"overtitle": "Lokale Nachrichten",
+				"title": "Durch benutzerdefinierte, relevante Nachrichten mit lokalen Zielgruppen in Kontakt treten",
+				"par": "Erhöhen Sie die Relevanz von digitalen Signage-Inhalten für lokale Zielgruppen, indem Sie den einzelnen Unternehmen die Möglichkeit geben, die Bildschirmnachrichten zu personalisieren."
+			},
+			"custom_content": {
+				"overtitle": "Benutzerdefinierter Inhalt",
+				"title": "Nachrichten erstellen, die stets zur Marke passen",
+				"par": "Sorgen Sie dafür, dass die Inhalte Ihrer Kunden stets zur Marke passen, indem Sie lokalen Teams Zugriff auf eine Bibliothek mit genehmigten Bildern, Videos und Designvorlagen geben."
+			},
+			"content_management": {
+				"overtitle": "Integriertes Contentmanagement",
+				"title": "Lokale Inhalte reibungslos in die Nachrichtenplanung Ihres Netzwerkes integrieren",
+				"par": "Ihre Lösung für lokalen Inhalt ist direkt in unser Content-Managementsystem integriert, so dass sich all Ihre lokalen Nachrichten leicht in Ihre anderen geplanten Medien einreihen lassen."
+			},
+			"insights": {
+				"overtitle": "Einblicke",
+				"title": "Leichtere Überwachung und Berichterstellung",
+				"par": "Wollen Sie besser verstehen, wie lokale Teams ihren Zugriff auf lokale Nachrichten verwenden? Über unser Insights-Dashboard erhalten Sie jederzeit vollständige Transparenz für alle lokalen Inhalte, die in Ihrem Netzwerk erstellt werden."
+			},
+			"user_friendly": {
+				"overtitle": "Benutzerfreundlich",
+				"title": "Keine technischen oder gestalterischen Kenntnisse erforderlich",
+				"par": "Mithilfe der intuitiven visuellen Schnittstelle können Ihre Kunden bei minimalem Schulungsaufwand schnell großartig aussehende Inhalte erstellen."
+			},
+			"clients_groups": {
+				"overtitle": "Kundengruppen",
+				"title": "Behalten Sie die Kontrolle über den Produktzugriff",
+				"par": "Der Nachrichtenzugriff für lokale Teams sollte nicht ausarten. Mit unserem Produkt können Sie verschiedenen Teams verschiedene Berechtigungsebenen einräumen und das Messaging vom Rest Ihres Inhalts trennen."
+			},
+			"timeline_visualization": {
+				"overtitle": "Visualisierung der Zeitachse",
+				"title": "Den gesamten geplanten Inhalt auf einmal sehen",
+				"par": "Sehen Sie die gesamten geplanten Nachrichten in einer Zeitachse, um sicherzustellen, dass der Inhalt zum gewünschten Zeitpunkt am gewünschten Ort rausgeht."
+			},
+			"comingSoon": "In Kürze!"
+		},
+		"customers": {
+			"title": "Kunden in aller Welt sprechen uns ihr Vertrauen aus",
+			"testimonials": [
+				{
+					"id": "bonjour_sante",
+					"quote": "Das Broadsign-Messagingtool für lokale Nachrichten hat unsere Kunden gleich begeistert. Sie finden es toll, dass sie schnell Nachrichten erstellen können und diese zusammen mit dem normal geplanten Inhalt auf ihren Bildschirmen zeigen können."
+				},
+				{
+					"id": "hmn",
+					"quote": "Mit dem Broadsign-Messagingtool für lokale Nachrichten können unsere Praxen ihren Patienten ihre eigenen benutzerdefinierten Nachrichten anzeigen und so eine viel bessere und gezieltere Kommunikationsstrategie entwickeln."
+				}
+			]
+		},
+		"faq": {
+			"title": "Häufig gestellte Fragen",
+			"list": [
+				{
+					"id": "faq_local_signage_messaging_1",
+					"q": "Kann ich meine Nachrichten oder Playlists vor der Veröffentlichung als Vorschau anzeigen?",
+					"a": "Auf jeden Fall. Alle regulären Assets, wie beispielsweise Nachrichten, Bilder und Videos, können vor der Veröffentlichung als Vorschau angezeigt werden."
+				},
+				{
+					"id": "faq_local_signage_messaging_2",
+					"q": "Kann ich die Nachrichten auf meinem Bildschirm schnell ändern, um lokale Bedingungen abzubilden?",
+					"a": "Lokale Nutzer können bestimmte Aspekte einer vordefinierten Vorlage ändern, um lokalen Bedingungen wie Preisänderungen und Sonderangebote Rechnung zu tragen."
+				},
+				{
+					"id": "faq_local_signage_messaging_3",
+					"q": "Kann ich bestimmte Bildschirme übernehmen, um Notfallnachrichten zu veröffentlichen?",
+					"a": "Medieninhaber können ausgewählten Benutzern die Erlaubnis geben, eine Notfallnachricht einzublenden, die den geplanten Inhalt unterbricht und den gesamten Bildschirm übernimmt, bis diese deaktiviert wird."
+				},
+				{
+					"id": "faq_local_signage_messaging_4",
+					"q": "Kann ich meinen Benutzern unterschiedliche Berechtigungsebenen zuweisen?",
+					"a": "Medieninhaber können verschiedene Rollen, Berechtigungen und Einschränkungen für Benutzer festlegen."
+				}
+			]
+		},
+		"shin": {
+			"title": "Entdecken Sie, was wir für Ihr Netzwerk tun können",
+			"par": "Setzen Sie sich mit uns in Verbindung und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Bitte lassen Sie uns wissen, wenn Sie Fragen haben, die Sie gerne besprechen möchten.",
+			"ctaBookCall": "Büchen Sie einen Anruf",
+			"ctaDemo": "Demo anfordern",
+			"ctaPricing": "Unsere Angebote anzeigen"
+		},
+		"bookACall": { "title": "Büchen Sie einen Anruf" }
+	},
+	"jp": {
+		"seo": {
+			"title": "ローカライズしたサイネージのメッセージ",
+			"description": "コンテンツ管理ツールを駆使して、現場のチームが簡単にカスタマイズしたクリエイティブを作成できることができます。"
+		},
+		"hero": {
+			"overtitle": "ローカライズしたサイネージのメッセージ",
+			"title": "カスタマイズ可能なコンテンツで、メッセージをより関連性の高い内容に",
+			"blurb": "コンテンツ管理ツールを駆使して、現場のチームが簡単にカスタマイズしたクリエイティブを作成できることができます。",
+			"ctaBookCall": "問い合わせる",
+			"ctaDemo": "デモを予約する",
+			"ctaPricing": "機能を知る"
+		},
+		"logos": {
+			"title": "Trusted by our customers worldwide"
+		},
+		"features": {
+			"local_messaging": {
+				"overtitle": "ローカライズしたメッセージ",
+				"title": "関連性の高いメッセージで\"ローカル\"オーディエンスの関心を惹きつける",
+				"par": "画面上のメッセージをパーソナライズできるようにすることで、デジタルサイネージコンテンツの視聴者への関連性を高めます。"
+			},
+
+			"custom_content": {
+				"overtitle": "カスタムコンテンツ",
+				"title": "常にブランドのイメージにあったメッセージを作成",
+				"par": "事前に承認された画像や動画、デザインテンプレートのライブラリへのアクセスを提供することで、クライアントが常にそのブランドらしいコンテンツを配信できることを保証します"
+			},
+			"content_management": {
+				"overtitle": "統合されたコンテンツ管理",
+				"title": "シームレスにネットワークのメッセージングスケジュール設定にコンテンツを組み込む",
+				"par": "コンテンツソリューションはコンテンツ管理システムとの直接連携されるため、すべてのメッセージが予定されたメディア配信に合うよう、設定できます"
+			},
+			"insights": {
+				"overtitle": "インサイト",
+				"title": "簡単なモニタリングとレポーティング",
+				"par": "様々なチームがメッセージング機能をどのように活用しているか知りたいですか？インサイトダッシュボードでは、あなたのネットワーク全体で作成されたカスタムコンテンツを可視化できます。"
+			},
+			"user_friendly": {
+				"overtitle": "ユーザーフレンドリー",
+				"title": "デザインや技術的なスキルは必要ありません",
+				"par": "当社のメッセージングツールは直感的な視覚インターフェイスによって、最小限のトレーニングですぐに適切なコンテンツを作成できます。"
+			},
+			"clients_groups": {
+				"overtitle": "クライアントグループ",
+				"title": "社内でのアクセス権限レベルを管理",
+				"par": "チーム内のメッセージング機能へのアクセスはすべてが自由であってはいけません。当社の製品ではチーム内で異なるレベルのアクセス権限を付与して、メッセージとコンテンツを分ける事ができます。"
+			},
+			"timeline_visualization": {
+				"overtitle": "タイムラインの可視化",
+				"title": "スケジュールされたすべてのコンテンツを一度に確認",
+				"par": "スケジュールされたすべてのメッセージをタイムラインで確認して、必要な時にコンテンツが配信されることを確認してください。"
+			},
+			"comingSoon": "近日公開"
+		},
+		"customers": {
+			"title": "多くのお客様にご利用いただいております。",
+			"testimonials": [
+				{
+					"id": "bonjour_sante",
+					"quote": "Broadsignのローカルサイネージメッセージングツールにより、当社の診療施設は患者に独自のカスタムメッセージを表示できるようになり、非常に精度の高いコミュニケーション戦略を作成できるようになりました。"
+				},
+				{
+					"id": "hmn",
+					"quote": "Broadsignのローカルサイネージメッセージングツールはお客様に大ヒットしました。彼らは素早くメッセージを作成し、定期的にスケジュールされているコンテンツに対して配信できる機能をとても気に入りました。"
+				}
+			]
+		},
+		"faq": {
+			"title": "FAQ",
+			"list": [
+				{
+					"id": "faq_local_signage_messaging_1",
+					"q": "公開する前にメッセージやプレイリストをプレビューできますか？",
+					"a": "はい可能です。メッセージ、画像、ビデオを含むすべての通常のキャンペーンは、公開前にプレビューできます。"
+				},
+				{
+					"id": "faq_local_signage_messaging_2",
+					"q": "画面上のメッセージをすばやく変更して、ローカルに適したものを反映できますか？",
+					"a": "事前に定義されたテンプレートの特定の側面を変更できます。これにより、メッセージ、価格の変更や特別オファーなどのローカルに適したものを反映することができます。"
+				},
+				{
+					"id": "faq_local_signage_messaging_3",
+					"q": "特定の画面を占有して緊急メッセージを配信することはできますか？",
+					"a": "メディアの所有者は、選択したユーザーに、スケジュールされたコンテンツを中断し、緊急メッセージを配信する許可することができます。"
+				},
+				{
+					"id": "faq_local_signage_messaging_4",
+					"q": "ユーザー単位で権限のレベルを設定できますか？",
+					"a": "メディア所有者は、さまざまな役割、権限、制限を作成および定義できます。"
+				}
+			]
+		},
+		"shin": {
+			"title": "お客様のネットワークに提供できるもの",
+			"par": "ぜひお気軽にお問い合わせください。チームよりすみやかにお電話での相談予約についてご連絡させていただきます。ご質問があればぜひお知らせください。",
+			"ctaBookCall": "電話の予約",
+			"ctaDemo": "デモを予約する",
+			"ctaPricing": "プランを見る"
+		},
+		"bookACall": {
+			"title": "電話の予約"
+		}
+	}
+}

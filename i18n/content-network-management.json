@@ -1,0 +1,397 @@
+{
+	"en": {
+		"seo": {
+			"title": "Content and Network Management",
+			"description": "Manage and automate digital out-of-home media and operations across networks of any size with the world's most trusted digital signage software."
+		},
+		"hero": {
+			"overtitle": "Content and Network Management",
+			"title": "Take charge of your Dooh network",
+			"blurb": "Manage and automate digital out-of-home media and operations across networks of any size with the world's most trusted digital signage software.",
+			"ctaBookCall": "Book a call",
+			"ctaDemo": "Request a demo",
+			"ctaPricing": "See our plans"
+		},
+		"logos": {
+			"title": "Trusted by our customers worldwide"
+		},
+		"features": {
+			"automated_content_scheduling": {
+				"overtitle": "Automated content scheduling",
+				"title": "Effortless content scheduling with automated workflows",
+				"par": "Set the rules for when and where content should play and let our system handle the rest. Whether you manage 10 screens or 10,000, our intelligent, playlist-free media management tool makes it easy to schedule and deliver your content."
+			},
+			"network_operations_reporting": {
+				"overtitle": "Network operations & reporting",
+				"title": "Full visibility into your network's performance and in-depth reporting",
+				"par": "You shouldn't have to worry about network performance, and with our solution, you don't have to. Our remote monitoring tools let you check the status of your screens across your entire network and also allow you to pull comprehensive campaign reports, such as proof-of-play."
+			},
+			"soc_compatibility": {
+				"overtitle": "System-on-chip compatibility",
+				"title": "Open your smart screens to new revenue streams",
+				"par": "Our sophisticated content and campaign management solution can now help you monetize your system-on-chip screens with advertising content from direct or programmatic channels.",
+				"cta": "Learn more"
+			},
+			"cloud_based_ad_server": {
+				"overtitle": "Cloud-based ad server",
+				"title": "Simplified operations for mixed-player networks",
+				"par": "Need to run a non-Broadsign player? No problem. Our cloud-based ad server lets you schedule and deliver content to these alongside your Broadsign players without compromising performance. Save time by centralizing your network operations and manage your players from one location.",
+				"cta": "Learn more"
+			},
+			"api_integrations": {
+				"overtitle": "API integrations",
+				"title": "An open ecosystem that connects with the tools you want",
+				"par": "Customize your digital signage network with an API-first approach that seamlessly integrates your custom booking tools, CRMs, and business automation systems."
+			}
+		},
+		"faq": {
+			"title": "FAQs",
+			"list": [
+				{
+					"id": "faq_content_network_management_1",
+					"q": "What size networks is Broadsign a best fit for?",
+					"a": "The Broadsign Platform is used to manage networks of all sizes —from just a few screens to thousands. Our solution can help scale your network efficiently and quickly, while still utilizing a small team."
+				},
+				{
+					"id": "faq_content_network_management_2",
+					"q": "Does Broadsign offer implementation support and services?",
+					"a": "Yes, we offer a variety of services depending on the scale and complexity of your deployment. From onboarding training to complete white glove installation and support, we have the proper support for each unique network."
+				},
+				{
+					"id": "faq_content_network_management_3",
+					"q": "What's the difference between playlist-based content distribution and automated rule-based loops?",
+					"a": "An automated rule-based system is where playlists are built by the player dynamically. With the increasing desire to tailor the message to the right audience, time-of-day, weather condition, etc., Broadsign enables this targeted messaging without the workload of creating multiple playlists manually."
+				},
+				{
+					"id": "faq_content_network_management_4",
+					"q": "Can I connect Broadsign to other applications that I currently have implemented?",
+					"a": "Yes! Broadsign uses an API-first approach which means you can connect to the tools you already use with our open API."
+				}
+			]
+		},
+		"shin": {
+			"title": "Discover what we can do for your network",
+			"par": "Get in touch with us and a member of our team will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+			"ctaBookCall": "Book a call",
+			"ctaDemo": "Request a demo",
+			"ctaPricing": "See our plans"
+		},
+		"bookACall": { "title": "Book a call" }
+	},
+	"fr": {
+		"seo": {
+			"title": "Gestion de contenu et de réseau",
+			"description": "Gérez et automatisez les médias et les opérations DOOH sur des réseaux de toute taille grâce au logiciel d'affichage numérique le plus fiable au monde."
+		},
+		"hero": {
+			"overtitle": "Gestion de contenu et de réseau",
+			"title": "Prenez en main votre réseau DOOH",
+			"blurb": "Gérez et automatisez les médias et les opérations DOOH sur des réseaux de toute taille grâce au logiciel d'affichage numérique le plus fiable au monde.",
+			"ctaBookCall": "Réservez un appel",
+			"ctaDemo": "Demander une démo",
+			"ctaPricing": "Découvrir nos forfaits"
+		},
+		"logos": {
+			"title": "Des clients du monde entier nous font confiance"
+		},
+		"features": {
+			"automated_content_scheduling": {
+				"overtitle": "Programmation automatisée de contenu",
+				"title": "Programmation facile de contenu grâce à des flux de travail automatiques",
+				"par": "Choisissez l'heure et le lieu de diffusion du contenu et laissez notre système gérer le reste. Que vous gériez 10 ou 10 000 écrans, notre outil de gestion des médias intelligent et sans liste de lecture facilite la programmation et la diffusion de votre contenu."
+			},
+			"network_operations_reporting": {
+				"overtitle": "Opérations et rapports sur le réseau",
+				"title": "Visibilité complète sur le rendement de votre réseau et rapports détaillés",
+				"par": "Grâce à notre solution, vous n'aurez plus à vous inquiéter du rendement de votre réseau. Nos outils de surveillance à distance vous permettent de vérifier l'état de vos écrans sur l'ensemble de votre réseau et de générer des rapports de campagne complets, comme les preuves de diffusion."
+			},
+			"soc_compatibility": {
+				"overtitle": "Compatibilité avec les systèmes sur puce",
+				"title": "Ouvrez vos écrans intelligents à de nouvelles sources de revenus",
+				"par": "Notre solution sophistiquée de gestion de contenu et de campagnes peut désormais vous aider à monétiser vos écrans de systèmes sur puce avec du contenu publicitaire provenant de canaux directs ou programmatiques.",
+				"cta": "En savoir plus"
+			},
+			"cloud_based_ad_server": {
+				"overtitle": "Serveur publicitaire en nuage",
+				"title": "Opérations simplifiées pour les réseaux à lecteurs mixtes",
+				"par": "Besoin d'utiliser un lecteur autre que ceux de Broadsign? Pas de problème. Notre serveur publicitaire en nuage vous permet de programmer et de diffuser du contenu sur les lecteurs Broadsign et non Broadsign, sans compromettre le rendement. Économisez du temps en centralisant les opérations de votre réseau et gérez vos lecteurs à partir d'un seul endroit.",
+				"cta": "En savoir plus"
+			},
+			"api_integrations": {
+				"overtitle": "Intégrations d'API",
+				"title": "Un écosystème ouvert qui se connecte avec les outils que vous voulez",
+				"par": "Personnalisez votre réseau d'affichage numérique au moyen d'une approche axée sur les API qui intègre harmonieusement vos outils de réservation personnalisés, vos logiciels de gestion des relations clients et vos systèmes commerciaux automatisés."
+			}
+		},
+		"faq": {
+			"title": "FAQ",
+			"list": [
+				{
+					"id": "faq_content_network_management_1",
+					"q": "À quelle taille de réseaux est-ce que Broadsign convient le mieux?",
+					"a": "La plateforme Broadsign gère des réseaux de toutes tailles, qu'il s'agisse de quelques écrans ou de milliers. Même avec une petite équipe, vous pouvez étendre votre réseau de manière efficace et rapide grâce à notre solution."
+				},
+				{
+					"id": "faq_content_network_management_2",
+					"q": "Est-ce que Broadsign propose des services d'assistance ou de mise en œuvre?",
+					"a": "Oui, nous offrons une variété de services en fonction de l'ampleur et de la complexité de votre déploiement. De la formation d'intégration à l'installation et à l'assistance haut de gamme, nous disposons du soutien approprié pour chaque réseau unique."
+				},
+				{
+					"id": "faq_content_network_management_3",
+					"q": "Quelle est la différence entre une distribution de contenu basée sur des listes de lecture et des boucles automatisées basées sur des règles?",
+					"a": "Dans un système automatisé basé sur des règles, le lecteur construit des listes de lecture de manière dynamique. Étant donné qu'on observe de plus en plus un désir d'adapter le message au public adéquat, à une heure de la journée en particulier, aux conditions météorologiques, etc., Broadsign permet cette diffusion ciblée sans la charge de travail que représente la création manuelle de plusieurs listes de lecture."
+				},
+				{
+					"id": "faq_content_network_management_4",
+					"q": "Puis-je connecter Broadsign à d'autres applications que j'ai mises en œuvre?",
+					"a": "Oui! Broadsign utilise une approche axée sur l'API, ce qui signifie que vous pouvez vous connecter aux outils que vous utilisez déjà grâce à notre API ouverte. "
+				}
+			]
+		},
+		"shin": {
+			"title": "Découvrez ce que nous pouvons faire pour votre réseau",
+			"par": "Contactez-nous et un membre de notre équipe vous contactera dans les plus brefs délais pour organiser un appel. Laissez-nous faire savoir s'il y a des questions dont vous aimeriez discuter.",
+			"ctaBookCall": "Réservez un appel",
+			"ctaDemo": "Demander une démo",
+			"ctaPricing": "Découvrir nos forfaits"
+		},
+		"bookACall": { "title": "Réservez un appel" }
+	},
+	"es": {
+		"seo": {
+			"title": "Gestión de contenido y redes",
+			"description": "Administre y automatice medios digitales de publicidad exterior (DOOH) y operaciones en redes de cualquier tamaño con el software de señalización digital más confiable del mundo."
+		},
+		"hero": {
+			"overtitle": "Gestión de contenido y redes",
+			"title": "Tome el control de su red DOOH",
+			"blurb": "Administre y automatice medios digitales de publicidad exterior (DOOH) y operaciones en redes de cualquier tamaño con el software de señalización digital más confiable del mundo.",
+			"ctaBookCall": "Reservar una llamada",
+			"ctaDemo": "Solicite una demostración",
+			"ctaPricing": "Vea nuestros planes"
+		},
+		"logos": {
+			"title": "Con la confianza de nuestros clientes en todo el mundo"
+		},
+		"features": {
+			"automated_content_scheduling": {
+				"overtitle": "Programación automatizada del contenido",
+				"title": "Programe el contenido sin esfuerzo con flujos de trabajo automatizados",
+				"par": "Establezca las reglas sobre cuándo y dónde debe reproducirse el contenido y deje que nuestro sistema se encargue del resto. Ya sea que administre 10 o 10 000 pantallas, nuestra herramienta inteligente de gestión de medios sin listas de reproducción facilita la programación y emisión de su contenido."
+			},
+			"network_operations_reporting": {
+				"overtitle": "Operaciones de red e informes",
+				"title": "Visibilidad completa del rendimiento de su red e informes detallados",
+				"par": "No debería tener que preocuparse por el rendimiento de la red y, con nuestra solución, no tendrá que hacerlo. Nuestras herramientas de monitoreo remoto le permiten verificar el estado de sus pantallas en toda su red y también le permiten obtener informes de campaña completos, como pruebas de reproducción."
+			},
+			"soc_compatibility": {
+				"overtitle": " Compatibilidad con sistema en chip (SoC)",
+				"title": "Abra sus pantallas inteligentes a nuevas fuentes de ingresos",
+				"par": "Nuestra sofisticada solución de gestión de contenido y campañas ahora puede ayudarlo a monetizar sus pantallas con sistema en chip con contenido publicitario de canales directos o programáticos.",
+				"cta": "Más información"
+			},
+			"cloud_based_ad_server": {
+				"overtitle": "Ad Server basado en la nube",
+				"title": "Operaciones simplificadas para redes de reproductores mixtos",
+				"par": "¿Necesita usar un reproductor que no es  Broadsign? No hay problema. Nuestro servidor de anuncios basado en la nube le permite programar y entregar contenido junto con sus reproductores Broadsign sin comprometer el rendimiento. Ahorre tiempo centralizando las operaciones de su red y administre sus reproductores desde una sola ubicación.",
+				"cta": "Más información"
+			},
+			"api_integrations": {
+				"overtitle": "Integraciones API",
+				"title": "Un ecosistema abierto que se conecta con las herramientas que usted quiera.",
+				"par": "Personalice su red de señalización digital con una API (Interfaz de Programa de Aplicación) que integre perfectamente sus herramientas de contabilización personalizadas, CRM (Gestión de relaciones con los clientes) y sistemas de automatización empresarial."
+			}
+		},
+		"faq": {
+			"title": "Preguntas frecuentes",
+			"list": [
+				{
+					"id": "faq_content_network_management_1",
+					"q": "¿Para qué tamaño de redes es más adecuado Broadsign?",
+					"a": "La plataforma Broadsign administra redes de todos los tamaños, desde algunas pantallas hasta miles de ellas. Nuestra solución puede ayudar a que su red crezca de manera eficiente y rápida sin dejar de utilizar un equipo pequeño."
+				},
+				{
+					"id": "faq_content_network_management_2",
+					"q": "¿Broadsign ofrece soporte y servicios de implementación?",
+					"a": "Sí, ofrecemos una variedad de servicios según la escala y la complejidad de su implementación. Desde la capacitación para la incorporación hasta la instalación y el soporte técnico completos, contamos con el soporte adecuado para cada red."
+				},
+				{
+					"id": "faq_content_network_management_3",
+					"q": "¿Cuál es la diferencia entre una distribución de contenido basada en listas de reproducción y circuitos automatizados basados en reglas?",
+					"a": "Un sistema automatizado basado en reglas es donde el reproductor genera dinámicamente las listas de reproducción. Con el creciente deseo de adaptar el mensaje a la correcta audiencia, hora del día, condición climática, etc., Broadsign permite esta mensajería orientada sin la carga de trabajo de crear múltiples listas de reproducción manualmente."
+				},
+				{
+					"id": "faq_content_network_management_4",
+					"q": "¿Puedo conectar Broadsign a otras aplicaciones que tengo implementadas actualmente?",
+					"a": "¡Sí! Broadsign utiliza un enfoque de API primordial, lo que significa que puede conectarse a las herramientas que ya usa con nuestra API abierta. "
+				}
+			]
+		},
+		"shin": {
+			"title": "Descubra lo que podemos hacer por su red",
+			"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+			"ctaBookCall": "Reservar una llamada",
+			"ctaDemo": "Solicite una demostración",
+			"ctaPricing": "Vea nuestros planes"
+		},
+		"bookACall": { "title": "Reservar una llamada" }
+	},
+	"de": {
+		"seo": {
+			"title": "Content- und Netzwerkmanagement",
+			"description": "Management und Automatisierung digitaler Out-of-Home-Medien und Geschäftsabläufe in Netzwerken beliebiger Größe mit der weltweit zuverlässigsten Digital Signage-Software."
+		},
+		"hero": {
+			"overtitle": "Content- und Netzwerkmanagement",
+			"title": "Übernehmen Sie die Kontrolle über Ihr Netzwerk",
+			"blurb": "Management und Automatisierung digitaler Out-of-Home-Medien und Geschäftsabläufe in Netzwerken beliebiger Größe mit der weltweit zuverlässigsten Digital Signage-Software.",
+			"ctaBookCall": "Büchen Sie einen Anruf",
+			"ctaDemo": "Demo anfordern",
+			"ctaPricing": "Unsere Angebote anzeigen"
+		},
+		"logos": {
+			"title": "Kunden in aller Welt sprechen uns ihr Vertrauen aus"
+		},
+		"features": {
+			"automated_content_scheduling": {
+				"overtitle": "Automatisierte zeitliche Planung von Inhalten",
+				"title": "Mühelose Planung von Inhalten mit automatisierten Arbeitsabläufen",
+				"par": "Festlegung von Regeln zur Steuerung, wann und wo Inhalte wiedergegeben werden. Egal, ob es um die Verwaltung von 10 oder 10.000 Bildschirmen geht, unser intelligentes, Playlist-freies Medienverwaltungstool macht die zeitliche Planung und Bereitstellung Ihrer Inhalte kinderleicht."
+			},
+			"network_operations_reporting": {
+				"overtitle": "Netzwerkbetrieb und Berichterstellung",
+				"title": "Umfassende Einblicke in die Netzwerkleistung sowie detaillierte Berichterstellung",
+				"par": "Sie sollten sich keine Gedanken über Netzwerkleistung machen müssen und mit unserer Lösung brauchen Sie das auch nicht. Mit unseren Remote-Überwachungstools können Sie den Status all Ihrer Bildschirme im gesamten Netzwerk überprüfen und auch umfassende Kampagnenberichte, wie beispielsweise Proof-of-Play, erstellen."
+			},
+			"soc_compatibility": {
+				"overtitle": " Kompatibilität mit System-on-Chip",
+				"title": "Nutzung Ihrer intelligenten Bildschirme für neue Einnahmequellen",
+				"par": "Unsere technisch ausgereifte Lösung für Content- und Kampagnenmanagement hilft Ihnen dabei, Ihre System-on-Chip-Bildschirme mit Werbeinhalten aus direkten oder programmatischen Kanälen zu monetarisieren.",
+				"cta": "Mehr erfahren"
+			},
+			"cloud_based_ad_server": {
+				"overtitle": "Cloud-basierter Ad-Server",
+				"title": "Vereinfachter Betrieb für Mixed-Player-Netzwerke",
+				"par": "Müssen Sie einen anderen Player als Broadsign nutzen? Kein Problem. Mit unserem Cloud-basierten Ad-Server können Sie neben Ihren Broadsign-Playern auch Inhalte für diese planen und ausliefern, ohne die Leistung zu beeinträchtigen.. Sparen Sie Zeit durch eine Zentralisierung Ihres Netzwerkbetriebs und verwalten Sie Ihre Player von einem Standort aus.",
+				"cta": "Mehr erfahren"
+			},
+			"api_integrations": {
+				"overtitle": "API-Integrationen",
+				"title": "Ein offenes Ökosystem, das mit den von Ihnen gewünschten Tools kompatibel ist.",
+				"par": "Passen Sie Ihr Digital-Signage-Netzwerk mit einem API-First-Ansatz, der Ihre benutzerdefinierten Buchungstools, CRMs und Geschäftsautomatisierungssysteme nahtlos integriert, an Ihre Bedürfnisse an."
+			}
+		},
+		"faq": {
+			"title": "Häufig gestellte Fragen",
+			"list": [
+				{
+					"id": "faq_content_network_management_1",
+					"q": "Für welche Größe von Netzwerk ist Broadsign am besten geeignet?",
+					"a": "Die Broadsign-Plattform verwaltet Netzwerke jeder Größe – von nur wenigen Bildschirmen bis hin zu Tausenden. Unsere Lösung kann Ihnen helfen, eine effiziente und schnelle Skalierung Ihres Netzwerks durchzuführen – und das mit einem kleinen Team."
+				},
+				{
+					"id": "faq_content_network_management_2",
+					"q": "Bietet Broadsign Implementierungssupport und -dienste?",
+					"a": "Ja, wir bieten je nach Größe und Komplexität Ihres Projektes eine Vielzahl von Diensten an. Von Onboarding-Schulungen bis hin zu exklusiver Installation und Unterstützung, bieten wir den optimalen Support für jedes einzigartige Netzwerk."
+				},
+				{
+					"id": "faq_content_network_management_3",
+					"q": "Was ist der Unterschied zwischen einer Playlist-basierten Verteilung von Inhalten und automatisierten regelbasierten Loops?",
+					"a": "Bei einem automatisierten, regelbasierten System werden Playlists vom Player dynamisch erstellt. Da die Botschaft immer häufiger auf das jeweilige Publikum, die Tageszeit, die Wetterbedingungen usw. zugeschnitten werden soll, ermöglicht Ihnen Broadsign diese zielgerichtete Ansprache ohne den zusätzlichen Aufwand einer manuellen Erstellung von mehreren Playlists."
+				},
+				{
+					"id": "faq_content_network_management_4",
+					"q": "Kann ich Broadsign auch für andere Anwendungen verwenden, die ich derzeit implementiert habe?",
+					"a": "Ja! Broadsign verwendet einen API-First-Ansatz, was bedeutet, dass man die bereits im Einsatz befindlichen Tools über unsere offene API verwenden kann."
+				}
+			]
+		},
+		"shin": {
+			"title": "Entdecken Sie, was wir für Ihr Netzwerk tun können",
+			"par": "Setzen Sie sich mit uns in Verbindung und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Bitte lassen Sie uns wissen, wenn Sie Fragen haben, die Sie gerne besprechen möchten.",
+			"ctaBookCall": "Büchen Sie einen Anruf",
+			"ctaDemo": "Demo anfordern",
+			"ctaPricing": "Unsere Angebote anzeigen"
+		},
+		"bookACall": { "title": "Büchen Sie einen Anruf" }
+	},
+	"jp": {
+		"seo": {
+			"title": "コンテンツとネットワークの管理",
+			"description": "世界で最も信頼できるデジタルサイネージソフトウェアで、DOOHのクリエイティブと運用を管理・自動化しましょう。."
+		},
+		"hero": {
+			"overtitle": "コンテンツとネットワークの管理",
+			"title": "DOOHネットワークを管理しましょう",
+			"blurb": "世界で最も信頼できるデジタルサイネージソフトウェアで、DOOHのクリエイティブと運用を管理・自動化しましょう。",
+			"ctaBookCall": "問い合わせる",
+			"ctaDemo": "デモを予約する",
+			"ctaPricing": "機能を知る"
+		},
+		"logos": {
+			"title": "多くのお客様にご利用いただいております。"
+		},
+		"features": {
+			"automated_content_scheduling": {
+				"overtitle": "自動コンテンツスケジュール設定",
+				"title": "自動化されたワークフローを使用し、容易にコンテンツ配信スケジュールを設定することが可能です",
+				"par": "コンテンツがいつ、どこで再生されるのかをルール設定すれば、あとはシステムにお任せで大丈夫です。配信先が10画面でも、10,000画面でも、プレイリストを設定する必要がない管理ツールがコンテンツの配信を簡易にします。"
+			},
+			"network_operations_reporting": {
+				"overtitle": "ネットワーク運用とレポート",
+				"title": "パフォーマンスを可視化し、詳細なレポートを作成する",
+				"par": "ネットワークが正常に稼働しているか心配する必要はありません。モニタリングツールを使用して、ネットワーク全体の配信ステータスをチェックすることが可能です。\"配信証明\"を含めた包括的なレポートを作成することもできます。"
+			},
+			"soc_compatibility": {
+				"overtitle": "システムオンチップ (SoC) との互換性",
+				"title": "スマートスクリーンも新しい収益源に",
+				"par": "当社の洗練されたキャンペーン管理ソリューションは、ダイレクトまたはプログラマティックの広告コンテンツを使用して、システムオンチップ (SoC) 画面を収益化するサポートができるようになりました。",
+				"cta": "さらに詳しく"
+			},
+			"cloud_based_ad_server": {
+				"overtitle": "クラウドベースのアドサーバー",
+				"title": "混在するネットワーク配信もシンプルな運用で",
+				"par": "Broadsign配下にない媒体での配信が必要でも問題ありません。弊社のクラウドベースの広告サーバーはパフォーマンスを妥協することなく、Broadsign以外の媒体にコンテンツを配信できます。運用を集約させることで作業時間を短縮し、1箇所で複数の媒体を管理できます。",
+				"cta": "さらに詳しく"
+			},
+			"api_integrations": {
+				"overtitle": "APIによる統合運用",
+				"title": "必要なツールを接続するオープンエコシステム",
+				"par": "カスタム予約ツール、CRM、およびビジネス自動化システムをシームレスに統合する、\"APIファースト\"の手法でデジタルサイネージネットワークをカスタマイズしましょう。"
+			}
+		},
+		"faq": {
+			"title": "FAQ",
+			"list": [
+				{
+					"id": "faq_content_network_management_1",
+					"q": "Broadsignは、どのサイズのネットワークに最適ですか？",
+					"a": "BroadSignのプラットフォームは、ほんの少しの面から数千の面まで、あらゆるサイズのネットワークを管理するために利用されます。私たちのソリューションは、小さなネットワークを利用しながら、効率的にスケールするのに役立ちます。"
+				},
+				{
+					"id": "faq_content_network_management_2",
+					"q": "BroadSignは実装サポートのサービスを提供していますか？",
+					"a": "はい、規模の複雑さに応じて、さまざまなサービスを提供しています。オンボーディングトレーニングから実装を完了するまで、丁寧で適切なサポートがあります。"
+				},
+				{
+					"id": "faq_content_network_management_3",
+					"q": "プレイリストでのコンテンツ配信とルールベースでのループの違いは何ですか？",
+					"a": "ルールベースのシステムは、プレイリストがプレーヤーによって動的に構築されます。適切なオーディエンス、時刻、気象条件などに合わせて、メッセージを調整したいという要望が高まっているため、BroadSignは、複数のプレイリストを手動で作成することなく、ターゲットメッセージングを可能にします。"
+				},
+				{
+					"id": "faq_content_network_management_4",
+					"q": "BroadSignを現在利用している他のアプリケーションに接続できますか？",
+					"a": "可能です。BroadSignは、オープンAPIで既に使用しているツールに接続できます。"
+				}
+			]
+		},
+		"shin": {
+			"title": "お客様のネットワークに提供できるもの",
+			"par": "ぜひお気軽にお問い合わせください。チームよりすみやかにお電話での相談予約についてご連絡させていただきます。ご質問があればぜひお知らせください。",
+			"ctaBookCall": "電話の予約",
+			"ctaDemo": "デモを予約する",
+			"ctaPricing": "プランを見る"
+		},
+		"bookACall": { "title": "電話の予約" }
+	}
+}

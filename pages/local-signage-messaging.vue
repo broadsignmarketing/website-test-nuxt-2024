@@ -1,11 +1,11 @@
 <template>
-	<h1>{{ $t("index.seo.title") }}</h1>
+	<h1>{{ t("seo.title") }}</h1>
 </template>
 
-<script setup></script>
+<script setup>
+const { t } = useI18n({
+	useScope: "local",
+});
+</script>
 
-<style lang="postcss">
-body {
-	color: #000;
-}
-</style>
+<i18n src="~/i18n/local-signage-messaging.json"></i18n>

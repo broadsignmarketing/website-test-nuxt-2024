@@ -1,4 +1,5 @@
 <template>
+	<SEO />
 	<header>
 		<ul>
 			<li><NuxtLink :to="switchLocalePath('en')">English</NuxtLink></li>
@@ -8,12 +9,12 @@
 			<li><NuxtLink :to="switchLocalePath('jp')">Japanese</NuxtLink></li>
 		</ul>
 		<ul>
-			<li><NuxtLink :to="localePath('/')">Home</NuxtLink></li>
-			<li><NuxtLink :to="localePath('campaign-planning-ad-serving')">Campaign Planning & Ad Serving</NuxtLink></li>
-			<li><NuxtLink :to="localePath('local-signage-messaging')">Local Signage Mesaging</NuxtLink></li>
-			<li><NuxtLink :to="localePath('content-network-management')">Content Network Management</NuxtLink></li>
-			<li><NuxtLink :to="localePath('global-programmatic-ssp')">Global Programmatic SSP</NuxtLink></li>
-			<li><NuxtLink :to="localePath('static-campaigns')">Static Campaigns</NuxtLink></li>
+			<li><NuxtLinkLocale to="/">Home</NuxtLinkLocale></li>
+			<li><NuxtLinkLocale to="campaign-planning-ad-serving">Campaign Planning & Ad Serving</NuxtLinkLocale></li>
+			<li><NuxtLinkLocale to="local-signage-messaging">Local Signage Mesaging</NuxtLinkLocale></li>
+			<li><NuxtLinkLocale to="content-network-management">Content Network Management</NuxtLinkLocale></li>
+			<li><NuxtLinkLocale to="global-programmatic-ssp">Global Programmatic SSP</NuxtLinkLocale></li>
+			<li><NuxtLinkLocale to="static-campaigns">Static Campaigns</NuxtLinkLocale></li>
 		</ul>
 	</header>
 	<NuxtPage />

@@ -1,0 +1,433 @@
+{
+	"en": {
+		"seo": {
+			"title": "Static Campaigns and Management",
+			"description": "Sell campaigns faster, keep your teams in sync, and stay on top of creative requests with the only end-to-end solution for static OOH."
+		},
+		"hero": {
+			"overtitle": "Static Campaigns Management",
+			"title": "A more modern approach to static OOH",
+			"blurb": "Sell campaigns faster, keep your teams in sync, and stay on top of creative requests with the only end-to-end solution built specifically for static out-of-home.",
+			"ctaBookCall": "Book a call",
+			"ctaDemo": "Request a demo",
+			"ctaPricing": "See our plans"
+		},
+		"logos": {
+			"title": "Used by leading OOH networks around the globe"
+		},
+		"features": {
+			"charting_scheduling": {
+				"overtitle": "Charting & scheduling",
+				"title": "Streamlined planning tools for faster campaign delivery",
+				"par": "Book a campaign in minutes instead of days. Without the need for back and forth between sales and operations, your team can book deals faster. Real-time inventory availability showing site and panel information, helps you plan and sellcampaigns more efficiently. Schedule campaigns, manage or update sales contracts, and view or update bookings and postings all in one place."
+			},
+			"operations_work_order_management": {
+				"overtitle": "Operations & work order management",
+				"title": "Greater visibility into day-to-day operations",
+				"par": "No more juggling spreadsheets or misplacing crucial data. Our end-to-end OOH operations solution enables customized workflows while centralizing asset descriptions, photosheets, and other data relating to your static boards and panels. Keep your teams in sync with real-time work order status and stock levels, and put the information in the palms of their hands with our mobile app."
+			},
+			"copy_management": {
+				"overtitle": "Creative management",
+				"title": "Effective management of design activities",
+				"par": "Easily manage and track the details of your poster stock, warehouse activities, and posting companies. You can even manage your creatives, update designs on the fly, and quickly request approvals. With visibility at every step of the process, you can ensure that the correct content is posted to the correct asset.",
+				"cta": "Learn more"
+			},
+			"reporting_pop": {
+				"overtitle": "Reporting & Proof-of-Performance",
+				"title": "Transparency, credibility, and insights",
+				"par": "Access valuable campaign and financial insights across advertiser, screen, and network levels, empowering you to make data-driven decisions with confidence. And with our mobile app, capturing images for proof-of-performance (POP) is easier than ever. All data seamlessly feeds into our PoP website, allowing advertisers and agencies to stay updated on posting status."
+			}
+		},
+		"faq": {
+			"title": "FAQs",
+			"list": [
+				{
+					"id": "faq_static_operations_1",
+					"q": "Is it possible for me to look up specific inventory and verify availability?",
+					"a": "Yes! Our solution enables real-time inventory availability, which means you can check any and all of your inventory to see whether it’s booked, partially available, or available, all in just a few clicks."
+				},
+				{
+					"id": "faq_static_operations_2",
+					"q": "Do I have to manually create the work orders for a bill poster to post my campaign?",
+					"a": "No, as soon as a design is linked to a face, the work order is created and can be printed. Another option is to give access to work orders directly in the web application for billposters or even through our mobile app, which they can use to send proof of posting directly."
+				},
+				{
+					"id": "faq_static_operations_3",
+					"q": "Is it possible to keep track of maintenance issues or problems with my assets?",
+					"a": "Absolutely! You can easily put an asset as temporarily active or assign a maintenance order in case of smaller issues, like a broken light. These items can also be logged by billposters using our mobile app."
+				},
+				{
+					"id": "faq_static_operations_4",
+					"q": "Can I easily keep track of the designs I have ordered and where they are?",
+					"a": "Yes, we have an extensive system that allows you to keep track of designs you have ordered, which warehouses they're in, and how many are posted. You can also view how many need to be posted for a specific campaign to make sure you've ordered or delivered the right amount at each warehouse. "
+				},
+				{
+					"id": "faq_static_operations_5",
+					"q": "Is it possible to share proof of performance with my clients?",
+					"a": "Yes, our platform has a tool that allows your customers to view posting pictures of your choosing. This removes the need to send posting proofs for each campaign manually."
+				},
+				{
+					"id": "faq_static_operations_6",
+					"q": "Is the static campaigns solution integrated with Salesforce or other CRMs?",
+					"a": "Yes, through our API, it’s possible to build custom integrations to feed information to the tools you know and love."
+				},
+				{
+					"id": "faq_static_operations_7",
+					"q": "What kind of reporting capabilities are available?",
+					"a": "Our solution gives everyone in the business access to insightful reporting and analytics, both out of the box and via API, for you to use data in your decision-making. We also have reporting capabilities that can help remove a lot of manual calculations such as separating the media costs from the production costs - tasks that not only take time, but are often managed by different people."
+				}
+			]
+		},
+		"shin": {
+			"title": "Discover what we can do for your network",
+			"par": "Get in touch with us and a member of our team will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+			"ctaBookCall": "Book a call",
+			"ctaDemo": "Request a demo",
+			"ctaPricing": "See our plans"
+		},
+		"bookACall": { "title": "Book a call" }
+	},
+	"fr": {
+		"seo": {
+			"title": "Campagnes et gestion statiques",
+			"description": "Vendez des campagnes plus rapidement, synchronisez vos équipeset restez au fait des demandes créatives grâce à la seule solution de bout en bout pour l'affichage extérieur statique."
+		},
+		"hero": {
+			"overtitle": "Gestion de campagnes statiques",
+			"title": "Une approche plus moderne au OOH statique",
+			"blurb": "Vendez des campagnes plus rapidement, synchronisez vos équipes et restez au fait des demandes créatives grâce à la seule solution complète conçue spécifiquement pour l'affichage extérieur statique.",
+			"ctaBookCall": "Réservez un appel",
+			"ctaDemo": "Demander une démo",
+			"ctaPricing": "Découvrir nos forfaits"
+		},
+		"logos": {
+			"title": "Utilisée par les principaux réseaux d'affichage extérieur du monde entier"
+		},
+		"features": {
+			"charting_scheduling": {
+				"overtitle": "Planification et contrats",
+				"title": "Outils de planification simplifiés pour une diffusion plus rapide des campagnes",
+				"par": "Réservez une campagne en quelques minutes au lieu de jours. Sans besoin d'allers-retours entre les ventes et les opérations, votre équipe peut conclure des affaires plus rapidement. La disponibilité en temps réel des stocks, y compris les informations sur les sites et les panneaux, vous aide à planifier et à vendre des campagnes plus efficacement. Programmez des campagnes, gérez ou mettez à jour les contrats de vente, et visualisez ou mettez à jour les réservations et les publications, le tout en un seul endroit."
+			},
+			"operations_work_order_management": {
+				"overtitle": "Gestion des opérations et des bons de travail",
+				"title": "Meilleure visibilité sur les opérations quotidiennes",
+				"par": "Plus besoin de jongler avec des feuilles de calcul et de risquer d'égarer des données cruciales. Notre solution de bout en bout pour les opérations d'OOH statique permet de personnaliser les flux de travail tout en centralisant les descriptions des actifs, et les autres données relatives à vos tableaux et panneaux statiques. Gardez vos équipes synchronisées avec le statut des bons de travail et les niveaux de stocks en temps réel, et faites en sorte qu'elles aient en main tous les renseignements requis grâce à notre application mobile."
+			},
+			"copy_management": {
+				"overtitle": "Gestion de créatifs",
+				"title": "Gestion efficace des activités de conception",
+				"par": "Gérez et suivez facilement les détails de votre stock d'affiches, des activités d'entreposage et des entreprises d'affichage. Vous pouvez également gérer les créatifs, mettre à jour les conceptions à la volée et demander rapidement des approbations. Avec une visibilité à chaque étape du processus, vous pouvez vous assurer que le contenu correct est publié sur le bon support.",
+				"cta": "En savoir plus"
+			},
+			"reporting_pop": {
+				"overtitle": "Rapports et preuve de performance ",
+				"title": "Transparence, crédibilité et données",
+				"par": "Accédez à des informations précieuses sur les campagnes et les finances à tous les niveaux, annonceur, écran et réseau, vous permettant de prendre des décisions basées sur les données en toute confiance. Et avec notre application mobile, capturer des images pour la preuve de performance (PoP) n'a jamais été aussi facile. Toutes les données alimentent de manière transparente notre site PoP, permettant aux annonceurs et aux agences de rester informés sur l'état de l'affichage."
+			}
+		},
+		"faq": {
+			"title": "FAQ",
+			"list": [
+				{
+					"id": "faq_static_operations_1",
+					"q": "Est-il possible pour moi de rechercher un inventaire spécifique et vérifier sa disponibilité ?",
+					"a": "Oui ! Notre solution permet une disponibilité en temps réel de l'inventaire, ce qui signifie que vous pouvez vérifier tout votre inventaire pour voir s'il est réservé, partiellement disponible ou disponible, le tout en quelques clics seulement."
+				},
+				{
+					"id": "faq_static_operations_2",
+					"q": "Dois-je créer manuellement les ordres de travail d'un afficheur pour publier ma campagne ?",
+					"a": "Non, dès qu'une image est liée à un visage, le bon de travail est créé et peut être imprimé. Une autre option consiste à donner accès aux ordres de travail directement dans l'application Web pour les afficheurs ou même via notre application mobile, qu'ils peuvent utiliser pour envoyer directement une preuve d'affichage."
+				},
+				{
+					"id": "faq_static_operations_3",
+					"q": "Est-il possible de garder une trace des problèmes de maintenance ou des problèmes avec mes affiches ?",
+					"a": "Absolument! Vous pouvez facilement mettre une affiche comme temporairement active ou attribuer un ordre de maintenance en cas de problèmes mineurs, comme une lumière cassée. Ces éléments peuvent également être enregistrés par les afficheurs à l'aide de notre application mobile."
+				},
+				{
+					"id": "faq_static_operations_4",
+					"q": "Puis-je facilement suivre les affiches que j'ai commandées et où ils se trouvent ?",
+					"a": "Oui, nous avons un système complet qui vous permet de garder une trace des images que vous avez commandées, dans quels entrepôts ils se trouvent et combien sont affichés. Vous pouvez également voir combien doivent être affichés pour une campagne spécifique pour vous assurer que vous avez commandé ou livré la bonne quantité dans chaque entrepôt."
+				},
+				{
+					"id": "faq_static_operations_5",
+					"q": "Est-il possible de partager une preuve de performance avec mes clients ?",
+					"a": "Oui, notre plateforme dispose d'un outil qui permet à vos clients de visualiser les photos de publication de votre choix. Cela retire la nécessité d'envoyer manuellement des preuves de publication pour chaque campagne."
+				},
+				{
+					"id": "faq_static_operations_6",
+					"q": "La solution de campagnes statiques est-elle intégrée à Salesforce ou à d'autres CRM ?",
+					"a": "Oui, grâce à notre API, il est possible de créer des intégrations personnalisées pour alimenter les informations dans les outils que vous connaissez et appréciez."
+				},
+				{
+					"id": "faq_static_operations_7",
+					"q": "Quelles sont les fonctionnalités de rapports de données disponibles ?",
+					"a": "Notre solution offre à tous dans l'entreprise un accès à des rapports et des analyses perspicaces, aussi bien prêts à l'emploi que via une API, pour vous permettre d'utiliser les données dans vos prises de décision. Nous avons également des capacités de reporting qui peuvent aider à éliminer bon nombre de calculs manuels, tels que la séparation des coûts média des coûts de production - des tâches qui prennent non seulement du temps, mais sont souvent gérées par différentes personnes."
+				}
+			]
+		},
+		"shin": {
+			"title": "Découvrez ce que nous pouvons faire pour votre réseau",
+			"par": "Contactez-nous et un membre de notre équipe vous contactera dans les plus brefs délais pour organiser un appel. Laissez-nous faire savoir s'il y a des questions dont vous aimeriez discuter.",
+			"ctaBookCall": "Réservez un appel",
+			"ctaDemo": "Demander une démo",
+			"ctaPricing": "Découvrir nos forfaits"
+		},
+		"bookACall": {
+			"title": "Réservez un appel"
+		}
+	},
+	"es": {
+		"seo": {
+			"title": "Campañas y administración estáticas",
+			"description": "Venda campañas más rápido, mantenga a sus equipos sincronizados y manténgase al tanto de las solicitudes creativas con la única solución integral para el OOH estático."
+		},
+		"hero": {
+			"overtitle": "Administración de campañas estáticas",
+			"title": "Un enfoque más moderno para el OOH estático",
+			"blurb": "Venda campañas más rápido, mantenga a sus equipos sincronizados y manténgase al tanto de las solicitudes creativas con la única solución integral construida específicamente para el OOH estático.",
+			"ctaBookCall": "Reservar una llamada",
+			"ctaDemo": "Solicite una demostración",
+			"ctaPricing": "Vea nuestros planes"
+		},
+		"logos": {
+			"title": "Utilizado por las principales redes OOH de todo el mundo"
+		},
+		"features": {
+			"charting_scheduling": {
+				"overtitle": "Gráficos y programación",
+				"title": "Herramientas de planificación optimizadas para una entrega de campañas más rápida",
+				"par": "Reserve una campaña en minutos en lugar de días. Sin la necesidad de idas y vueltas entre ventas y operaciones, su equipo puede cerrar acuerdos más rápidamente. La disponibilidad en tiempo real del inventario, incluida la información del sitio y el panel, le ayuda a planificar y vender campañas de manera más eficiente. Programe campañas, administre o actualice contratos de venta y vea o actualice reservaciones y publicaciones, todo en un solo lugar."
+			},
+			"operations_work_order_management": {
+				"overtitle": "Gestión de operaciones y órdenes del trabajo",
+				"title": "Mayor visibilidad de las operaciones diarias",
+				"par": "No más malabares con hojas de cálculo o pérdida de datos cruciales. Nuestra solución integral de operaciones OOH estático permite flujos de trabajo personalizados mientras centraliza descripciones de activos, hojas de fotos y otros datos relacionados con sus tableros y paneles estáticos. Mantenga a sus equipos sincronizados con el estado de las órdenes de trabajo y los niveles de existencias en tiempo real, y entregue la información en la palma de sus manos con nuestra aplicación móvil."
+			},
+			"copy_management": {
+				"overtitle": "Gestión de creativos",
+				"title": "Gestión eficaz de las actividades de diseño",
+				"par": "Administre y rastree fácilmente los detalles de su stock de paneles, actividades de depósito y empresas de publicación. Incluso puede administrar su contenido creativo, actualizar diseños sobre la marcha y solicitar aprobaciones rápidamente. Con visibilidad en cada paso del proceso, puede asegurarse de que el contenido correcto se publique en el activo correcto.",
+				"cta": "Más información"
+			},
+			"reporting_pop": {
+				"overtitle": "Informes y pruebas de rendimiento",
+				"title": "Transparencia, credibilidad e ideas",
+				"par": "Reciba información valiosa sobre las campañas y finanzas en todos los niveles, anunciante, pantalla y red, lo que le permite tomar decisiones basadas en datos con confianza. Y con nuestra aplicación móvil, capturar imágenes para la prueba de rendimiento (PoP) es más fácil que nunca. Todos los datos se alimentan de manera transparente en nuestro sitio web de PoP, lo que permite a anunciantes y agencias mantenerse actualizados sobre el estado de la publicación."
+			}
+		},
+		"faq": {
+			"title": "Preguntas frecuentes",
+			"list": [
+				{
+					"id": "faq_static_operations_1",
+					"q": "¿Es posible que yo busque un inventario específico y verifique su disponibilidad?",
+					"a": "¡Sí! Nuestra solución permite disponibilidad de inventario en tiempo real, lo que significa que puede verificar cualquier parte de su inventario para ver si está reservado, parcialmente disponible o disponible, todo con solo unos pocos clics."
+				},
+				{
+					"id": "faq_static_operations_2",
+					"q": "¿Tengo que crear manualmente las órdenes de trabajo para que un anunciante publique mi campaña?",
+					"a": "No, tan pronto como se vincula un diseño a un panel, se crea la orden de trabajo y se puede imprimir. Otra opción es dar acceso a las órdenes de trabajo directamente en la aplicación web para carteleros o incluso a través de nuestra aplicación móvil, que puede usar para enviar pruebas de publicación directamente."
+				},
+				{
+					"id": "faq_static_operations_3",
+					"q": "¿Es posible realizar un seguimiento de los problemas de mantenimiento o de los problemas con mis activos?",
+					"a": "¡Absolutamente! Puede poner fácilmente una unidad como activa temporalmente o asignar una orden de mantenimiento en caso de problemas menores, como una luz rota. Estos problemas también pueden ser registrados por los carteleros usando nuestra aplicación móvil."
+				},
+				{
+					"id": "faq_static_operations_4",
+					"q": "¿Puedo realizar fácilmente un seguimiento de los diseños que he pedido y dónde están?",
+					"a": "Sí, contamos con un amplio sistema que le permite realizar un seguimiento de los diseños que ha pedido, en qué almacenes se encuentran y cuántos están publicados. También puede ver cuántos deben publicarse para una campaña específica para asegurarse de haber pedido o entregado la cantidad correcta a cada almacén."
+				},
+				{
+					"id": "faq_static_operations_5",
+					"q": "¿Es posible compartir pruebas de rendimiento con mis clientes?",
+					"a": "¡Por supuesto! nuestra plataforma tiene una herramienta que permite a sus clientes ver las fotos de prueba que usted elige. Esto elimina la necesidad de enviar pruebas de publicación para cada campaña manualmente."
+				},
+				{
+					"id": "faq_static_operations_6",
+					"q": "¿La solución de campañas estáticas está integrada con Salesforce u otros CRMs?",
+					"a": "Sí, a través de nuestra API, es posible construir integraciones personalizadas para alimentar información a las herramientas que conozca y ame."
+				},
+				{
+					"id": "faq_static_operations_7",
+					"q": "¿Qué tipo de capacidades de informes están disponibles?",
+					"a": "Nuestra solución brinda a todos en el negocio acceso a informes y análisis perspicaces, tanto listos para usar como a través de una API, para que pueda utilizar datos en su toma de decisiones. También contamos con capacidades de informes que pueden ayudar a eliminar muchas de las operaciones manuales, como separar los costos de medios de los costos de producción, tareas que no solo llevan tiempo, sino que a menudo son gestionadas por diferentes personas."
+				}
+			]
+		},
+		"shin": {
+			"title": "Descubra lo que podemos hacer por su red",
+			"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+			"ctaBookCall": "Reservar una llamada",
+			"ctaDemo": "Solicite una demostración",
+			"ctaPricing": "Vea nuestros planes"
+		},
+		"bookACall": { "title": "Reservar una llamada" }
+	},
+	"de": {
+		"seo": {
+			"title": "Statische Kampagnen und Verwaltung",
+			"description": "Verkaufen Sie Kampagnen schneller, sorgen Sie für Abstimmung unter Ihren Teams und bleiben Sie mit der einzigen End-to-End-Lösung für statisches OOH stets auf dem neuesten Stand, was Kampagnenanfragen angeht."
+		},
+		"hero": {
+			"overtitle": "Verwaltung statischer Kampagnen",
+			"title": "Ein modernerer Ansatz für statisches OOH",
+			"blurb": "Verkaufen Sie Kampagnen schneller, sorgen Sie für Abstimmung unter Ihren Teams und bleiben Sie mit der einzigen end-to-end Lösung, die speziell für statisches Out-of-Home entwickelt wurde.",
+			"ctaBookCall": "Büchen Sie einen Anruf",
+			"ctaDemo": "Demo anfordern",
+			"ctaPricing": "Unsere Angebote anzeigen"
+		},
+		"logos": {
+			"title": "Die größten OOH-Netzwerke der Welt vertrauen uns"
+		},
+		"features": {
+			"charting_scheduling": {
+				"overtitle": "Diagrammerstellung und zeitliche Planung",
+				"title": "Optimierte Planungstools für schnellere Kampagnenbereitstellung",
+				"par": "Buchen Sie eine Kampagne in Minuten statt Tagen. Ohne lästiges Hin und Her zwischen Verkauf und Betrieb kann Ihr Team Deals schneller abschließen. Die Echtzeit-Verfügbarkeit des Inventars, einschließlich Standort- und Panelinformationen, hilft Ihnen, Kampagnen effizienter zu planen und zu verkaufen. Zeitliche Planung von Kampagnen, Verwaltung und Aktualisierung von Verkaufsverträgen und Anzeige oder Aktualisierung von Buchungen und Postings – alles an einem Ort."
+			},
+			"operations_work_order_management": {
+				"overtitle": "Verwaltung von Betrieb und Arbeitsaufträgen",
+				"title": "Größere Transparenz des täglichen Betriebs",
+				"par": "Kein Stress durch Arbeitsblätter oder fehlende wichtige Daten. Unsere End-to-End-Lösung für den OOH-Betrieb ermöglicht benutzerdefinierte Arbeitsabläufe bei gleichzeitiger Zentralisierung von Asset-Beschreibungen, Photosheets und anderen Daten, die sich auf Ihre statischen Tafeln und Bereiche beziehen. Sorgen Sie mit dem Echtzeitstatus von Arbeitsaufträgen und Lagerbeständen für Abstimmung unter Ihren Teams und geben Sie diese Information über unsere mobile App in ihre Hände."
+			},
+			"copy_management": {
+				"overtitle": "Verwaltung von Kreativen",
+				"title": "Wirksame Verwaltung von Designaktivitäten",
+				"par": "Sorgen Sie für eine leichte Verwaltung und Nachverfolgung der Details Ihres Plakatbestands, von Lageraktivitäten und Lieferanten. Sie können sogar Ihre Werbematerialien verwalten, Designs im Handumdrehen aktualisieren und umgehend Genehmigungen anfragen. Mit Sichtbarkeit bei jedem Schritt des Prozesses können Sie sicherstellen, dass der richtige Inhalt auf das richtige Asset gepostet wird.",
+				"cta": "Mehr erfahren"
+			},
+			"reporting_pop": {
+				"overtitle": "Berichterstattung & Leistungsnachweis",
+				"title": "Transparenz, Glaubwürdigkeit und Einblicke",
+				"par": "Zugriff auf wertvolle Kampagnen- und Finanzeinblicke auf Werbetreibenden-, Bildschirm- und Netzwerkebene, um fundierte Entscheidungen mit Zuversicht zu treffen. Und mit unserer mobilen App ist das Erfassen von Bildern für den Leistungsnachweis (PoP) einfacher denn je. Alle Daten fließen nahtlos in unsere PoP-Website ein, sodass Werbetreibende und Agenturen stets über den Veröffentlichungsstatus informiert bleiben."
+			}
+		},
+		"faq": {
+			"title": "Häufig gestellte Fragen",
+			"list": [
+				{
+					"id": "faq_static_operations_1",
+					"q": "Ist es möglich, dass ich spezifische Bestände suche und die Verfügbarkeit überprüfe?",
+					"a": "Ja! Unsere Lösung ermöglicht die Echtzeit-Verfügbarkeit von Beständen. Das bedeutet, dass Sie Ihr gesamtes Inventar überprüfen können, um zu sehen, ob es gebucht, teilweise verfügbar oder verfügbar ist - alles mit nur wenigen Klicks."
+				},
+				{
+					"id": "faq_static_operations_2",
+					"q": "Muss ich die Arbeitsaufträge für einen Plakatierer manuell erstellen, um meine Kampagne zu veröffentlichen?",
+					"a": "Nein, sobald ein Design mit einem Gesicht verknüpft ist, ist der Arbeitsauftrag erstellt und kann gedruckt werden. Eine weitere Option ist der Zugriff auf Arbeitsaufträge direkt in der Webanwendung für Plakatierer oder sogar über unsere mobile App, mit der sie direkt einen Einlieferungsnachweis senden können."
+				},
+				{
+					"id": "faq_static_operations_3",
+					"q": "Ist es möglich, Wartungsprobleme oder Probleme mit meinen Assets zu verfolgen?",
+					"a": "Absolut! Sie können eine Anlage ganz einfach vorübergehend aktiv setzen oder bei kleineren Problemen, wie z. B. einem kaputten Licht, einen Wartungsauftrag zuweisen. Diese Artikel können auch von Plakatierern mit unserer mobilen App erfasst werden."
+				},
+				{
+					"id": "faq_static_operations_4",
+					"q": "Kann ich leicht verfolgen, welche Designs ich bestellt habe und wo sie sich befinden?",
+					"a": "Ja, wir haben ein umfangreiches System, mit dem Sie die von Ihnen bestellten Designs verfolgen können, in welchen Lagerhäusern sie sich befinden und wie viele versendet wurden. Sie können auch anzeigen, wie viele für eine bestimmte Kampagne gebucht werden müssen, um sicherzustellen, dass Sie in jedem Lager die richtige Menge bestellt oder geliefert haben."
+				},
+				{
+					"id": "faq_static_operations_5",
+					"q": "Ist es möglich, Leistungsnachweise mit meinen Kunden zu teilen?",
+					"a": "Ja, unsere Plattform verfügt über ein Tool, mit dem Ihre Kunden Posting-Bilder Ihrer Wahl anzeigen können. Dadurch entfällt das manuelle Versenden von Einlieferungsnachweisen für jede Kampagne."
+				},
+				{
+					"id": "faq_static_operations_6",
+					"q": "Ist die Lösung für statische Kampagnen mit Salesforce oder anderen CRMs integriert?",
+					"a": "Ja, durch unsere API ist es möglich, benutzerdefinierte Integrationen zu erstellen, um Informationen in die Tools einzuspeisen, die Sie kennen und schätzen."
+				},
+				{
+					"id": "faq_static_operations_7",
+					"q": "Welche Art von Reporting-Funktionen stehen zur Verfügung?",
+					"a": "Unsere Lösung bietet allen im Unternehmen Zugriff auf aussagekräftige Berichte und Analysen, sowohl standardmäßig als auch über API, damit Sie Daten in Ihrer Entscheidungsfindung nutzen können. Wir verfügen auch über Reporting-Funktionen, die viele manuelle Berechnungen erleichtern können, wie z.B. die Trennung der Medienkosten von den Produktionskosten - Aufgaben, die nicht nur Zeit in Anspruch nehmen, sondern oft von verschiedenen Personen verwaltet werden."
+				}
+			]
+		},
+		"shin": {
+			"title": "Entdecken Sie, was wir für Ihr Netzwerk tun können",
+			"par": "Setzen Sie sich mit uns in Verbindung und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Bitte lassen Sie uns wissen, wenn Sie Fragen haben, die Sie gerne besprechen möchten.",
+			"ctaBookCall": "Büchen Sie einen Anruf",
+			"ctaDemo": "Demo anfordern",
+			"ctaPricing": "Unsere Angebote anzeigen"
+		},
+		"bookACall": {
+			"title": "Büchen Sie einen Anruf"
+		}
+	},
+	"jp": {
+		"seo": {
+			"title": "従来のキャンペーンと管理",
+			"description": "キャンペーンをよりはやく販売し、従来のOOHのための唯一の包括的なソリューションを活用し、チーム内で共有、クリエイティブの要件を常に把握できます。."
+		},
+		"hero": {
+			"overtitle": "静的キャンペーンの管理",
+			"title": "静的OOHに対するより現代的なアプローチ",
+			"blurb": "キャンペーンをより迅速に売り込み、チームを同期させ、静的な屋外広告に特化した唯一のエンドツーエンドソリューションでクリエイティブリクエストを常に把握しましょう。",
+			"ctaBookCall": "問い合わせる",
+			"ctaDemo": "デモを予約する",
+			"ctaPricing": "機能を知る"
+		},
+		"logos": {
+			"title": "多くのお客様にご利用いただいております。"
+		},
+		"features": {
+			"charting_scheduling": {
+				"overtitle": "チャート作成とスケジュール設定",
+				"title": "迅速なキャンペーン配信のための合理化されたスケジューリングツール",
+				"par": "リアルタイムの在庫状況表示により、広告の配信と作成を効率化します。1つの場所で、キャンペーン設定、販売契約の運用や更新、配信予約や掲載の確認を行うことができます。"
+			},
+			"operations_work_order_management": {
+				"overtitle": "運用と作業指示管理",
+				"title": "日々の業務を可視化する",
+				"par": "スプレッドシートを行ったり来たりしたり、重要なデータを間違えてしまうことはもうありません。当社のOOHの運用ソリューションが、従来のOOHに関連したアセットや画像、そのほかのデータを集約しながらも、ワークフローのカスタマイズを可能にします。チームがリアルタイムで注文ステータスと在庫状況を同期し、モバイルアプリから情報を入力することも可能です。"
+			},
+			"copy_management": {
+				"overtitle": "コピー管理",
+				"title": "クリエイティブに関する作業プロセスの効果的な管理",
+				"par": "ポスター在庫、倉庫、ポスティング会社の活動を簡単に管理、追跡できます。さらにはクリエイティブを管理したり、その場でデザインしたり、素早く承認を依頼することもできます。",
+				"cta": "さらに詳しく"
+			},
+			"reporting_pop": {
+				"overtitle": "レポーティング＆パフォーマンス証明",
+				"title": "透明性、信頼性、洞察力",
+				"par": "広告主、画面、ネットワークの各レベルで貴重なキャンペーンおよび財務の洞察にアクセスし、自信を持ってデータに基づく意思決定ができます。そして、当社のモバイルアプリを使用すれば、パフォーマンスの証明（POP）のための画像のキャプチャがこれまで以上に簡単です。すべてのデータはシームレスにPoPウェブサイトに組み込まれ、広告主とエージェンシーは掲示状況を常に更新できます。"
+			}
+		},
+		"faq": {
+			"title": "FAQ",
+			"list": [
+				{
+					"id": "faq_static_operations_1",
+					"q": "キャンペーンを投稿するために、請求書を手動で作成する必要がありますか？",
+					"a": "必要はありません。デザインが顔にリンクされるとすぐに、作業指示が作成され、印刷可能になります。別のオプションとしては、Webアプリケーションまたはモバイルアプリを介して直接作業注文にアクセスできるようにすることです。これは、投稿の証明するために使用できます。"
+				},
+				{
+					"id": "faq_static_operations_2",
+					"q": "メンテナンスの問題や私のアセットの問題をトラックすることは可能ですか？",
+					"a": "可能です。問題が小さい場合に一時的にアクティブとしてアセットを簡単に配置したり、メンテナンスの注文を割り当てることができます。これらのアイテムは、モバイルアプリを使用してログに記録することもできます。"
+				},
+				{
+					"id": "faq_static_operations_3",
+					"q": "どこにポストされたか簡単に追跡できますか？",
+					"a": "はい可能です。キャンペーンを広範囲にトラックできるシステムがあります。また、適切なポストしたことを確認するために、特定のキャンペーンのためにポストする必要数を表示することもできます。"
+				},
+				{
+					"id": "faq_static_operations_4",
+					"q": "パフォーマンスの効果をクライアントと共有することは可能ですか？",
+					"a": "はい、当社のプラットフォームには、お客様が選択した写真を投稿できるツールがあります。これにより、各キャンペーンのポストの証明を手動で送信する必要がなくなります。"
+				}
+			]
+		},
+		"shin": {
+			"title": "お客様のネットワークに提供できるもの",
+			"par": "ぜひお気軽にお問い合わせください。チームよりすみやかにお電話での相談予約についてご連絡させていただきます。ご質問があればぜひお知らせください。",
+			"ctaBookCall": "電話の予約",
+			"ctaDemo": "デモを予約する",
+			"ctaPricing": "プランを見る"
+		},
+		"bookACall": {
+			"title": "電話の予約"
+		}
+	}
+}
