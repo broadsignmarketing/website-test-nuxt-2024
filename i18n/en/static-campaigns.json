@@ -1,0 +1,88 @@
+{
+	"seo": {
+		"title": "Static Campaigns and Management",
+		"description": "Sell campaigns faster, keep your teams in sync, and stay on top of creative requests with the only end-to-end solution for static OOH."
+	},
+	"hero": {
+		"overtitle": "Static Campaigns Management",
+		"title": "A more modern approach to static OOH",
+		"blurb": "Sell campaigns faster, keep your teams in sync, and stay on top of creative requests with the only end-to-end solution built specifically for static out-of-home.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"logos": {
+		"title": "Used by leading OOH networks around the globe"
+	},
+	"features": {
+		"charting_scheduling": {
+			"overtitle": "Charting & scheduling",
+			"title": "Streamlined planning tools for faster campaign delivery",
+			"par": "Book a campaign in minutes instead of days. Without the need for back and forth between sales and operations, your team can book deals faster. Real-time inventory availability showing site and panel information, helps you plan and sellcampaigns more efficiently. Schedule campaigns, manage or update sales contracts, and view or update bookings and postings all in one place."
+		},
+		"operations_work_order_management": {
+			"overtitle": "Operations & work order management",
+			"title": "Greater visibility into day-to-day operations",
+			"par": "No more juggling spreadsheets or misplacing crucial data. Our end-to-end OOH operations solution enables customized workflows while centralizing asset descriptions, photosheets, and other data relating to your static boards and panels. Keep your teams in sync with real-time work order status and stock levels, and put the information in the palms of their hands with our mobile app."
+		},
+		"copy_management": {
+			"overtitle": "Creative management",
+			"title": "Effective management of design activities",
+			"par": "Easily manage and track the details of your poster stock, warehouse activities, and posting companies. You can even manage your creatives, update designs on the fly, and quickly request approvals. With visibility at every step of the process, you can ensure that the correct content is posted to the correct asset.",
+			"cta": "Learn more"
+		},
+		"reporting_pop": {
+			"overtitle": "Reporting & Proof-of-Performance",
+			"title": "Transparency, credibility, and insights",
+			"par": "Access valuable campaign and financial insights across advertiser, screen, and network levels, empowering you to make data-driven decisions with confidence. And with our mobile app, capturing images for proof-of-performance (POP) is easier than ever. All data seamlessly feeds into our PoP website, allowing advertisers and agencies to stay updated on posting status."
+		}
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_static_operations_1",
+				"q": "Is it possible for me to look up specific inventory and verify availability?",
+				"a": "Yes! Our solution enables real-time inventory availability, which means you can check any and all of your inventory to see whether it’s booked, partially available, or available, all in just a few clicks."
+			},
+			{
+				"id": "faq_static_operations_2",
+				"q": "Do I have to manually create the work orders for a bill poster to post my campaign?",
+				"a": "No, as soon as a design is linked to a face, the work order is created and can be printed. Another option is to give access to work orders directly in the web application for billposters or even through our mobile app, which they can use to send proof of posting directly."
+			},
+			{
+				"id": "faq_static_operations_3",
+				"q": "Is it possible to keep track of maintenance issues or problems with my assets?",
+				"a": "Absolutely! You can easily put an asset as temporarily active or assign a maintenance order in case of smaller issues, like a broken light. These items can also be logged by billposters using our mobile app."
+			},
+			{
+				"id": "faq_static_operations_4",
+				"q": "Can I easily keep track of the designs I have ordered and where they are?",
+				"a": "Yes, we have an extensive system that allows you to keep track of designs you have ordered, which warehouses they're in, and how many are posted. You can also view how many need to be posted for a specific campaign to make sure you've ordered or delivered the right amount at each warehouse. "
+			},
+			{
+				"id": "faq_static_operations_5",
+				"q": "Is it possible to share proof of performance with my clients?",
+				"a": "Yes, our platform has a tool that allows your customers to view posting pictures of your choosing. This removes the need to send posting proofs for each campaign manually."
+			},
+			{
+				"id": "faq_static_operations_6",
+				"q": "Is the static campaigns solution integrated with Salesforce or other CRMs?",
+				"a": "Yes, through our API, it’s possible to build custom integrations to feed information to the tools you know and love."
+			},
+			{
+				"id": "faq_static_operations_7",
+				"q": "What kind of reporting capabilities are available?",
+				"a": "Our solution gives everyone in the business access to insightful reporting and analytics, both out of the box and via API, for you to use data in your decision-making. We also have reporting capabilities that can help remove a lot of manual calculations such as separating the media costs from the production costs - tasks that not only take time, but are often managed by different people."
+			}
+		]
+	},
+	"shin": {
+		"title": "Discover what we can do for your network",
+		"par": "Get in touch with us and a member of our team will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"bookACall": { "title": "Book a call" }
+}

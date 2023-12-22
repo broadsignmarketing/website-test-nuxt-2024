@@ -1,0 +1,111 @@
+{
+	"seo": {
+		"title": "Global Programmatic SSP",
+		"description": "Unsere angebotsseitige Plattform (Supply-Side Plattform, SSP) hilft Out-of-Home-Medieninhabern beim Verkauf ihres Inventars an programmatische Medienkäufer in aller Welt."
+	},
+	"hero": {
+		"overtitle": "Globale programmatische SSP",
+		"title": "Mit der SSP für Out-of-Home zusätzliche Einnahmen generieren",
+		"blurb": "Unsere angebotsseitige Plattform (Supply-Side Plattform, SSP) hilft Out-of-Home-Medieninhabern beim Verkauf ihres Inventars an programmatische Medienkäufer in aller Welt.",
+		"ctaBookCall": "Büchen Sie einen Anruf",
+		"ctaDemo": "Demo anfordern",
+		"ctaPricing": "Unsere Angebote anzeigen"
+	},
+	"logos": {
+		"title": "Für programmatischen Erfolg führender DOOH-Netzwerke in aller Welt"
+	},
+	"features": {
+		"programmatic_ssp": {
+			"overtitle": "Programmatische SSP",
+			"title": "Mehr verkaufen durch programmatischen Verkauf",
+			"par": "Ergänzen Sie Ihren direkten Verkauf durch ein programmatisches Angebot in Echtzeit, das sich aus von Ihnen genehmigten globalen Käufern und Anzeigen zusammensetzt."
+		},
+		"detailed_campaign_reporting": {
+			"overtitle": "Detaillierte Kampagnenberichterstellung",
+			"title": "Umfassende Einblicke in die programmatische Leistung Ihres Netzwerks",
+			"par": "Analysieren und erweitern Sie Ihre programmatischen Verkäufe auf effektivere Weise durch detailliertes Inventar, Floor CPM und Gebotsinformationen zu jedem Geschäftsabschluss, über den Ihr Netzwerk eine Transaktion durchführt."
+		},
+		"programmatic_header_bidder": {
+			"overtitle": "Programmatischer Header Bidder",
+			"title": "Generieren Sie noch mehr Nachfrage durch den Broadsign Header Bidder",
+			"par": "Konsolidieren Sie Ihre gesamte programmatische Nachfrage in einem einzigen Slot mit einer Header Bidding-Lösung, bei der das beste Geschäft erfolgreich ist, egal aus welcher SSP es stammt.",
+			"cta": "Mehr erfahren"
+		},
+		"global_programmatic_network": {
+			"overtitle": "Globales programmatisches Netzwerk",
+			"title": "Ihr Netzwerk für die größten Medienkäufe öffnen",
+			"par": "Ihre Bildschirme sind genau das, wonach Medienkäufer suchen. Indem Sie sie zu unseren SSP-Listen hinzufügen, erweitern Sie die Reichweite Ihres Inventars und Sie kommen für große Anzeigenkampagnen in Frage, die viele verschiedene Medieninhaber in aller Welt umfassen."
+		}
+	},
+	"dsp_partners": {
+		"title": "Die SSP, die Sie mit den meisten Nachfragequellen verbindet",
+		"par": "Die Broadsign-SSP ist mit mehr DSP-Partnern verbunden als jede andere Out-of-Home-SSP. Vernetzen Sie Ihr Inventar, um Ihre Bildschirme für Käufer in mehr als 30 der weltweit größten DSPs zugänglich zu machen.",
+		"cta": "Die vollständige Liste unserer DSP-Partner anzeigen"
+	},
+	"customers": {
+		"title": "Más de X líderes DOOH programáticos en todo el mundo confían en nosotros",
+		"testimonials": [
+			{
+				"id": "",
+				"quote": ""
+			},
+			{
+				"id": "",
+				"quote": ""
+			}
+		]
+	},
+	"faq": {
+		"title": "Häufig gestellte Fragen",
+		"list": [
+			{
+				"id": "faq_global_programmatic_ssp_1",
+				"q": "Mit wie vielen DSPs sind Sie verbunden?",
+				"a": "Broadsign SSP ist über automatisierte API-Integrationen mit mehr als 30 DSPs verbunden. Diese Zahl steigt ständig und wir sind immer für eine Kooperation mit neuen DSPs offen."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_2",
+				"q": "Unterstützt die Broadsign-SSP auch PMPs?",
+				"a": "Definitiv.  PMPs sind über unsere Plattform unglaublich flexibel und erlauben Ihnen, ganz nach Ihren Bedürfnissen, einen bestimmten Werbetreibenden oder viele Nachfragequellen anzuvisieren."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_3",
+				"q": "Unterstützt die Broadsign-SSP auch Open Exchange?",
+				"a": "Definitiv.  Solange Ihre Bildschirminformationen durch Preise aktualisiert werden, steht Ihr Inventar allen DSPs zur Verfügung, die Open Exchange unterstützen."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_4",
+				"q": "Wie verbinde ich mich mit der Broadsign-SSP?",
+				"a": "Bestehende Broadsign-Kunden können sich auf die native Integration zwischen unserer Lösung für Content- und Netzwerkmanagement und unserer SSP verlassen.  Es gibt auch noch andere Integrationsmethoden, die für Netzwerke verwendet werden, die auf anderen Plattformen ausgeführt werden."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_5",
+				"q": "Wieviel Geld kann ich von der Broadsign-SSP erwarten?",
+				"a": "Programmatische Einnahmen können sehr unterschiedlich sein und hängen von einer großen Anzahl von Variablen ab. Kontaktieren Sie unser Vertriebsteam, das mit Ihnen zusammenarbeiten wird, um eine Einschätzung der potentiellen Einnahmen für Ihr Netzwerk vorzunehmen."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_6",
+				"q": "Bietet Broadsign einen Header Bidder?",
+				"a": "Der Broadsign Reach Header Bidder steht in der Tat unseren mit mehreren SSPs verbundenen Kunden zur Verfügung.  Dies erlaubt Anbietern eine Konsolidierung ihrer programmatischen Planung in einem einzigen Slot, was den Wert ihres Inventars steigert.  Weitere Informationen finden Sie in diesem <a href='https://broadsign.com/blog/discover-broadsign-reach-header-bidder-the-smarter-way-to-work-with-multiple-programmatic-partners' target='_blank'>Blog-Beitrag</a>."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_7",
+				"q": "Wie viele Agenturen/Marken führen Transaktionen auf der Broadsign-SSP durch?",
+				"a": "Über eintausend Werbetreibende nutzen die Broadsign-SSP, um ihre Nachrichten auf Bildschirme in aller Welt zu bringen."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_8",
+				"q": "Was sind die Vorteile des programmatischen Vertriebs gegenüber Direktvertrieb?",
+				"a": "Beim programmatischen Vertrieb geht es um Automatisierung.  Er sollte Ihren Direktvertrieb zwar nicht ersetzen, aber er bietet Tools zur Ergänzung dieses Vertriebs durch automatisierte Auktionen für weiteres verfügbares Inventar.  In Kombination mit Full-Stack-Broadsign-Funktionen wie Markensicherheit und unterbrechbare Kampagnen können Sie mit Broadsign Reach auf sichere und zuverlässige Weise neue Einnahmequellen eröffnen."
+			}
+		]
+	},
+	"shin": {
+		"title": "Entdecken Sie, was wir für Ihr Netzwerk tun können",
+		"par": "Setzen Sie sich mit uns in Verbindung und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Bitte lassen Sie uns wissen, wenn Sie Fragen haben, die Sie gerne besprechen möchten.",
+		"ctaBookCall": "Büchen Sie einen Anruf",
+		"ctaDemo": "Demo anfordern",
+		"ctaPricing": "Unsere Angebote anzeigen"
+	},
+	"bookACall": { "title": "Büchen Sie einen Anruf" }
+}

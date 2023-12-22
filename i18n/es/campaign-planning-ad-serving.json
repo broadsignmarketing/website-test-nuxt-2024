@@ -1,0 +1,133 @@
+{
+	"seo": {
+		"title": "Planificación de campañas y difusión de anuncios",
+		"description": "Aproveche el poder de la disponibilidad de inventario en tiempo real y programe de manera instantánea campañas digitales OOH programadas de manera flexible y entregadas dinámicamente."
+	},
+	"hero": {
+		"overtitle": "Planificación de campañas y difusión de anuncios",
+		"title": "Genere más ingresos con las herramientas de campaña más avanzadas para OOH",
+		"blurb": "Aproveche el poder de la disponibilidad de inventario en tiempo real y programe de manera instantánea campañas digitales OOH programadas de manera flexible y entregadas dinámicamente..",
+		"ctaBookCall": "Reservar una llamada",
+		"ctaDemo": "Solicite una demostración",
+		"ctaPricing": "Vea nuestros planes"
+	},
+	"logos": {
+		"title": "Utilizado por las más grandes redes OOH de todo el mundo"
+	},
+	"features": {
+		"inventory": {
+			"overtitle": "Disponibilidad del inventario en tiempo real",
+			"title": "Inventario seguro con datos en tiempo real",
+			"par": "¿Quiere dejar de depender de correos electrónicos y llamadas de ida y vuelta para negociar y cerrar un trato? Con el acceso a su inventario en tiempo real, puede asegurarse el mejor espacio publicitario disponible para realizar o programar una campaña OOH y cerrar acuerdos más rápido."
+		},
+		"flexibility": {
+			"overtitle": "Tipos de campaña flexibles",
+			"title": "Programe campañas con la máxima flexibilidad",
+			"par": "Limitar su estrategia de ventas a un solo tipo de campaña puede limitar nuevas oportunidades comerciales. Equipe a sus planificadores de medios con tipos de campañas flexibles para adaptarse a los objetivos de los anunciantes, abordar las cambiantes demandas del mercado y hacer más tratos con su inventario existente.",
+			"cta": "Más información"
+		},
+		"reallocation": {
+			"overtitle": "Reasignación de campaña",
+			"title": "Dígale sí a las campañas entrantes, sin importar cuán complejas sean",
+			"par": "Cuando una nueva gran oferta no se ajusta a su programación actual, no debería tener que decir que no... o hacer una compleja jugada de Tetris para tratar de aprovecharla. Optimice el rendimiento de su red con una redistribución automatizada de campañas tan inteligente que sería imposible hacerlo a mano, todo con un solo clic.",
+			"cta": "Más información"
+		},
+		"rebalancing": {
+			"overtitle": "Reequilibrio de campaña",
+			"title": "Mantenga las campañas bien encaminadas",
+			"par": "No entregue menos ni entregue de más, simplemente entregue. Asegúrese de que los objetivos de la campaña se cumplan con un reequilibrio y ritmo inteligentes que ajusten de manera automática la frecuencia de la entrega de la campaña para que sus clientes siempre obtengan lo que pagaron, y solo eso."
+		},
+		"campaigns": {
+			"subtitle": "Tipos de campaña que se ofrecen:",
+			"types": ["Share of voice (cuota de voz)", "Impresiones", "Presupuesto", "Plays", "Frecuencia", "Takeover"]
+		},
+		"comingSoon": "Próximamente"
+	},
+	"ad_server": {
+		"new": "¡Nuevo!",
+		"overtitle": "Servidor de anuncios (Ad Server) OOH de última generación",
+		"title": "Planifique campañas basadas en la audiencia con herramientas de segmentación sofisticadas",
+		"par": "Obtenga campañas más granulares y planificadas en función del público específico y los requisitos de segmentación, como datos demográficos, la ubicación, los puntos de interés, el clima y más, y observe cómo sus campañas programadas se reproducen en tiempo real."
+	},
+	"lattice": {
+		"title": "Ofrezca a los anunciantes más de lo que quieren sin crear agujeros en su inventario",
+		"par": "Mejore su estrategia de ventas directas con la flexibilidad añadida de las campañas basadas en el público para complementar las campañas basadas en la frecuencia o puntuales.",
+		"boxes": [
+			{
+				"icon": "screen",
+				"title": "Cumpla con las necesidades de segmentación del comprador omnicanal actual",
+				"par": "No espere a que los compradores le pidan campañas basadas en el público para equipar su red con las herramientas de segmentación necesarias. Obtenga acceso a nuevas maneras de vender campañas hoy y aproveche la experiencia de su equipo de ventas directas para asegurar el dinero publicitario de los compradores omnicanal."
+			},
+			{
+				"icon": "people",
+				"title": "Alcance al público adecuado en el momento correcto con desencadenantes contextuales",
+				"par": "Ayude a los compradores a gastar su dinero publicitario de manera más efectiva al llegar solo a los segmentos de público más relevantes. Aproveche la demografía basada en datos y los desencadenantes contextuales, como la edad, la ubicación y el clima, para entregar campañas a la audiencia adecuada en el momento más oportuno."
+			},
+			{
+				"icon": "list",
+				"title": "Optimice las fill rates para aumentar sus ingresos",
+				"par": "Complementar sus herramientas de venta directa existentes con nuestro servidor de anuncios ayudará a optimizar sus fill rates de pantalla y, a su vez, sus ingresos. El acceso a una mayor flexibilidad en la entrega de campañas le permite vender sus campañas basadas en impresiones en torno a las de frecuencia."
+			},
+			{
+				"icon": "report",
+				"title": "Ejecute y supervise campañas programadas en tiempo real",
+				"par": "Realice un seguimiento relevante de KPI como impresiones, presupuesto gastado y anuncios publicados a través de una plataforma de informes integral. Haga todo en un solo lugar; cree su campaña y realice un seguimiento del rendimiento de su campaña dentro del servidor de anuncios."
+			}
+		]
+	},
+	"faq": {
+		"title": "Preguntas frecuentes",
+		"list": [
+			{
+				"id": "faq_campaign_planning_ad_serving_1",
+				"q": "Si mi cliente desea ejecutar una campaña a partir de un presupuesto, ¿puedo responder su petición?",
+				"a": "¡Por supuesto! Nuestra solución de administración de campañas está diseñada para ayudarlo a vender su inventario de la mejor manera para usted y sus clientes. Ya sea que un comprador quiera una campaña fija o flexible, usted podrá establecer parámetros para crear la campaña según el presupuesto o incluso una cantidad específica de impresiones. Para obtener más información sobre los diferentes tipos de campañas que se ofrecen, <a href='https://broadsign.com/case-studies-customer-spotlights' target='_blank'>haga clic aquí</a>."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_2",
+				"q": "¿Qué sucede una vez que programé una campaña?",
+				"a": "Nuestra herramienta de gestión de campañas está integrada de forma nativa con nuestra solución de gestión de contenido, por lo que las campañas que programe se gestionarán automáticamente. Sus planificadores de medios y equipos de operaciones publicitarias tendrán acceso a los mismos datos en tiempo real para ver cómo se desarrolla la campaña."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_3",
+				"q": "¿Puedo configurar una campaña de prioridad baja o de bonificación que se ejecute si todavía hay espacio publicitario disponible?",
+				"a": "¡Sí! Las llamamos «campañas no prioritarias», y usted puede designar estratégicamente una campaña como «baja prioridad» y asignarla a pantallas específicas con solo un clic del mouse."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_4",
+				"q": "¿Qué pasa si mi cliente quiere comprar una gran cantidad de impresiones o repeticiones pero distribuidas en diferentes partes de la red y en diferentes fechas?",
+				"a": "Puede configurarlo fácilmente con nuestras campañas basadas en objetivos, donde se pueden combinar varias ejecuciones para contribuir a un objetivo único."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_5",
+				"q": "¿Cómo agrego datos de audiencia?",
+				"a": "Puede agregar fácilmente métricas de audiencia a través de un archivo CSV. La herramienta recopilará estos datos y asociará la audiencia y los datos de impresión a las pantallas específicas de su inventario."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_6",
+				"q": "¿Qué es exactamente un motor de optimización?",
+				"a": "Nuestro motor de optimización es una tecnología que utiliza matemáticas muy complejas para garantizar la mejor distribución posible de anuncios en el inventario disponible adecuado. Redistribuye el contenido de manera eficiente e inteligente para cumplir con sus compromisos existentes al mismo tiempo que invita a campañas adicionales que desee ejecutar. Para obtener más información sobre los beneficios de nuestro motor de optimización, ¡vea nuestro <a id='broadsign_direct_video_link' role='button'>breve video</a>!"
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_7",
+				"q": "¿Puedo seguir beneficiándome de la optimización incluso si tengo una red pequeña con menos pantallas?",
+				"a": "Todos pueden beneficiarse de la optimización del rendimiento, sin importar el tamaño de su red. Como propietario de medios, debe aprovechar al máximo sus pantallas existentes, especialmente después de vender campañas con base en impresiones o audiencia. Redistribuir este tipo de campañas para dar lugar a nuevos negocios es un trabajo arduo, pero nuestro motor de optimización automatiza todo el proceso para que pueda concentrar sus esfuerzos en asuntos más importantes para su negocio."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_8",
+				"q": "¿Puede el sistema optimizar la entrega de campañas en vivo?",
+				"a": "De hecho, ¡sí puede hacerlo! Nuestro motor de optimización está equipado con una herramienta de reequilibrio que permite la autorreparación automática. Por ejemplo, si una campaña en vivo tiene un rendimiento inferior o superior, se activará para que vuelva a encaminarse."
+			}
+		]
+	},
+	"shin": {
+		"title": "Descubra lo que podemos hacer por su red",
+		"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+		"ctaBookCall": "Reservar una llamada",
+		"ctaDemo": "Solicite una demostración",
+		"ctaPricing": "Vea nuestros planes"
+	},
+	"bookACall": {
+		"title": "Reservar una llamada"
+	}
+}

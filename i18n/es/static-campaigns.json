@@ -1,0 +1,88 @@
+{
+	"seo": {
+		"title": "Campañas y administración estáticas",
+		"description": "Venda campañas más rápido, mantenga a sus equipos sincronizados y manténgase al tanto de las solicitudes creativas con la única solución integral para el OOH estático."
+	},
+	"hero": {
+		"overtitle": "Administración de campañas estáticas",
+		"title": "Un enfoque más moderno para el OOH estático",
+		"blurb": "Venda campañas más rápido, mantenga a sus equipos sincronizados y manténgase al tanto de las solicitudes creativas con la única solución integral construida específicamente para el OOH estático.",
+		"ctaBookCall": "Reservar una llamada",
+		"ctaDemo": "Solicite una demostración",
+		"ctaPricing": "Vea nuestros planes"
+	},
+	"logos": {
+		"title": "Utilizado por las principales redes OOH de todo el mundo"
+	},
+	"features": {
+		"charting_scheduling": {
+			"overtitle": "Gráficos y programación",
+			"title": "Herramientas de planificación optimizadas para una entrega de campañas más rápida",
+			"par": "Reserve una campaña en minutos en lugar de días. Sin la necesidad de idas y vueltas entre ventas y operaciones, su equipo puede cerrar acuerdos más rápidamente. La disponibilidad en tiempo real del inventario, incluida la información del sitio y el panel, le ayuda a planificar y vender campañas de manera más eficiente. Programe campañas, administre o actualice contratos de venta y vea o actualice reservaciones y publicaciones, todo en un solo lugar."
+		},
+		"operations_work_order_management": {
+			"overtitle": "Gestión de operaciones y órdenes del trabajo",
+			"title": "Mayor visibilidad de las operaciones diarias",
+			"par": "No más malabares con hojas de cálculo o pérdida de datos cruciales. Nuestra solución integral de operaciones OOH estático permite flujos de trabajo personalizados mientras centraliza descripciones de activos, hojas de fotos y otros datos relacionados con sus tableros y paneles estáticos. Mantenga a sus equipos sincronizados con el estado de las órdenes de trabajo y los niveles de existencias en tiempo real, y entregue la información en la palma de sus manos con nuestra aplicación móvil."
+		},
+		"copy_management": {
+			"overtitle": "Gestión de creativos",
+			"title": "Gestión eficaz de las actividades de diseño",
+			"par": "Administre y rastree fácilmente los detalles de su stock de paneles, actividades de depósito y empresas de publicación. Incluso puede administrar su contenido creativo, actualizar diseños sobre la marcha y solicitar aprobaciones rápidamente. Con visibilidad en cada paso del proceso, puede asegurarse de que el contenido correcto se publique en el activo correcto.",
+			"cta": "Más información"
+		},
+		"reporting_pop": {
+			"overtitle": "Informes y pruebas de rendimiento",
+			"title": "Transparencia, credibilidad e ideas",
+			"par": "Reciba información valiosa sobre las campañas y finanzas en todos los niveles, anunciante, pantalla y red, lo que le permite tomar decisiones basadas en datos con confianza. Y con nuestra aplicación móvil, capturar imágenes para la prueba de rendimiento (PoP) es más fácil que nunca. Todos los datos se alimentan de manera transparente en nuestro sitio web de PoP, lo que permite a anunciantes y agencias mantenerse actualizados sobre el estado de la publicación."
+		}
+	},
+	"faq": {
+		"title": "Preguntas frecuentes",
+		"list": [
+			{
+				"id": "faq_static_operations_1",
+				"q": "¿Es posible que yo busque un inventario específico y verifique su disponibilidad?",
+				"a": "¡Sí! Nuestra solución permite disponibilidad de inventario en tiempo real, lo que significa que puede verificar cualquier parte de su inventario para ver si está reservado, parcialmente disponible o disponible, todo con solo unos pocos clics."
+			},
+			{
+				"id": "faq_static_operations_2",
+				"q": "¿Tengo que crear manualmente las órdenes de trabajo para que un anunciante publique mi campaña?",
+				"a": "No, tan pronto como se vincula un diseño a un panel, se crea la orden de trabajo y se puede imprimir. Otra opción es dar acceso a las órdenes de trabajo directamente en la aplicación web para carteleros o incluso a través de nuestra aplicación móvil, que puede usar para enviar pruebas de publicación directamente."
+			},
+			{
+				"id": "faq_static_operations_3",
+				"q": "¿Es posible realizar un seguimiento de los problemas de mantenimiento o de los problemas con mis activos?",
+				"a": "¡Absolutamente! Puede poner fácilmente una unidad como activa temporalmente o asignar una orden de mantenimiento en caso de problemas menores, como una luz rota. Estos problemas también pueden ser registrados por los carteleros usando nuestra aplicación móvil."
+			},
+			{
+				"id": "faq_static_operations_4",
+				"q": "¿Puedo realizar fácilmente un seguimiento de los diseños que he pedido y dónde están?",
+				"a": "Sí, contamos con un amplio sistema que le permite realizar un seguimiento de los diseños que ha pedido, en qué almacenes se encuentran y cuántos están publicados. También puede ver cuántos deben publicarse para una campaña específica para asegurarse de haber pedido o entregado la cantidad correcta a cada almacén."
+			},
+			{
+				"id": "faq_static_operations_5",
+				"q": "¿Es posible compartir pruebas de rendimiento con mis clientes?",
+				"a": "¡Por supuesto! nuestra plataforma tiene una herramienta que permite a sus clientes ver las fotos de prueba que usted elige. Esto elimina la necesidad de enviar pruebas de publicación para cada campaña manualmente."
+			},
+			{
+				"id": "faq_static_operations_6",
+				"q": "¿La solución de campañas estáticas está integrada con Salesforce u otros CRMs?",
+				"a": "Sí, a través de nuestra API, es posible construir integraciones personalizadas para alimentar información a las herramientas que conozca y ame."
+			},
+			{
+				"id": "faq_static_operations_7",
+				"q": "¿Qué tipo de capacidades de informes están disponibles?",
+				"a": "Nuestra solución brinda a todos en el negocio acceso a informes y análisis perspicaces, tanto listos para usar como a través de una API, para que pueda utilizar datos en su toma de decisiones. También contamos con capacidades de informes que pueden ayudar a eliminar muchas de las operaciones manuales, como separar los costos de medios de los costos de producción, tareas que no solo llevan tiempo, sino que a menudo son gestionadas por diferentes personas."
+			}
+		]
+	},
+	"shin": {
+		"title": "Descubra lo que podemos hacer por su red",
+		"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+		"ctaBookCall": "Reservar una llamada",
+		"ctaDemo": "Solicite una demostración",
+		"ctaPricing": "Vea nuestros planes"
+	},
+	"bookACall": { "title": "Reservar una llamada" }
+}

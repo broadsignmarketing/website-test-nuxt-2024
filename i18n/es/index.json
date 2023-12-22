@@ -1,0 +1,101 @@
+{
+	"seo": {
+		"title": "Broadsign : La plataforma que impulsa la publicidad exterior",
+		"description": "La solución integral para propietarios y compradores de medios para planificar, gestionar y entregar publicidad exterior OOH"
+	},
+	"hero": {
+		"title": ["La ", "plataforma", "que impulsa la", "publicidad", "exterior"],
+		"par": "La solución integral para propietarios y compradores de medios para planificar, gestionar y entregar publicidad exterior OOH",
+		"ctaContact": "Contáctanos",
+		"ctaPlans": "Ver nuestros planes"
+	},
+	"branches": {
+		"overtitle": "Ilumina tu mundo",
+		"title": "Compra, vende y ofrece medios exteriores",
+		"mediaOwners": {
+			"overtitle": "Para propietarios de medios",
+			"title": "Gestiona tu negocio exterior digital, estático y programático, todo desde una sola plataforma.",
+			"cta": "Más información"
+		},
+		"brandsAgencies": {
+			"overtitle": "Para marcas y agencias",
+			"title": "Aumenta el rendimiento de tus campañas omnicanales con DOOH contextual, dirigido y programático.",
+			"cta": "Más información"
+		}
+	},
+	"clients": {
+		"title": "Nuestros clientes"
+	},
+	"features": {
+		"dooh": {
+			"overtitle": "Compra de publicidad digital exterior",
+			"title": "Alcanza tu audiencia objetivo en el momento y lugar indicados",
+			"par": "Aumenta el impacto de tu campaña de dooh al reproducir publicidad dirigida en diferentes contextos y lugares, y alcanza a tu audiencia objetivo en cada etapa de su recorrido.",
+			"cta": "Más información"
+		},
+		"automatedManagement": {
+			"overtitle": "Entrega automatizada y segura",
+			"title": "Ahorra tiempo con una gestión de redes automatizada",
+			"par": "Confía en tus flujos de trabajo de campaña automatizados para reproducir el contenido correcto en el momento apropiado, ganando visibilidad completa del rendimiento de tu red, gracias a informes detallados. asegúrate que tus datos e información sensibles están a salvo, gracias a nuestro software certificado como soc tipo 2.",
+			"cta": "Más información"
+		},
+		"campaignTools": {
+			"overtitle": "Venta en todos los formatos",
+			"title": "Genera más ingresos con herramientas de campaña avanzadas",
+			"par": "Cumple con los requisitos del comprador de medios con tipos de campañas fijas y flexibles. cierre tratos más rápido con un inventario en tiempo real y optimice sus fill rates al reservar de manera instantánea campañas de dooh programadas con flexibilidad.",
+			"cta": "Más información"
+		}
+	},
+	"quotes": [
+		{
+			"id": "intersection",
+			"name": "Intersection",
+			"text": "Con Broadsign tenemos la flexibilidad, las capacidades creativas y las herramientas de planificación necesarias  para hacer conexiones de manera más eficaz y cohesiva a lo largo de toda nuestra red."
+		},
+		{
+			"id": "lightbox",
+			"name": "Lightbox",
+			"text": "Desde que incorporamos Broadsign, hemos podido agilizar nuestro flujo de trabajo, ser más flexibles y reaccionar más rápidamente a los cambios realizados por los anunciantes."
+		},
+		{
+			"id": "corus",
+			"name": "Corus",
+			"text": "Broadsign Ads fue decisivo para ayudar a potenciar el impacto de nuestros anuncios OLV y TV al permitirnos alcanzar públicos con mensajería similar a aquella que está en el mundo físico. La plataforma facilitó la entrega de anuncios dirigidos que incitaban al público a actuar."
+		}
+	],
+	"stats": [
+		{
+			"id": "signs",
+			"prenumber": "",
+			"number": "+1M",
+			"what": "de letreros en todo el mundo"
+		},
+		{
+			"id": "countries",
+			"prenumber": "",
+			"number": "82",
+			"what": "países"
+		},
+		{
+			"id": "ads",
+			"prenumber": "",
+			"number": "+24 mil millones",
+			"what": "de anuncios lanzados por mes"
+		},
+		{
+			"id": "impressions",
+			"prenumber": "",
+			"number": "+100 mil millones",
+			"what": "de impresiones por mes"
+		}
+	],
+	"shin": {
+		"title": "Descubra lo que podemos hacer por el OOH",
+		"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+		"cta": "Solicite una demostración"
+	},
+	"getInTouch": "¡Contáctanos!",
+	"banner20": "",
+	"campaignsLaunchedWithBroadsign": "Campañas lanzadas con Broadsign",
+	"learnMore": "Más información"
+}

@@ -1,0 +1,101 @@
+{
+	"seo": {
+		"title": "Affichage numérique de messages locaux",
+		"description": "Enable local teams to easily create custom digital signage messages while remaining on-brand with a customizable content management tool."
+	},
+	"hero": {
+		"overtitle": "Affichage numérique de messages locaux",
+		"title": "Rendez les messages locaux plus pertinents grâce à un contenu personnalisable",
+		"blurb": "Permettez aux équipes locales de créer facilement des messages d'affichage numérique personnalisés tout en restant fidèles à la marque grâce à un outil de gestion de contenu personnalisable.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	},
+	"logos": {
+		"title": "Des clients du monde entier nous font confiance"
+	},
+	"features": {
+		"local_messaging": {
+			"overtitle": "Messages locaux",
+			"title": "Attirez l'attention des audiences locales avec des messages personnalisés et pertinents",
+			"par": "Améliorez la pertinence du contenu de l'affichage numérique pour le public local en permettant aux entreprises individuelles de personnaliser le message à l'écran."
+		},
+		"custom_content": {
+			"overtitle": "Contenu personnalisé",
+			"title": "Créez des messages toujours fidèles à la marque",
+			"par": "Assurez-vous que le contenu de vos clients reste fidèle à leur marque en permettant aux équipes locales d'accéder à une bibliothèque d'images, de vidéos et de modèles de conception préapprouvés."
+		},
+		"content_management": {
+			"overtitle": "Gestion de contenu intégrée",
+			"title": "Connectez de manière harmonieuse le contenu local au calendrier de diffusion de votre réseau",
+			"par": "Votre solution de contenu local est directement intégrée à notre système de gestion de contenu. Ainsi, tous vos messages locaux s'intègrent facilement à vos autres médias de diffusion programmée."
+		},
+		"insights": {
+			"overtitle": "Données pertinentes",
+			"title": "Suivi et établissement de rapports plus faciles",
+			"par": "Vous souhaitez mieux comprendre comment les équipes différentes utilisent leur accès? Notre tableau de bord Insights vous offre une visibilité totale sur le contenu local créé sur votre réseau, quand vous le souhaitez."
+		},
+		"user_friendly": {
+			"overtitle": "Convivialité",
+			"title": "Aucune compétence technique ni compétence en conception requise",
+			"par": "Grâce à l'interface visuelle intuitive de notre outil de diffusion de messages locaux, vos clients pourront créer du contenu de qualité en un rien de temps, avec un minimum de formation."
+		},
+		"clients_groups": {
+			"overtitle": "Groupes de clients",
+			"title": "Contrôlez l'accès aux produits",
+			"par": "Les messages destinés à une équipe locale ne devraient pas être accessibles à n'importe qui. Grâce à notre produit, accordez différents niveaux d'accès à différentes équipes et séparez leurs messages du reste de votre contenu."
+		},
+		"timeline_visualization": {
+			"overtitle": "Visualisation de la chronologie",
+			"title": "Visualisez tout votre contenu programmé à la fois",
+			"par": "Visualisez tous vos messages programmés dans une chronologie afin de vous assurer que votre contenu est diffusé au moment et à l'endroit voulus."
+		},
+		"comingSoon": "Bientôt disponible!"
+	},
+	"customers": {
+		"title": "Des clients du monde entier nous font confiance",
+		"testimonials": [
+			{
+				"id": "bonjour_sante",
+				"quote": "L'outil d'affichage de messages locaux de Broadsign a connu un succès immédiat auprès de nos clients. Ils aiment la possibilité de produire rapidement des messages et de les diffuser sur leurs écrans en même temps que du contenu régulièrement programmé."
+			},
+			{
+				"id": "hmn",
+				"quote": "L'outil d'affichage de messages locaux de Broadsign permet à nos cabinets de diffuser des messages personnalisés aux patients. Ils peuvent ainsi créer une stratégie de communication bien meilleure et beaucoup plus ciblée."
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_local_signage_messaging_1",
+				"q": "Puis-je prévisualiser mes messages ou mes listes de lecture avant de les publier?",
+				"a": "Certainement! Vous pouvez prévisualiser toutes les ressources régulières (y compris les messages, les images et les vidéos) avant leur publication."
+			},
+			{
+				"id": "faq_local_signage_messaging_2",
+				"q": "Puis-je modifier rapidement les messages qui s'affichent sur mon écran afin de les adapter au contexte local?",
+				"a": "Les utilisateurs locaux peuvent modifier certains aspects d'un modèle prédéfini pour adapter les messages aux particularités locales, comme les changements de prix et les offres spéciales."
+			},
+			{
+				"id": "faq_local_signage_messaging_3",
+				"q": "Puis-je prendre le contrôle de certains écrans pour diffuser des messages d'urgence?",
+				"a": "Les propriétaires de médias peuvent accorder à certains utilisateurs la permission de diffuser un message d'urgence qui interrompt le contenu programmé et occupe tout l'écran jusqu'à sa désactivation."
+			},
+			{
+				"id": "faq_local_signage_messaging_4",
+				"q": "Puis-je définir différents niveaux d'autorisation pour mes utilisateurs?",
+				"a": "Les propriétaires de médias peuvent créer et définir différents rôles, privilèges et restrictions pour les utilisateurs."
+			}
+		]
+	},
+	"shin": {
+		"title": "Découvrez ce que nous pouvons faire pour votre réseau",
+		"par": "Contactez-nous et un membre de notre équipe vous contactera dans les plus brefs délais pour organiser un appel. Laissez-nous faire savoir s'il y a des questions dont vous aimeriez discuter.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	},
+	"bookACall": { "title": "Réservez un appel" }
+}

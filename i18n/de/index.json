@@ -1,0 +1,102 @@
+{
+	"seo": {
+		"title": "Broadsign - Die Plattform für Out-of-Home",
+		"description": "Eine End-to-End-Softwarelösung für Medieneigentümer und -einkäufer zur ganzheitlichen Planung, Verwaltung und Bereitstellung von Out-of-Home-Medien."
+	},
+	"hero": {
+		"title": ["Die", "Plattform", "für", "out-of-home"],
+		"par": "Die umfassende Lösung für Medienbesitzer und Käufer zur Planung, Verwaltung und Auslieferung von Out-of-Home-Medien.",
+		"ctaContact": "Kontaktieren Sie uns",
+		"ctaPlans": "Schauen Sie sich unsere Angebote an"
+	},
+	"branches": {
+		"overtitle": "Bringen Sie Ihre Welt zum Leuchten",
+		"title": "Out-of-Home-Medien kaufen, verkaufen und ausliefern",
+		"mediaOwners": {
+			"overtitle": "Für Medieneigentümer",
+			"title": "Verwalten Sie Ihr digitales, statisches und programmatisches Out-of-Home-Geschäft auf einer einzigen Plattform.",
+			"cta": "Mehr Erfahren"
+		},
+		"brandsAgencies": {
+			"overtitle": "Für Marken & Agenturen",
+			"title": "Steigern Sie die Wirkungskraft Ihrer Omnichannel-Kampagnen mit kontextbezogener und zielgerichteter programmatischer DOOH-Werbung.",
+			"cta": "Mehr Erfahren"
+		}
+	},
+	"clients": {
+		"title": "Unsere Kunden"
+	},
+	"features": {
+		"dooh": {
+			"overtitle": "Digital-Out-of-Home-Werbung einkaufen",
+			"title": "Erreichen Sie Ihre Zielgruppe zur richtigen Zeit am richtigen Ort",
+			"par": "Erhöhen Sie die Wirkung Ihrer DOOH-Kampagne, indem Sie in verschiedenen Umfeldern und an verschiedenen Orten zielgerichtete Anzeigen schalten und die gewünschten Zielgruppen in jeder Phase ihrer Kaufentscheidung erreichen. ",
+			"cta": "Mehr Erfahren"
+		},
+		"automatedManagement": {
+			"overtitle": "Automatisierte & sichere Ausspielung",
+			"title": "Sparen Sie Zeit mit automatisiertem Netzwerkmanagement",
+			"par": "Verlassen Sie sich darauf, dass Ihre automatisierten Kampagnen-Workflows die richtigen Inhalte zur richtigen Zeit ausspielen und verschaffen Sie sich mit detaillierten Kampagnenberichten einen umfassenden Überblick über die Performance Ihres Netzwerks. Sorgen Sie mit unserer SOC 2 Typ 2 zertifizierten Software dafür, dass Ihre vertraulichen Daten und Informationen stets sicher sind.",
+			"cta": "Mehr Erfahren"
+		},
+		"campaignTools": {
+			"overtitle": "Über alle Formate hinweg verkaufen",
+			"title": "Steigern Sie Ihren Umsatz mit fortschrittlichen OOH-Kampagnentools",
+			"par": "Erfüllen Sie die Anforderungen der Medienkäufer von heute mit festen und flexiblen Kampagnenarten.  Bringen Sie Geschäfte mit Echtzeit-Inventarverfügbarkeit schneller zum Abschluss und optimieren Sie die Auslastungsquoten durch sofortige Buchung von flexibel geplanten DOOH-Kampagnen.",
+			"cta": "Mehr Erfahren"
+		}
+	},
+	"quotes": [
+		{
+			"id": "intersection",
+			"name": "Intersection",
+			"text": "„Mit Broadsign verfügen wir über hohe Flexibilität sowie über die erforderlichen kreativen Fähigkeiten und Planungstools, die wir benötigen, um Verbindungen in unserem Netzwerk effizienter und kohärenter herzustellen.“"
+		},
+		{
+			"id": "lightbox",
+			"name": "Lightbox",
+			"text": "„Seit unserer Umstellung auf Broadsign konnten wir unseren Workflow optimieren, flexibler werden und schneller auf Änderungen seitens der Werbetreibenden reagieren.“"
+		},
+		{
+			"id": "corus",
+			"name": "Corus",
+			"text": "„Durch den Einsatz von Broadsign Ads konnten wir die Wirkung unserer OLV- und TV-Werbung steigern, indem wir unsere Zielgruppen mit ähnlichen Botschaften in der physischen Welt erreichen konnten. Die Plattform hat es leicht gemacht, gezielte Anzeigen zu schalten, die das Publikum zum Handeln aufforderten.“"
+		}
+	],
+	"stats": [
+		{
+			"id": "signs",
+			"prenumber": "",
+			"number": "1 Mio.",
+			"what": "Werbetafeln in aller Welt zum Leuchten"
+		},
+
+		{
+			"id": "countries",
+			"prenumber": "",
+			"number": "82",
+			"what": "Länder"
+		},
+		{
+			"id": "ads",
+			"prenumber": "",
+			"number": "24 Milliarden",
+			"what": "geschaltete Anzeigen pro Monat"
+		},
+		{
+			"id": "impressions",
+			"prenumber": "",
+			"number": "+100 Milliarden",
+			"what": "Impressionen pro Monat"
+		}
+	],
+	"shin": {
+		"title": "Entdecken Sie, was wir für OOH tun können",
+		"par": "Setzen Sie sich mit uns in Verbindung und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Bitte lassen Sie uns wissen, wenn Sie Fragen haben, die Sie gerne besprechen möchten.",
+		"cta": "Vereinbaren Sie eine Plattform-Demo"
+	},
+	"getInTouch": "Kontaktieren Sie uns!",
+	"banner20": "",
+	"campaignsLaunchedWithBroadsign": "Mit Broadsign gestartete Kampagnen",
+	"learnMore": "Mehr Erfahren"
+}

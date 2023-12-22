@@ -1,0 +1,101 @@
+{
+	"seo": {
+		"title": "Lokale Signage-Nachrichten",
+		"description": "Versetzen Sie lokale Teams in die Lage, benutzerspezifische digitale Signage-Nachrichten zu erstellen und gleichzeitig mit einem anpassbaren Inhaltsmanagement-Tool der Markenbotschaft treu zu bleiben."
+	},
+	"hero": {
+		"overtitle": "Lokale Signage-Nachrichten",
+		"title": "Lokale Nachrichten mit benutzerdefiniertem Inhalt relevanter machen",
+		"blurb": "Versetzen Sie lokale Teams in die Lage, benutzerspezifische digitale Signage-Nachrichten zu erstellen und gleichzeitig mit einem anpassbaren Inhaltsmanagement-Tool der Markenbotschaft treu zu bleiben.",
+		"ctaBookCall": "Büchen Sie einen Anruf",
+		"ctaDemo": "Demo anfordern",
+		"ctaPricing": "Unsere Angebote anzeigen"
+	},
+	"logos": {
+		"title": "Kunden in aller Welt sprechen uns ihr Vertrauen aus"
+	},
+	"features": {
+		"local_messaging": {
+			"overtitle": "Lokale Nachrichten",
+			"title": "Durch benutzerdefinierte, relevante Nachrichten mit lokalen Zielgruppen in Kontakt treten",
+			"par": "Erhöhen Sie die Relevanz von digitalen Signage-Inhalten für lokale Zielgruppen, indem Sie den einzelnen Unternehmen die Möglichkeit geben, die Bildschirmnachrichten zu personalisieren."
+		},
+		"custom_content": {
+			"overtitle": "Benutzerdefinierter Inhalt",
+			"title": "Nachrichten erstellen, die stets zur Marke passen",
+			"par": "Sorgen Sie dafür, dass die Inhalte Ihrer Kunden stets zur Marke passen, indem Sie lokalen Teams Zugriff auf eine Bibliothek mit genehmigten Bildern, Videos und Designvorlagen geben."
+		},
+		"content_management": {
+			"overtitle": "Integriertes Contentmanagement",
+			"title": "Lokale Inhalte reibungslos in die Nachrichtenplanung Ihres Netzwerkes integrieren",
+			"par": "Ihre Lösung für lokalen Inhalt ist direkt in unser Content-Managementsystem integriert, so dass sich all Ihre lokalen Nachrichten leicht in Ihre anderen geplanten Medien einreihen lassen."
+		},
+		"insights": {
+			"overtitle": "Einblicke",
+			"title": "Leichtere Überwachung und Berichterstellung",
+			"par": "Wollen Sie besser verstehen, wie lokale Teams ihren Zugriff auf lokale Nachrichten verwenden? Über unser Insights-Dashboard erhalten Sie jederzeit vollständige Transparenz für alle lokalen Inhalte, die in Ihrem Netzwerk erstellt werden."
+		},
+		"user_friendly": {
+			"overtitle": "Benutzerfreundlich",
+			"title": "Keine technischen oder gestalterischen Kenntnisse erforderlich",
+			"par": "Mithilfe der intuitiven visuellen Schnittstelle können Ihre Kunden bei minimalem Schulungsaufwand schnell großartig aussehende Inhalte erstellen."
+		},
+		"clients_groups": {
+			"overtitle": "Kundengruppen",
+			"title": "Behalten Sie die Kontrolle über den Produktzugriff",
+			"par": "Der Nachrichtenzugriff für lokale Teams sollte nicht ausarten. Mit unserem Produkt können Sie verschiedenen Teams verschiedene Berechtigungsebenen einräumen und das Messaging vom Rest Ihres Inhalts trennen."
+		},
+		"timeline_visualization": {
+			"overtitle": "Visualisierung der Zeitachse",
+			"title": "Den gesamten geplanten Inhalt auf einmal sehen",
+			"par": "Sehen Sie die gesamten geplanten Nachrichten in einer Zeitachse, um sicherzustellen, dass der Inhalt zum gewünschten Zeitpunkt am gewünschten Ort rausgeht."
+		},
+		"comingSoon": "In Kürze!"
+	},
+	"customers": {
+		"title": "Kunden in aller Welt sprechen uns ihr Vertrauen aus",
+		"testimonials": [
+			{
+				"id": "bonjour_sante",
+				"quote": "Das Broadsign-Messagingtool für lokale Nachrichten hat unsere Kunden gleich begeistert. Sie finden es toll, dass sie schnell Nachrichten erstellen können und diese zusammen mit dem normal geplanten Inhalt auf ihren Bildschirmen zeigen können."
+			},
+			{
+				"id": "hmn",
+				"quote": "Mit dem Broadsign-Messagingtool für lokale Nachrichten können unsere Praxen ihren Patienten ihre eigenen benutzerdefinierten Nachrichten anzeigen und so eine viel bessere und gezieltere Kommunikationsstrategie entwickeln."
+			}
+		]
+	},
+	"faq": {
+		"title": "Häufig gestellte Fragen",
+		"list": [
+			{
+				"id": "faq_local_signage_messaging_1",
+				"q": "Kann ich meine Nachrichten oder Playlists vor der Veröffentlichung als Vorschau anzeigen?",
+				"a": "Auf jeden Fall. Alle regulären Assets, wie beispielsweise Nachrichten, Bilder und Videos, können vor der Veröffentlichung als Vorschau angezeigt werden."
+			},
+			{
+				"id": "faq_local_signage_messaging_2",
+				"q": "Kann ich die Nachrichten auf meinem Bildschirm schnell ändern, um lokale Bedingungen abzubilden?",
+				"a": "Lokale Nutzer können bestimmte Aspekte einer vordefinierten Vorlage ändern, um lokalen Bedingungen wie Preisänderungen und Sonderangebote Rechnung zu tragen."
+			},
+			{
+				"id": "faq_local_signage_messaging_3",
+				"q": "Kann ich bestimmte Bildschirme übernehmen, um Notfallnachrichten zu veröffentlichen?",
+				"a": "Medieninhaber können ausgewählten Benutzern die Erlaubnis geben, eine Notfallnachricht einzublenden, die den geplanten Inhalt unterbricht und den gesamten Bildschirm übernimmt, bis diese deaktiviert wird."
+			},
+			{
+				"id": "faq_local_signage_messaging_4",
+				"q": "Kann ich meinen Benutzern unterschiedliche Berechtigungsebenen zuweisen?",
+				"a": "Medieninhaber können verschiedene Rollen, Berechtigungen und Einschränkungen für Benutzer festlegen."
+			}
+		]
+	},
+	"shin": {
+		"title": "Entdecken Sie, was wir für Ihr Netzwerk tun können",
+		"par": "Setzen Sie sich mit uns in Verbindung und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Bitte lassen Sie uns wissen, wenn Sie Fragen haben, die Sie gerne besprechen möchten.",
+		"ctaBookCall": "Büchen Sie einen Anruf",
+		"ctaDemo": "Demo anfordern",
+		"ctaPricing": "Unsere Angebote anzeigen"
+	},
+	"bookACall": { "title": "Büchen Sie einen Anruf" }
+}

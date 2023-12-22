@@ -1,0 +1,111 @@
+{
+	"seo": {
+		"title": "Plateforme SSP programmatique mondiale",
+		"description": "Notre plateforme SSP aide les propriétaires de médias à vendre leurs stocks aux acheteurs de médias programmatiques du monde entier."
+	},
+	"hero": {
+		"overtitle": "Plateforme SSP programmatique mondiale",
+		"title": "Augmentez vos revenus grâce à la plateforme SSP conçue pour l'OOH.",
+		"blurb": "Notre plateforme SSP aide les propriétaires de médias à vendre leurs stocks aux acheteurs de médias programmatiques du monde entier.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	},
+	"logos": {
+		"title": "Nous favorisons la réussite en programmatique des principaux réseaux DOOH dans le monde"
+	},
+	"features": {
+		"programmatic_ssp": {
+			"overtitle": "Plateforme SSP programmatique",
+			"title": "Augmentez vos ventes grâce à la programmatique",
+			"par": "Complétez vos ventes directes avec un ensemble programmatique de pistes de vente en temps réel composé d'acheteurs mondiaux et d'annonces que vous approuvez."
+		},
+		"detailed_campaign_reporting": {
+			"overtitle": "Rapports de campagne détaillés",
+			"title": "Obtenez une visibilité complète sur le rendement programmatique de votre réseau.",
+			"par": "Analysez et augmentez vos ventes programmatiques plus efficacement grâce à des renseignements détaillés sur les stocks, le seuil pour le CPM ainsi que les renseignements d'enchères relatifs à chaque transaction de votre réseau."
+		},
+		"programmatic_header_bidder": {
+			"overtitle": "Solution Header Bidder programmatique",
+			"title": "Optimisez la demande grâce à l'outil Header Bidder de Broadsign",
+			"par": "Consolidez toute votre demande programmatique en un seul emplacement avec une solution d'enchères d'en-tête (header bidding) qui permet à la meilleure offre de l'emporter, quelle que soit sa plateforme SSP d'origine.",
+			"cta": "En savoir plus"
+		},
+		"global_programmatic_network": {
+			"overtitle": "Réseau programmatique mondial",
+			"title": "Ouvrez votre réseau aux meilleurs achats médias",
+			"par": "Vos écrans sont exactement ce que recherchent les acheteurs de médias. En les ajoutant aux listes de notre plateforme SSP, vous augmenterez l'exposition de vos stocks et deviendrez un acteur majeur dans le domaine des grandes campagnes publicitaires menées de concert par plusieurs propriétaires de médias dans le monde."
+		}
+	},
+	"dsp_partners": {
+		"title": "La plateforme SSP qui vous met en relation avec le plus de sources de demande",
+		"par": "La plateforme SSP de Broadsign est connectée à plus de plateformes partenaires DSP que toute autre plateforme d'affichage extérieur. Connectez vos stocks afin que vos écrans soient vus par des acheteurs sur plus de 30 des plus grandes plateformes DSP du monde.",
+		"cta": "Voir la liste complète de nos plateformes partenaires côté demande"
+	},
+	"customers": {
+		"title": "Plus de X chefs de file mondiaux du secteur DOOHprogrammatique nous font confiance",
+		"testimonials": [
+			{
+				"id": "",
+				"quote": ""
+			},
+			{
+				"id": "",
+				"quote": ""
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_global_programmatic_ssp_1",
+				"q": "Avec combien de plateformes DSP êtes-vous connectés?",
+				"a": "Broadsign SSP est connectée à plus de 30 plateformes DSP avec des intégrations d'API automatisées.  Ce nombre ne cesse de croître et nous sommes toujours prêts à travailler avec de nouvelles plateformes DSP."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_2",
+				"q": "La plateforme SSP de Broadsign prend-elle en charge les places de marché privées (PMP)?",
+				"a": "Oui.  Les PMP sur notre plateforme sont très flexibles et vous permettent de cibler un annonceur précis ou plusieurs sources de demande, selon vos besoins."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_3",
+				"q": "La plateforme SSP de Broadsign prend-elle en charge OpenExchange?",
+				"a": "Oui.  Tant que les renseignements sur votre écran sont mis à jour avec les prix, vos stocks demeureront disponibles pour toutes les plateformes DSP qui prennent en charge OpenExchange."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_4",
+				"q": "Comment puis-je me connecter à la plateforme SSP de Broadsign?",
+				"a": "Pour les clients Broadsign existants, vous pouvez compter sur l'intégration native entre notre solution de gestion de contenu et de réseau et notre plateforme SSP.  D'autres méthodes d'intégration existent et sont utilisées pour les réseaux qui fonctionnent sur d'autres plateformes."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_5",
+				"q": "Quel est le montant des revenus auquel je peux m'attendre de la plateforme SSP de Broadsign?",
+				"a": "Les revenus de programmatique dépendent d'un grand nombre de variables. Communiquez avec nous et notre équipe de vente travaillera avec vous pour établir une estimation des revenus probables pour votre réseau."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_6",
+				"q": "Broadsign propose-t-elle une solution d'enchères d'en-tête?",
+				"a": "La solution Header Bidder de Broadsign Reach est disponible pour nos clients connectés à plusieurs plateformes SSP. Les propriétaires peuvent ainsi consolider leur calendrier de programmatique en un seul créneau, ce qui augmente la valeur de leurs stocks.  Pour plus de renseignements, consultez cet <a href='https://broadsign.com/blog/discover-broadsign-reach-header-bidder-the-smarter-way-to-work-with-multiple-programmatic-partners' target='_blank'>article de blogue</a>."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_7",
+				"q": "Combien d'agences ou de marques effectuent des transactions sur la plateforme SSP de Broadsign?",
+				"a": "Plus d'un millier d'annonceurs utilisent la plateforme SSP de Broadsign pour diffuser leurs messages sur les écrans du monde entier."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_8",
+				"q": "Quels sont les avantages de la vente programmatique par rapport à la vente directe?",
+				"a": "La programmatique est une question automatisée.  Elle ne devrait pas éliminer vos ventes directes, mais elle peut vous fournir des outils pour compléter ces ventes avec des enchères automatisées pour vos autres stocks disponibles.  Par ailleurs, grâce à une combinaison avec les fonctionnalités complètes de Broadsign comme la sécurité de la marque et les campagnes non prioritaires, vous pouvez ouvrir une nouvelle source de revenus en toute sécurité et fiabilité avec Broadsign Reach."
+			}
+		]
+	},
+	"shin": {
+		"title": "Découvrez ce que nous pouvons faire pour votre réseau",
+		"par": "Contactez-nous et un membre de notre équipe vous contactera dans les plus brefs délais pour organiser un appel. Laissez-nous faire savoir s'il y a des questions dont vous aimeriez discuter.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	},
+	"bookACall": { "title": "Réservez un appel" }
+}

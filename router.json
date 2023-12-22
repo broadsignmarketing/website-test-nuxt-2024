@@ -1,0 +1,44 @@
+{
+	"/": {
+		"en": "/",
+		"fr": "/fr",
+		"es": "/es",
+		"de": "/de",
+		"jp": ""
+	},
+	"campaign-planning-ad-serving": {
+		"en": "/campaign-planning-ad-serving",
+		"fr": "/gestion-campagnes-diffusion-annonces",
+		"es": "/planificacion-gestion-campanas",
+		"de": "/kampagnenplanung-und-management",
+		"jp": "/campaign-planning-ad-serving"
+	},
+	"local-signage-messaging": {
+		"en": "/local-signage-messaging",
+		"fr": "/affichage-numerique-messages-locaux",
+		"es": "/mensajeria-local",
+		"de": "/lokale-signage-nachrichten",
+		"jp": "/local-signage-messaging"
+	},
+	"content-network-management": {
+		"en": "/content-network-management",
+		"fr": "/gestion-contenu-reseau",
+		"es": "/gestion-contenidos-redes",
+		"de": "/content-netzwerkmanagement",
+		"jp": "/content-network-management"
+	},
+	"global-programmatic-ssp": {
+		"en": "/global-programmatic-ssp",
+		"fr": "/plateforme-ssp-programmatique-mondiale",
+		"es": "/ssp-programatico-global",
+		"de": "/globale-programmatische-ssp",
+		"jp": "/global-programmatic-ssp"
+	},
+	"static-campaigns": {
+		"en": "/static-campaigns",
+		"fr": "/campagnes-statiques",
+		"es": "/campanas-estaticas",
+		"de": "/statische-kampagnen",
+		"jp": "/static-campaigns"
+	}
+}

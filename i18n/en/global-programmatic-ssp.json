@@ -1,0 +1,111 @@
+{
+	"seo": {
+		"title": "Global Programmatic SSP",
+		"description": "Our supply-side platform helps out-of-home media owners sell their inventory to programmatic media buyers around the world."
+	},
+	"hero": {
+		"overtitle": "Global Programmatic SSP",
+		"title": "Unlock more revenue with the SSP built for OOH",
+		"blurb": "Our supply-side platform helps out-of-home media owners sell their inventory to programmatic media buyers around the world.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"logos": {
+		"title": "Powering programmatic success for leading DOOH networks around the world"
+	},
+	"features": {
+		"programmatic_ssp": {
+			"overtitle": "Programmatic SSP",
+			"title": "Sell more by selling programmatically",
+			"par": "Complement your direct sales with a real-time programmatic pipeline composed of global buyers and ads that you approve of."
+		},
+		"detailed_campaign_reporting": {
+			"overtitle": "Detailed campaign reporting",
+			"title": "Get full visibility into your network's programmatic performance",
+			"par": "Analyze and grow your programmatic sales more effectively with detailed inventory, Floor CPM, and bidding information relating to every deal your network transacts through."
+		},
+		"programmatic_header_bidder": {
+			"overtitle": "Programmatic Header Bidder",
+			"title": "Unlock even more demand with the Broadsign Header Bidder",
+			"par": "Consolidate all your programmatic demand into a single slot with a header bidding solution that lets the very best deal win out, no matter which SSP it comes in from.",
+			"cta": "Learn more"
+		},
+		"global_programmatic_network": {
+			"overtitle": "Global programmatic network",
+			"title": "Open your network to the biggest media buys",
+			"par": "Your screens are just what media buyers are looking for. By adding them to our SSP's listings, you'll increase your inventory's exposure and become a contender for big ad campaigns spanning many different media owners worldwide."
+		}
+	},
+	"dsp_partners": {
+		"title": "The SSP that connects you with the most demand sources",
+		"par": "The Broadsign SSP is connected to more DSP partners than any other out-of-home SSP. Connect your inventory to put your screens in front of buyers across more than 30 of the largest DSPs worldwide.",
+		"cta": "See the full list of our DSP partners"
+	},
+	"customers": {
+		"title": "Trusted by over X programmatic DOOH leaders worldwide",
+		"testimonials": [
+			{
+				"id": "",
+				"quote": ""
+			},
+			{
+				"id": "",
+				"quote": ""
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_global_programmatic_ssp_1",
+				"q": "How many DSPs do you connect with?",
+				"a": "Broadsign SSP is connected with over 30 DSPs with automated API integrations. This is continuously growing, and we are always open to working with any new DSPs."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_2",
+				"q": "Does Broadsign's SSP support PMPs?",
+				"a": "Absolutely. PMPs through our platform are incredibly flexible, allowing you to target one specific advertiser, or many demand sources, depending on your needs."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_3",
+				"q": "Does Broadign's SSP support Open Exchange?",
+				"a": "Absolutely. So long as your screen information is updated with pricing, your inventory will be available to all DSPs that support Open Exchange."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_4",
+				"q": "How do I connect to Broadsign's SSP?",
+				"a": "For existing Broadsign customers, you can rely on the native integration between our content and network management solution and our SSP. Other integration methods exist and are used for networks running on other platforms."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_5",
+				"q": "How much money can I expect from Broadsign's SSP?",
+				"a": "Programmatic revenue can be different depending on a large number of variables. Reach out and our sales team will work with you to come up with a likely revenue estimate for your network."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_6",
+				"q": "Does Broadsign offer a header bidder?",
+				"a": "The Broadsign Reach Header Bidder is indeed available for our customers connected to multiple SSPs. This allows publishers to consolidate their programmatic scheduling into one slot, driving up the value of their inventory. For more information, For more information, check out this <a href='https://broadsign.com/blog/discover-broadsign-reach-header-bidder-the-smarter-way-to-work-with-multiple-programmatic-partners' target='_blank'>blog post</a>!"
+			},
+			{
+				"id": "faq_global_programmatic_ssp_7",
+				"q": "How many agencies/brands transact on Broadsign's SSP?",
+				"a": "Over a thousand advertisers use the Broadsign SSP to deliver their messages to screens around the world."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_8",
+				"q": "What are the benefits of programmatic vs direct sales?",
+				"a": "Programmatic is all about automation. While it shouldn't eliminate your direct sales, it can provide you with tools to complement those sales with automated auctions for any other available inventory. Combined with full-stack Broadsign features like brand safety and pre-emptible campaigns, you can open up a new revenue stream safely and reliably with Broadsign Reach."
+			}
+		]
+	},
+	"shin": {
+		"title": "Discover what we can do for your network",
+		"par": "Get in touch with us and a member of our team will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"bookACall": { "title": "Book a call" }
+}

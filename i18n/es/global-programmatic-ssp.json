@@ -1,0 +1,111 @@
+{
+	"seo": {
+		"title": "SSP programático global",
+		"description": "Nuestra plataforma SSP ayuda a los propietarios de medios OOH a vender su inventario a compradores de medios programáticos en todo el mundo."
+	},
+	"hero": {
+		"overtitle": "SSP programático global",
+		"title": "Desbloquee más ingresos con el SSP creado para la publicidad OOH",
+		"blurb": "Nuestra plataforma SSP ayuda a los propietarios de medios OOH a vender su inventario a compradores de medios programáticos en todo el mundo.",
+		"ctaBookCall": "Reservar una llamada",
+		"ctaDemo": "Solicite una demostración",
+		"ctaPricing": "Vea nuestros planes"
+	},
+	"logos": {
+		"title": "Impulsamos el éxito programático de las principales redes DOOH en todo el mundo"
+	},
+	"features": {
+		"programmatic_ssp": {
+			"overtitle": "SSP programático",
+			"title": "Venda más al vender programáticamente",
+			"par": "Complemente sus ventas directas con un flujo funcional programático en tiempo real compuesto por compradores globales y anuncios que usted aprueba."
+		},
+		"detailed_campaign_reporting": {
+			"overtitle": "Informes detallados de la campaña",
+			"title": "Obtenga visibilidad completa del rendimiento programático de su red",
+			"par": "Analice e incremente sus ventas programáticas de manera más efectiva con un inventario detallado, CPM mínimo e información de ofertas relacionadas con cada acuerdo en el que se negocia su red."
+		},
+		"programmatic_header_bidder": {
+			"overtitle": "Header bidder programático",
+			"title": "Acceda a más demanda con la herramienta Header Bidder de Broadsign",
+			"par": "Combine toda su demanda programática en un solo espacio con una solución de header bidding que le permite ganar la mejor oferta, sin importar de qué SSP provenga.",
+			"cta": "Más información"
+		},
+		"global_programmatic_network": {
+			"overtitle": "SSP programático global",
+			"title": "Abra su red a mayores compras de medios",
+			"par": "Sus pantallas son justo lo que buscan los compradores de espacios publicitarios. Al agregarlas a los listados de nuestro SSP, aumentará la exposición de su inventario y se convertirá en un aspirante para grandes campañas publicitarias gestionadas por multiples propietarios de medios diferentes en todo el mundo."
+		}
+	},
+	"dsp_partners": {
+		"title": "La plataforma SSP que lo conecta con las fuentes de mayor demanda",
+		"par": "La plataforma SSP de Broadsign está conectada a más plataformas DSP que cualquier otra plataforma SSP de publicidad exterior. Conecte su inventario para colocar sus pantallas frente a compradores en más de 30 de las plataformas DSP más grandes del mundo.",
+		"cta": "Ver la lista completa de nuestros socios DSP"
+	},
+	"customers": {
+		"title": "Más de X líderes DOOH programáticos en todo el mundo confían en nosotros",
+		"testimonials": [
+			{
+				"id": "",
+				"quote": ""
+			},
+			{
+				"id": "",
+				"quote": ""
+			}
+		]
+	},
+	"faq": {
+		"title": "Preguntas frecuentes",
+		"list": [
+			{
+				"id": "faq_global_programmatic_ssp_1",
+				"q": "¿Con cuántas plataformas DSP están conectados?",
+				"a": "Broadsign SSP está conectado con más de 30 DSP con integraciones API automatizadas.  Esto se encuentra en continuo crecimiento y siempre estamos abiertos a trabajar con nuevos DSP."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_2",
+				"q": "¿El SSP de Broadsign admite PMP?",
+				"a": "Por supuesto.  Los PMP a través de nuestra plataforma son increíblemente flexibles, lo que le permite dirigirse a un anunciante específico o a muchas fuentes de demanda, según sus necesidades."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_3",
+				"q": "¿El SSP de Broadsign es compatible con Open Exchange?",
+				"a": "Por supuesto.  Siempre y cuando la información de su pantalla se actualice con los precios, su inventario estará disponible para todos los DSP que admitan Open Exchange."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_4",
+				"q": "¿Cómo puedo conectarme al SSP de Broadsign?",
+				"a": "Para quienes ya son clientes de Broadsign, puede confiar en la integración nativa entre nuestra solución de administración de red y contenido y nuestro SSP.  Existen otros métodos de integración y se utilizan para redes que se trabajan en otras plataformas."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_5",
+				"q": "¿Cuánto dinero puedo esperar del SSP de Broadsign?",
+				"a": "Los ingresos programáticos pueden ser diferentes dependiendo de un gran número de variables. Comuníquese y nuestro equipo de ventas trabajará con usted para llegar a una proyección de ingresos para su red."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_6",
+				"q": "¿Broadsign ofrece un header bidder?",
+				"a": "Por supuesto, la solución Header Bidder de Broadsign Reach está disponible para nuestros clientes conectados a varios SSP.  Esto permite a los dueños de medios consolidar su programación programática en un solo espacio, y así aumentar el valor de su inventario.  Para obtener más información, ¡consulte esta <a href='https://broadsign.com/blog/discover-broadsign-reach-header-bidder-the-smarter-way-to-work-with-multiple-programmatic-partners' target='_blank'>publicación del blog</a>!"
+			},
+			{
+				"id": "faq_global_programmatic_ssp_7",
+				"q": "¿Cuántas agencias/marcas realizan transacciones en el SSP de Broadsign?",
+				"a": "Más de mil anunciantes utilizan Broadsign SSP para enviar sus mensajes a las pantallas de todo el mundo."
+			},
+			{
+				"id": "faq_global_programmatic_ssp_8",
+				"q": "¿Cuáles son los beneficios de las ventas programáticas frente a las directas?",
+				"a": "La programática es sinónimo  de automatización. Aunque las ventas programáticas no deberían de reemplazar sus ventas directas, pueden brindarle herramientas para complementar dichas ventas con subastas automatizadas para cualquier otro inventario disponible.  En combinación con las funciones completas de Broadsign, como la seguridad de la marca y las campañas prioritarias, puede abrir una nueva fuente de ingresos de forma segura y confiable con Broadsign Reach."
+			}
+		]
+	},
+	"shin": {
+		"title": "Descubra lo que podemos hacer por su red",
+		"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+		"ctaBookCall": "Reservar una llamada",
+		"ctaDemo": "Solicite una demostración",
+		"ctaPricing": "Vea nuestros planes"
+	},
+	"bookACall": { "title": "Reservar una llamada" }
+}

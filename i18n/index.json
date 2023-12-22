@@ -1,0 +1,509 @@
+{
+	"en": {
+		"seo": {
+			"title": "Broadsign, The Platform that Powers Out-of-Home",
+			"description": "The end-to-end solution for media owners and buyers to plan, manage and deliver out-of-home media."
+		},
+		"hero": {
+			"title": ["The", "Platform", "that Powers", "OOH"],
+			"par": "The end-to-end solution for media owners and buyers to plan, manage and deliver out-of-home media.",
+			"ctaContact": "Contact us",
+			"ctaPlans": "See our plans"
+		},
+		"branches": {
+			"overtitle": "Light up your world",
+			"title": "Buy, sell and deliver OOH media",
+			"mediaOwners": {
+				"overtitle": "For Media Owners",
+				"title": "Manage your digital, static and programmatic OOH business all in one platform",
+				"cta": "Learn more"
+			},
+			"brandsAgencies": {
+				"overtitle": "For Brands & Agencies",
+				"title": "Enhance the performance of your omnichannel campaigns with contextual and targeted pDOOH",
+				"cta": "Learn more"
+			}
+		},
+		"clients": {
+			"title": "Our Clients"
+		},
+		"features": {
+			"dooh": {
+				"overtitle": "Buy digital out-of-home",
+				"title": "Reach your target audiences at the right time and place",
+				"par": "Increase the impact of your DOOH campaign by running targeted ads across different environments and venue types, and reach your desired audience at every stage of their journey.",
+				"cta": "Learn more"
+			},
+			"automatedManagement": {
+				"overtitle": "Automated & secure delivery",
+				"title": "Save time with automated network management",
+				"par": "Trust your automated campaign workflows to play the right content at the right time, gaining complete visibility into your network's performance with in-depth campaign reporting. Ensure your sensitive data and information are kept safe with our SOC 2 Type 2 certified software.",
+				"cta": "Learn more"
+			},
+			"campaignTools": {
+				"overtitle": "Sell across all formats",
+				"title": "Drive more revenue with advanced campaign tools",
+				"par": "Meet the needs of today's media buyer with both fixed and flexible campaign types. Close deals faster with real-time inventory availability and optimize fill rates by instantly booking flexibly scheduled DOOH campaigns.",
+				"cta": "Learn more"
+			}
+		},
+		"quotes": [
+			{
+				"id": "intersection",
+				"name": "Intersection",
+				"text": "“With Broadsign, we have the enhanced flexibility, creative capabilities, and planning tools we need to make connections more efficiently and cohesively across our network.”"
+			},
+			{
+				"id": "lightbox",
+				"name": "Lightbox",
+				"text": "“Since our transition to Broadsign, we've been able to streamline our workflow, become more flexible and react more quickly to changes made by advertisers.”"
+			},
+			{
+				"id": "corus",
+				"name": "Corus",
+				"text": "“Broadsign Ads was instrumental in helping boost the impact of our OLV and TV ads by allowing us to reach audiences with similar messaging in the physical world. The platform made is easy to deliver targeted ads that encouraged audiences to take action.”"
+			}
+		],
+		"stats": [
+			{
+				"id": "signs",
+				"prenumber": "",
+				"number": "+1M",
+				"what": "signs"
+			},
+			{
+				"id": "countries",
+				"prenumber": "",
+				"number": "82",
+				"what": "countries"
+			},
+			{
+				"id": "ads",
+				"prenumber": "",
+				"number": "+24B",
+				"what": "ads served/month"
+			},
+			{
+				"id": "impressions",
+				"prenumber": "",
+				"number": "+100B",
+				"what": "impressions/month"
+			}
+		],
+		"shin": {
+			"title": "Discover what we can do for OOH",
+			"par": "Get in touch with us and a team member will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+			"cta": "Request a demo"
+		},
+		"getInTouch": "Get in touch with us!",
+		"campaignsLaunchedWithBroadsign": "Campaigns launched with Broadsign",
+		"learnMore": "Learn more"
+	},
+
+	"fr": {
+		"seo": {
+			"title": "Broadsign : La plateforme qui propulse l'affichage extérieur",
+			"description": "La solution globale pour les propriétaires et les acheteurs de médias pour planifier, gérer et diffuser l'affichage extérieur."
+		},
+		"hero": {
+			"title": ["La", "plateforme", "qui propulse", "l'affichage", "extérieur"],
+			"par": "La solution globale pour les propriétaires et les acheteurs de médias pour planifier, gérer et diffuser l'affichage extérieur.",
+			"ctaContact": "Nous rejoindre",
+			"ctaPlans": "Découvrir nos forfaits"
+		},
+		"branches": {
+			"overtitle": "Illuminez votre monde",
+			"title": "Achetez, vendez et livrez de l'affichage extérieur",
+			"mediaOwners": {
+				"overtitle": "Propriétaires de médias",
+				"title": "Gérez votre affichage extérieur numérique, statique et programmatique à partir d'une seule plateforme.",
+				"cta": "En savoir plus"
+			},
+			"brandsAgencies": {
+				"overtitle": "Marques et agences",
+				"title": "Augmentez la portée de vos campagnes publicitaires omnicanal grâce au DOOH programmatique ciblé et contextuel.",
+				"cta": "En savoir plus"
+			}
+		},
+		"clients": {
+			"title": "Notre clientèle"
+		},
+		"features": {
+			"dooh": {
+				"overtitle": "Achat d'affichage extérieur numérique",
+				"title": "Adressez-vous à vos publics cibles au bon moment et au bon endroit",
+				"par": "Augmentez l'impact de votre campagne DOOH en diffusant des publicités ciblées dans différents environnements et types de lieux, et atteignez votre public cible à chaque étape de son parcours.",
+				"cta": "En savoir plus"
+			},
+			"automatedManagement": {
+				"overtitle": "Livraison sécurisée et automatisée",
+				"title": "Gagnez du temps grâce à la gestion automatisée de votre réseau",
+				"par": "Laissez votre contenu se placer automatiquement au meilleur moment tout en supervisant le rendement de votre réseau jusque dans les fins détails des performances de votre campagne. Notre logiciel certifié SOC 2 Type 2 assure la confidentialité et la sécurité de vos données et de vos renseignements.",
+				"cta": "En savoir plus"
+			},
+			"campaignTools": {
+				"overtitle": "La vente sous toutes ses formes",
+				"title": "Générez plus de revenus avec des outils de campagne avancés",
+				"par": "Comblez tous vos besoins contemporains d'achats médiatiques grâce à des campagnes de type fixe et flexible. Concluez des ventes rapidement en faisant le suivi en temps réel de votre inventaire et optimisez vos taux de diffusion en réservant instantanément des campagnes d'affichage extérieur numérique flexibles.",
+				"cta": "En savoir plus"
+			}
+		},
+		"quotes": [
+			{
+				"id": "intersection",
+				"name": "Intersection",
+				"text": "« Broadsign nous procure la souplesse, les capacités de création et les outils de planification améliorés dont nous avons besoin pour rendre ces communications plus efficaces et plus cohérentes dans l'ensemble de notre réseau. »"
+			},
+			{
+				"id": "lightbox",
+				"name": "Lightbox",
+				"text": "« Depuis notre transition vers Broadsign, nous avons amélioré l'efficience de nos processus. Cette nouvelle flexibilité nous permet de réagir de façon plus rapide face à tout changement demandé par les annonceurs. »"
+			},
+			{
+				"id": "corus",
+				"name": "Corus",
+				"text": "« Les publicités de Broadsign ont permis d'augmenter la portée de nos vidéos publicitaires en ligne et télévisuelles auprès de différents publics en diffusant des messages similaires à nos publicités affichées dans la réalité concrète. La plateforme facilite la création de publicités ciblées encourageant l'auditoire à passer à l'action. »"
+			}
+		],
+		"stats": [
+			{
+				"id": "signs",
+				"prenumber": "Plus d'",
+				"number": "1 million",
+				"what": "d'affiches à travers le monde"
+			},
+			{
+				"id": "countries",
+				"prenumber": "Présence dans",
+				"number": "82 ",
+				"what": "pays"
+			},
+			{
+				"id": "ads",
+				"prenumber": "Plus de",
+				"number": "24 milliards",
+				"what": "de publicités livrées chaque mois"
+			},
+			{
+				"id": "impressions",
+				"prenumber": "Plus de",
+				"number": "100 milliards",
+				"what": "d'impressions chaque mois"
+			}
+		],
+		"shin": {
+			"title": "Découvrez ce que nous pouvons faire pour le OOH",
+			"par": "Contactez-nous et un membre de notre équipe vous contactera dans les plus brefs délais pour organiser un appel. Laissez-nous faire savoir s'il y a des questions dont vous aimeriez discuter.",
+			"cta": "Demander une démo"
+		},
+		"getInTouch": "Contactez-nous !",
+		"banner20": "",
+		"campaignsLaunchedWithBroadsign": "Campagnes lancées avec Broadsign",
+		"learnMore": "En savoir plus"
+	},
+	"es": {
+		"seo": {
+			"title": "Broadsign : La plataforma que impulsa la publicidad exterior",
+			"description": "La solución integral para propietarios y compradores de medios para planificar, gestionar y entregar publicidad exterior OOH"
+		},
+		"hero": {
+			"title": ["La ", "plataforma", "que impulsa la", "publicidad", "exterior"],
+			"par": "La solución integral para propietarios y compradores de medios para planificar, gestionar y entregar publicidad exterior OOH",
+			"ctaContact": "Contáctanos",
+			"ctaPlans": "Ver nuestros planes"
+		},
+		"branches": {
+			"overtitle": "Ilumina tu mundo",
+			"title": "Compra, vende y ofrece medios exteriores",
+			"mediaOwners": {
+				"overtitle": "Para propietarios de medios",
+				"title": "Gestiona tu negocio exterior digital, estático y programático, todo desde una sola plataforma.",
+				"cta": "Más información"
+			},
+			"brandsAgencies": {
+				"overtitle": "Para marcas y agencias",
+				"title": "Aumenta el rendimiento de tus campañas omnicanales con DOOH contextual, dirigido y programático.",
+				"cta": "Más información"
+			}
+		},
+		"clients": {
+			"title": "Nuestros clientes"
+		},
+		"features": {
+			"dooh": {
+				"overtitle": "Compra de publicidad digital exterior",
+				"title": "Alcanza tu audiencia objetivo en el momento y lugar indicados",
+				"par": "Aumenta el impacto de tu campaña de dooh al reproducir publicidad dirigida en diferentes contextos y lugares, y alcanza a tu audiencia objetivo en cada etapa de su recorrido.",
+				"cta": "Más información"
+			},
+			"automatedManagement": {
+				"overtitle": "Entrega automatizada y segura",
+				"title": "Ahorra tiempo con una gestión de redes automatizada",
+				"par": "Confía en tus flujos de trabajo de campaña automatizados para reproducir el contenido correcto en el momento apropiado, ganando visibilidad completa del rendimiento de tu red, gracias a informes detallados. asegúrate que tus datos e información sensibles están a salvo, gracias a nuestro software certificado como soc tipo 2.",
+				"cta": "Más información"
+			},
+			"campaignTools": {
+				"overtitle": "Venta en todos los formatos",
+				"title": "Genera más ingresos con herramientas de campaña avanzadas",
+				"par": "Cumple con los requisitos del comprador de medios con tipos de campañas fijas y flexibles. cierre tratos más rápido con un inventario en tiempo real y optimice sus fill rates al reservar de manera instantánea campañas de dooh programadas con flexibilidad.",
+				"cta": "Más información"
+			}
+		},
+		"quotes": [
+			{
+				"id": "intersection",
+				"name": "Intersection",
+				"text": "Con Broadsign tenemos la flexibilidad, las capacidades creativas y las herramientas de planificación necesarias  para hacer conexiones de manera más eficaz y cohesiva a lo largo de toda nuestra red."
+			},
+			{
+				"id": "lightbox",
+				"name": "Lightbox",
+				"text": "Desde que incorporamos Broadsign, hemos podido agilizar nuestro flujo de trabajo, ser más flexibles y reaccionar más rápidamente a los cambios realizados por los anunciantes."
+			},
+			{
+				"id": "corus",
+				"name": "Corus",
+				"text": "Broadsign Ads fue decisivo para ayudar a potenciar el impacto de nuestros anuncios OLV y TV al permitirnos alcanzar públicos con mensajería similar a aquella que está en el mundo físico. La plataforma facilitó la entrega de anuncios dirigidos que incitaban al público a actuar."
+			}
+		],
+		"stats": [
+			{
+				"id": "signs",
+				"prenumber": "",
+				"number": "+1M",
+				"what": "de letreros en todo el mundo"
+			},
+			{
+				"id": "countries",
+				"prenumber": "",
+				"number": "82",
+				"what": "países"
+			},
+			{
+				"id": "ads",
+				"prenumber": "",
+				"number": "+24 mil millones",
+				"what": "de anuncios lanzados por mes"
+			},
+			{
+				"id": "impressions",
+				"prenumber": "",
+				"number": "+100 mil millones",
+				"what": "de impresiones por mes"
+			}
+		],
+		"shin": {
+			"title": "Descubra lo que podemos hacer por el OOH",
+			"par": "Póngase en contacto con nosotros y un miembro de nuestro equipo se comunicará lo antes posible para programar una llamada. Háganos saber si hay alguna pregunta que le gustaría discutir.",
+			"cta": "Solicite una demostración"
+		},
+		"getInTouch": "¡Contáctanos!",
+		"banner20": "",
+		"campaignsLaunchedWithBroadsign": "Campañas lanzadas con Broadsign",
+		"learnMore": "Más información"
+	},
+	"de": {
+		"seo": {
+			"title": "Broadsign - Die Plattform für Out-of-Home",
+			"description": "Eine End-to-End-Softwarelösung für Medieneigentümer und -einkäufer zur ganzheitlichen Planung, Verwaltung und Bereitstellung von Out-of-Home-Medien."
+		},
+		"hero": {
+			"title": ["Die", "Plattform", "für", "out-of-home"],
+			"par": "Die umfassende Lösung für Medienbesitzer und Käufer zur Planung, Verwaltung und Auslieferung von Out-of-Home-Medien.",
+			"ctaContact": "Kontaktieren Sie uns",
+			"ctaPlans": "Schauen Sie sich unsere Angebote an"
+		},
+		"branches": {
+			"overtitle": "Bringen Sie Ihre Welt zum Leuchten",
+			"title": "Out-of-Home-Medien kaufen, verkaufen und ausliefern",
+			"mediaOwners": {
+				"overtitle": "Für Medieneigentümer",
+				"title": "Verwalten Sie Ihr digitales, statisches und programmatisches Out-of-Home-Geschäft auf einer einzigen Plattform.",
+				"cta": "Mehr Erfahren"
+			},
+			"brandsAgencies": {
+				"overtitle": "Für Marken & Agenturen",
+				"title": "Steigern Sie die Wirkungskraft Ihrer Omnichannel-Kampagnen mit kontextbezogener und zielgerichteter programmatischer DOOH-Werbung.",
+				"cta": "Mehr Erfahren"
+			}
+		},
+		"clients": {
+			"title": "Unsere Kunden"
+		},
+		"features": {
+			"dooh": {
+				"overtitle": "Digital-Out-of-Home-Werbung einkaufen",
+				"title": "Erreichen Sie Ihre Zielgruppe zur richtigen Zeit am richtigen Ort",
+				"par": "Erhöhen Sie die Wirkung Ihrer DOOH-Kampagne, indem Sie in verschiedenen Umfeldern und an verschiedenen Orten zielgerichtete Anzeigen schalten und die gewünschten Zielgruppen in jeder Phase ihrer Kaufentscheidung erreichen. ",
+				"cta": "Mehr Erfahren"
+			},
+			"automatedManagement": {
+				"overtitle": "Automatisierte & sichere Ausspielung",
+				"title": "Sparen Sie Zeit mit automatisiertem Netzwerkmanagement",
+				"par": "Verlassen Sie sich darauf, dass Ihre automatisierten Kampagnen-Workflows die richtigen Inhalte zur richtigen Zeit ausspielen und verschaffen Sie sich mit detaillierten Kampagnenberichten einen umfassenden Überblick über die Performance Ihres Netzwerks. Sorgen Sie mit unserer SOC 2 Typ 2 zertifizierten Software dafür, dass Ihre vertraulichen Daten und Informationen stets sicher sind.",
+				"cta": "Mehr Erfahren"
+			},
+			"campaignTools": {
+				"overtitle": "Über alle Formate hinweg verkaufen",
+				"title": "Steigern Sie Ihren Umsatz mit fortschrittlichen OOH-Kampagnentools",
+				"par": "Erfüllen Sie die Anforderungen der Medienkäufer von heute mit festen und flexiblen Kampagnenarten.  Bringen Sie Geschäfte mit Echtzeit-Inventarverfügbarkeit schneller zum Abschluss und optimieren Sie die Auslastungsquoten durch sofortige Buchung von flexibel geplanten DOOH-Kampagnen.",
+				"cta": "Mehr Erfahren"
+			}
+		},
+		"quotes": [
+			{
+				"id": "intersection",
+				"name": "Intersection",
+				"text": "„Mit Broadsign verfügen wir über hohe Flexibilität sowie über die erforderlichen kreativen Fähigkeiten und Planungstools, die wir benötigen, um Verbindungen in unserem Netzwerk effizienter und kohärenter herzustellen.“"
+			},
+			{
+				"id": "lightbox",
+				"name": "Lightbox",
+				"text": "„Seit unserer Umstellung auf Broadsign konnten wir unseren Workflow optimieren, flexibler werden und schneller auf Änderungen seitens der Werbetreibenden reagieren.“"
+			},
+			{
+				"id": "corus",
+				"name": "Corus",
+				"text": "„Durch den Einsatz von Broadsign Ads konnten wir die Wirkung unserer OLV- und TV-Werbung steigern, indem wir unsere Zielgruppen mit ähnlichen Botschaften in der physischen Welt erreichen konnten. Die Plattform hat es leicht gemacht, gezielte Anzeigen zu schalten, die das Publikum zum Handeln aufforderten.“"
+			}
+		],
+		"stats": [
+			{
+				"id": "signs",
+				"prenumber": "",
+				"number": "1 Mio.",
+				"what": "Werbetafeln in aller Welt zum Leuchten"
+			},
+
+			{
+				"id": "countries",
+				"prenumber": "",
+				"number": "82",
+				"what": "Länder"
+			},
+			{
+				"id": "ads",
+				"prenumber": "",
+				"number": "24 Milliarden",
+				"what": "geschaltete Anzeigen pro Monat"
+			},
+			{
+				"id": "impressions",
+				"prenumber": "",
+				"number": "+100 Milliarden",
+				"what": "Impressionen pro Monat"
+			}
+		],
+		"shin": {
+			"title": "Entdecken Sie, was wir für OOH tun können",
+			"par": "Setzen Sie sich mit uns in Verbindung und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Bitte lassen Sie uns wissen, wenn Sie Fragen haben, die Sie gerne besprechen möchten.",
+			"cta": "Vereinbaren Sie eine Plattform-Demo"
+		},
+		"getInTouch": "Kontaktieren Sie uns!",
+		"banner20": "",
+		"campaignsLaunchedWithBroadsign": "Mit Broadsign gestartete Kampagnen",
+		"learnMore": "Mehr Erfahren"
+	},
+	"jp": {
+		"seo": {
+			"title": "Broadsign — OOHを支えるプラットフォーム",
+			"description": "メディアオーナーとバイヤーがOOHメディアを総合的にプランニング、管理、配信するためのエンドツーエンドのソリューション。"
+		},
+		"hero": {
+			"title": ["OOH", "を支える", "プラットフォーム"],
+			"par": "メディアオーナーとバイヤー向けのエンドツーエンドソリューション、屋外メディアの計画、管理、配信を行います。",
+			"ctaContact": "問い合わせはこちら",
+			"ctaPlans": "プランの詳細を見る"
+		},
+		"branches": {
+			"overtitle": "世界を照らそう",
+			"title": "OOHメディアの購入、販売、配信",
+			"mediaOwners": {
+				"overtitle": "メディアオーナー様向け",
+				"title": "1つのプラットフォームでデジタル、スタティック、プログラマティックなOOHビジネスを管理。",
+				"cta": "詳細はこちら"
+			},
+			"brandsAgencies": {
+				"overtitle": "広告主様向け",
+				"title": "コンテクストとターゲットを絞ったプログラマティックDOOHで、オムニチャネルキャンペーンのパフォーマンスを強化。",
+				"cta": "詳細はこちら"
+			}
+		},
+		"clients": {
+			"title": "我々の顧客"
+		},
+		"features": {
+			"dooh": {
+				"overtitle": "DOOHの購入 ",
+				"title": "適切な時間と場所でターゲットオーディエンスにリーチ",
+				"par": "さまざまなタイプの場所や環境でターゲットを絞った広告を掲載することで、DOOHキャンペーンの効果を高め、接触したいあらゆる段階の視聴者にリーチできます。",
+				"cta": "詳細はこちら"
+			},
+			"automatedManagement": {
+				"overtitle": "安全かつ自動化された配信",
+				"title": "自動化されたネットワーク管理で時間をセーブする",
+				"par": "自動化されたキャンペーンワークフローで、適切なコンテンツを適切なタイミングで再生し、詳細なキャンペーンレポートによりネットワークのパフォーマンスを完全に可視化します。SOC 2 Type 2認証を取得したソフトウェアで、機密データや情報を確実に保護します。",
+				"cta": "詳細はこちら"
+			},
+			"campaignTools": {
+				"overtitle": "あらゆるフォーマットでの販売 ",
+				"title": "高度なキャンペーンツールで収益を拡大",
+				"par": "バイヤーの需要に対応するため、定型化されたキャンペーンと柔軟なキャンペーンの両方をご用意しています。リアルタイムな在庫状況管理による迅速な商談成立と、フレキシブルにスケジュールされたDOOHキャンペーンを即座に予約することで、フィルレートを最適化します。",
+				"cta": "詳細はこちら"
+			}
+		},
+		"quotesTitle": "大手企業からの厚い信頼",
+		"quotes": [
+			{
+				"id": "intersection",
+				"name": "Intersection",
+				"text": "Broadsignを導入することで、柔軟性、クリエイティブの可能性、プランニングツールが強化され、ネットワーク全体をより効率的かつ統合的に接続できるようになりました。"
+			},
+			{
+				"id": "lightbox",
+				"name": "Lightbox",
+				"text": "Broadsignに移行してから、ワークフローを合理化し、より柔軟に、より迅速に広告主の行なった変更に対応することができるようになりました。"
+			},
+			{
+				"id": "corus",
+				"name": "Corus",
+				"text": "Broadsign Adsは、オンライン動画広告やテレビ広告のインパクトを高めるのに役立ちました。このプラットフォームのおかげで、視聴者に行動を促すターゲット広告を簡単に配信することができました。"
+			}
+		],
+		"stats": [
+			{
+				"id": "signs",
+				"prenumber": "世界中で",
+				"number": "100万",
+				"what": "以上の看板"
+			},
+			{
+				"id": "countries",
+				"prenumber": ".",
+				"number": "82",
+				"what": "ヶ国"
+			},
+			{
+				"id": "ads",
+				"prenumber": "月間",
+				"number": "240億",
+				"what": "以上の広告を配信"
+			},
+			{
+				"id": "impressions",
+				"prenumber": "月間",
+				"number": "1000億",
+				"what": "以上のインプレッション"
+			}
+		],
+		"shin": {
+			"title": "お客様のネットワークに提供できるもの",
+			"par": "ぜひお気軽にお問い合わせください。チームよりすみやかにお電話での相談予約についてご連絡させていただきます。ご質問があればぜひお知らせください。",
+			"cta": "デモを予約する"
+		},
+		"getInTouch": "お問い合わせ",
+		"banner20": "",
+		"campaignsLaunchedWithBroadsign": "Broadsign で開始されたキャンペーン",
+		"learnMore": "詳細はこちら"
+	}
+}

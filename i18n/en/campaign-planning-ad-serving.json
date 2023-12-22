@@ -1,0 +1,131 @@
+{
+	"seo": {
+		"title": "Campaign Planning and Ad Serving",
+		"description": "Tap into the power of real-time inventory availability and instantly book flexibly scheduled and dynamically delivered digital out-of-home campaigns."
+	},
+	"hero": {
+		"overtitle": "Campaign Planning and Ad Serving",
+		"title": "Drive more revenue with advanced OOH campaign tools",
+		"blurb": "Tap into the power of real-time inventory availability and instantly book flexibly scheduled and dynamically delivered digital out-of-home campaigns.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"logos": {
+		"title": "Used by leading OOH networks around the globe"
+	},
+	"features": {
+		"inventory": {
+			"overtitle": "Real-time inventory availability",
+			"title": "Secure inventory with real-time data",
+			"par": "Want to stop relying on back-and-forth emails and calls to negotiate and close a deal? With real-time access to your inventory, you can secure the best available ad space to hold or schedule an OOH campaign and get deals done faster."
+		},
+		"flexibility": {
+			"overtitle": "Flexible campaign types",
+			"title": "Schedule campaigns with maximum flexibility",
+			"par": "Limiting your sales strategy to one campaign type can limit new business opportunities. Equip your media planners with flexible campaign types so you can better meet advertiser objectives, address changing market demands, and make more deals with your existing inventory.",
+			"cta": "Learn more"
+		},
+		"reallocation": {
+			"overtitle": "Campaign reallocation",
+			"title": "Say yes to incoming campaigns - no matter how complex",
+			"par": "When a great new deal doesn't fit your existing schedule, you shouldn't have to say no… or play a complex game of Tetris to try and squeeze it in. Optimize your network's yield with automated campaign redistribution so smart that it could never be done by hand - all with a single click.",
+			"cta": "Learn more"
+		},
+		"rebalancing": {
+			"overtitle": "Campaign rebalancing",
+			"title": "Keep campaigns on track",
+			"par": "Don't underdeliver or overdeliver - just deliver. Ensure campaign goals are met with intelligent rebalancing and pacing that automatically adjusts the frequency of campaign delivery so that your customers always - and only - get what they paid for."
+		},
+		"campaigns": {
+			"subtitle": "Campaign types offered:",
+			"types": ["Share of Voice", "Impressions", "Budget", "Plays", "Frequency", "Takeover"]
+		},
+		"comingSoon": "Coming Soon"
+	},
+	"ad_server": {
+		"new": "New!",
+		"overtitle": "Next-generation DOOH Ad Server",
+		"title": "Plan audience-based campaigns with sophisticated targeting tools",
+		"par": "Get more granular and plan campaigns based on specific audience and targeting requirements, like demographics, location, points of interest, weather and more—and watch as your booked campaigns play in real-time."
+	},
+	"lattice": {
+		"title": "Give advertisers more of what they want _without_ creating holes in your inventory",
+		"par": "Enhance your direct sales strategy with the added flexibility of audience-based campaigns to complement frequency or spot-based campaigns.",
+		"boxes": [
+			{
+				"icon": "screen",
+				"title": "Meet the targeting needs of today's omnichannel buyer",
+				"par": "Don't wait for buyers to ask you for audience-based campaigns to equip your network with the necessary targeting tools. Get access to new ways of selling campaigns today, and leverage the expertise of your direct sales team to secure ad dollars from omnichannel buyers."
+			},
+			{
+				"icon": "people",
+				"title": "Reach the right audience at the right time with contextual triggers",
+				"par": "Help buyers spend their ad dollars more effectively by reaching only the most relevant audience segments. Leverage data-driven demographics and contextual triggers – like age, location and weather – to deliver campaigns to the right audience at the optimal time."
+			},
+			{
+				"icon": "list",
+				"title": "Optimize fill rates to maximize your revenue",
+				"par": "Complementing your existing direct selling tools with our ad server will help maximize your screen fill rates and, in turn, your revenue. Access to added flexibility in campaign delivery allows you to sell your impression-based campaigns around your frequency ones."
+			},
+			{
+				"icon": "report",
+				"title": "Execute and monitor your booked campaigns in real-time",
+				"par": "Track relevant KPIs like impressions, budget spent, and ads served through a comprehensive reporting platform. Do everything in one place; build your campaign and track your campaign performance within the ad server. "
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_campaign_planning_ad_serving_1",
+				"q": "If my client wants to run a campaign based on a budget, can I accommodate their request?",
+				"a": "Of course! Our campaign management solution is built to help you sell your inventory in the best way for you and your customers. Whether a buyer wants a fixed or flexible campaign type, you'll be able to set parameters to create the campaign based on budget or even a specific number of impressions. To learn more about the different types of campaigns offered, <a href='https://broadsign.com/case-studies-customer-spotlights' target='_blank'>click here</a>."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_2",
+				"q": "What happens once I book a campaign?",
+				"a": "Our campaign management tool is natively integrated with our content management solution, so the campaigns you book will automatically be scheduled. Your media planners and ad operation teams will have access to the same live data to see this unfold."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_3",
+				"q": "Can I set up a low-priority or bonus campaign that runs if ad space is still available?",
+				"a": "Yes! We call these “preemptible campaigns,” and you can strategically designate a campaign as preemptible and assign it to specific screens with just a click of your mouse."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_4",
+				"q": "What if my client wants to buy a bulk of impressions or repetitions but spread out over different parts of the network and on different dates?",
+				"a": "You can easily set that up with our goal-based campaigns, where several runs can be combined to contribute to a singular goal."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_5",
+				"q": "How do I add audience data?",
+				"a": "You can easily add audience metrics via CSV upload. The tool will ingest this data and associate the audience and impression data to the specific screens across your inventory."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_6",
+				"q": "What exactly is an optimization engine?",
+				"a": "Our optimization engine is a technology that uses rather complicated math to ensure the best possible distribution of ads across appropriate available inventory. It redistributes content efficiently and intelligently to meet your existing commitments while opening the door to additional campaigns you may want to run. To learn more about our optimization engine benefits, watch our <a id='broadsign_direct_video_link' role='button'>short video</a>!"
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_7",
+				"q": "Can I still benefit from optimization even if I've got a small network with fewer screens?",
+				"a": "Everyone can benefit from yield optimization - no matter the size of your network. As a media owner, you should make the most of your existing screens, especially after selling impression-based or audience-based campaigns. Redistributing these kinds of campaigns to make room for new business is hard work, but our optimization engine automates the whole process so you can focus on more important matters for your business."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_8",
+				"q": "Can the system optimize the delivery of live campaigns?",
+				"a": "As a matter of fact, it can! Our optimization engine is equipped with a rebalancing tool that enables automatic self-healing. For example, if a live campaign is under or over-performing, it will kick in to bring it back on track."
+			}
+		]
+	},
+	"shin": {
+		"title": "Discover what we can do for your network",
+		"par": "Get in touch with us and a member of our team will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"bookACall": { "title": "Book a call" }
+}

@@ -1,0 +1,79 @@
+{
+	"seo": {
+		"title": "Content- und Netzwerkmanagement",
+		"description": "Management und Automatisierung digitaler Out-of-Home-Medien und Geschäftsabläufe in Netzwerken beliebiger Größe mit der weltweit zuverlässigsten Digital Signage-Software."
+	},
+	"hero": {
+		"overtitle": "Content- und Netzwerkmanagement",
+		"title": "Übernehmen Sie die Kontrolle über Ihr Netzwerk",
+		"blurb": "Management und Automatisierung digitaler Out-of-Home-Medien und Geschäftsabläufe in Netzwerken beliebiger Größe mit der weltweit zuverlässigsten Digital Signage-Software.",
+		"ctaBookCall": "Büchen Sie einen Anruf",
+		"ctaDemo": "Demo anfordern",
+		"ctaPricing": "Unsere Angebote anzeigen"
+	},
+	"logos": {
+		"title": "Kunden in aller Welt sprechen uns ihr Vertrauen aus"
+	},
+	"features": {
+		"automated_content_scheduling": {
+			"overtitle": "Automatisierte zeitliche Planung von Inhalten",
+			"title": "Mühelose Planung von Inhalten mit automatisierten Arbeitsabläufen",
+			"par": "Festlegung von Regeln zur Steuerung, wann und wo Inhalte wiedergegeben werden. Egal, ob es um die Verwaltung von 10 oder 10.000 Bildschirmen geht, unser intelligentes, Playlist-freies Medienverwaltungstool macht die zeitliche Planung und Bereitstellung Ihrer Inhalte kinderleicht."
+		},
+		"network_operations_reporting": {
+			"overtitle": "Netzwerkbetrieb und Berichterstellung",
+			"title": "Umfassende Einblicke in die Netzwerkleistung sowie detaillierte Berichterstellung",
+			"par": "Sie sollten sich keine Gedanken über Netzwerkleistung machen müssen und mit unserer Lösung brauchen Sie das auch nicht. Mit unseren Remote-Überwachungstools können Sie den Status all Ihrer Bildschirme im gesamten Netzwerk überprüfen und auch umfassende Kampagnenberichte, wie beispielsweise Proof-of-Play, erstellen."
+		},
+		"soc_compatibility": {
+			"overtitle": " Kompatibilität mit System-on-Chip",
+			"title": "Nutzung Ihrer intelligenten Bildschirme für neue Einnahmequellen",
+			"par": "Unsere technisch ausgereifte Lösung für Content- und Kampagnenmanagement hilft Ihnen dabei, Ihre System-on-Chip-Bildschirme mit Werbeinhalten aus direkten oder programmatischen Kanälen zu monetarisieren.",
+			"cta": "Mehr erfahren"
+		},
+		"cloud_based_ad_server": {
+			"overtitle": "Cloud-basierter Ad-Server",
+			"title": "Vereinfachter Betrieb für Mixed-Player-Netzwerke",
+			"par": "Müssen Sie einen anderen Player als Broadsign nutzen? Kein Problem. Mit unserem Cloud-basierten Ad-Server können Sie neben Ihren Broadsign-Playern auch Inhalte für diese planen und ausliefern, ohne die Leistung zu beeinträchtigen.. Sparen Sie Zeit durch eine Zentralisierung Ihres Netzwerkbetriebs und verwalten Sie Ihre Player von einem Standort aus.",
+			"cta": "Mehr erfahren"
+		},
+		"api_integrations": {
+			"overtitle": "API-Integrationen",
+			"title": "Ein offenes Ökosystem, das mit den von Ihnen gewünschten Tools kompatibel ist.",
+			"par": "Passen Sie Ihr Digital-Signage-Netzwerk mit einem API-First-Ansatz, der Ihre benutzerdefinierten Buchungstools, CRMs und Geschäftsautomatisierungssysteme nahtlos integriert, an Ihre Bedürfnisse an."
+		}
+	},
+	"faq": {
+		"title": "Häufig gestellte Fragen",
+		"list": [
+			{
+				"id": "faq_content_network_management_1",
+				"q": "Für welche Größe von Netzwerk ist Broadsign am besten geeignet?",
+				"a": "Die Broadsign-Plattform verwaltet Netzwerke jeder Größe – von nur wenigen Bildschirmen bis hin zu Tausenden. Unsere Lösung kann Ihnen helfen, eine effiziente und schnelle Skalierung Ihres Netzwerks durchzuführen – und das mit einem kleinen Team."
+			},
+			{
+				"id": "faq_content_network_management_2",
+				"q": "Bietet Broadsign Implementierungssupport und -dienste?",
+				"a": "Ja, wir bieten je nach Größe und Komplexität Ihres Projektes eine Vielzahl von Diensten an. Von Onboarding-Schulungen bis hin zu exklusiver Installation und Unterstützung, bieten wir den optimalen Support für jedes einzigartige Netzwerk."
+			},
+			{
+				"id": "faq_content_network_management_3",
+				"q": "Was ist der Unterschied zwischen einer Playlist-basierten Verteilung von Inhalten und automatisierten regelbasierten Loops?",
+				"a": "Bei einem automatisierten, regelbasierten System werden Playlists vom Player dynamisch erstellt. Da die Botschaft immer häufiger auf das jeweilige Publikum, die Tageszeit, die Wetterbedingungen usw. zugeschnitten werden soll, ermöglicht Ihnen Broadsign diese zielgerichtete Ansprache ohne den zusätzlichen Aufwand einer manuellen Erstellung von mehreren Playlists."
+			},
+			{
+				"id": "faq_content_network_management_4",
+				"q": "Kann ich Broadsign auch für andere Anwendungen verwenden, die ich derzeit implementiert habe?",
+				"a": "Ja! Broadsign verwendet einen API-First-Ansatz, was bedeutet, dass man die bereits im Einsatz befindlichen Tools über unsere offene API verwenden kann."
+			}
+		]
+	},
+	"shin": {
+		"title": "Entdecken Sie, was wir für Ihr Netzwerk tun können",
+		"par": "Setzen Sie sich mit uns in Verbindung und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Bitte lassen Sie uns wissen, wenn Sie Fragen haben, die Sie gerne besprechen möchten.",
+		"ctaBookCall": "Büchen Sie einen Anruf",
+		"ctaDemo": "Demo anfordern",
+		"ctaPricing": "Unsere Angebote anzeigen"
+	},
+	"bookACall": { "title": "Büchen Sie einen Anruf" }
+}

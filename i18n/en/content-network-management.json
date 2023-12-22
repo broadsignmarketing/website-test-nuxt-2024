@@ -1,0 +1,79 @@
+{
+	"seo": {
+		"title": "Content and Network Management",
+		"description": "Manage and automate digital out-of-home media and operations across networks of any size with the world's most trusted digital signage software."
+	},
+	"hero": {
+		"overtitle": "Content and Network Management",
+		"title": "Take charge of your Dooh network",
+		"blurb": "Manage and automate digital out-of-home media and operations across networks of any size with the world's most trusted digital signage software.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"logos": {
+		"title": "Trusted by our customers worldwide"
+	},
+	"features": {
+		"automated_content_scheduling": {
+			"overtitle": "Automated content scheduling",
+			"title": "Effortless content scheduling with automated workflows",
+			"par": "Set the rules for when and where content should play and let our system handle the rest. Whether you manage 10 screens or 10,000, our intelligent, playlist-free media management tool makes it easy to schedule and deliver your content."
+		},
+		"network_operations_reporting": {
+			"overtitle": "Network operations & reporting",
+			"title": "Full visibility into your network's performance and in-depth reporting",
+			"par": "You shouldn't have to worry about network performance, and with our solution, you don't have to. Our remote monitoring tools let you check the status of your screens across your entire network and also allow you to pull comprehensive campaign reports, such as proof-of-play."
+		},
+		"soc_compatibility": {
+			"overtitle": "System-on-chip compatibility",
+			"title": "Open your smart screens to new revenue streams",
+			"par": "Our sophisticated content and campaign management solution can now help you monetize your system-on-chip screens with advertising content from direct or programmatic channels.",
+			"cta": "Learn more"
+		},
+		"cloud_based_ad_server": {
+			"overtitle": "Cloud-based ad server",
+			"title": "Simplified operations for mixed-player networks",
+			"par": "Need to run a non-Broadsign player? No problem. Our cloud-based ad server lets you schedule and deliver content to these alongside your Broadsign players without compromising performance. Save time by centralizing your network operations and manage your players from one location.",
+			"cta": "Learn more"
+		},
+		"api_integrations": {
+			"overtitle": "API integrations",
+			"title": "An open ecosystem that connects with the tools you want",
+			"par": "Customize your digital signage network with an API-first approach that seamlessly integrates your custom booking tools, CRMs, and business automation systems."
+		}
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_content_network_management_1",
+				"q": "What size networks is Broadsign a best fit for?",
+				"a": "The Broadsign Platform is used to manage networks of all sizes —from just a few screens to thousands. Our solution can help scale your network efficiently and quickly, while still utilizing a small team."
+			},
+			{
+				"id": "faq_content_network_management_2",
+				"q": "Does Broadsign offer implementation support and services?",
+				"a": "Yes, we offer a variety of services depending on the scale and complexity of your deployment. From onboarding training to complete white glove installation and support, we have the proper support for each unique network."
+			},
+			{
+				"id": "faq_content_network_management_3",
+				"q": "What's the difference between playlist-based content distribution and automated rule-based loops?",
+				"a": "An automated rule-based system is where playlists are built by the player dynamically. With the increasing desire to tailor the message to the right audience, time-of-day, weather condition, etc., Broadsign enables this targeted messaging without the workload of creating multiple playlists manually."
+			},
+			{
+				"id": "faq_content_network_management_4",
+				"q": "Can I connect Broadsign to other applications that I currently have implemented?",
+				"a": "Yes! Broadsign uses an API-first approach which means you can connect to the tools you already use with our open API."
+			}
+		]
+	},
+	"shin": {
+		"title": "Discover what we can do for your network",
+		"par": "Get in touch with us and a member of our team will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"bookACall": { "title": "Book a call" }
+}

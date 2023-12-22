@@ -1,0 +1,133 @@
+{
+	"seo": {
+		"title": "Gestion de campagnes et diffusion d'annonces",
+		"description": "Exploitez la puissance de la disponibilité des stocks en temps réel et réservez instantanément des campagnes d'affichage extérieur numérique programmées de manière flexible et exécutées de façon dynamique."
+	},
+	"hero": {
+		"overtitle": "Gestion de campagnes et diffusion d'annonces",
+		"title": "Augmentez vos revenus grâce à des outils avancés pour les campagnes d'affichage extérieur",
+		"blurb": "Exploitez la puissance de la disponibilité des stocks en temps réel et réservez instantanément des campagnes d'affichage extérieur numérique programmées de manière flexible et exécutées de façon dynamique.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	},
+	"logos": {
+		"title": "Utilisée par les plus grands réseaux d'affichage extérieur au monde"
+	},
+	"features": {
+		"inventory": {
+			"overtitle": "Disponibilité des stocks en temps réel",
+			"title": "Inventaires sécurisés grâce à des données en temps réel",
+			"par": "Vous en avez assez que la négociation et la conclusion d'une affaire nécessitent d'innombrables courriels et appels? Grâce à un accès en temps réel à votre inventaire, vous pouvez obtenir le meilleur espace publicitaire disponible pour organiser ou planifier une campagne d'affichage extérieur et conclure des offres plus rapidement."
+		},
+		"flexibility": {
+			"overtitle": "Types de campagnes flexibles",
+			"title": "Programmez des campagnes avec un maximum de flexibilité",
+			"par": "Limiter votre stratégie de vente à un type de campagne peut réduire le nombre de nouvelles occasions d'offres. Équipez vos planificateurs médias avec des types de campagnes flexibles et vous pourrez mieux répondre aux objectifs des annonceurs, adresser l'évolution constante du marché et conclure plus d'accords avec votre inventaire actuel.",
+			"cta": "En savoir plus"
+		},
+		"reallocation": {
+			"overtitle": "Réaffectation de campagnes",
+			"title": "Dites oui aux campagnes entrantes- quelle que soit leur complexité",
+			"par": "Lorsqu'une nouvelle offre intéressante se présente alors que vous en avez déjà beaucoup à l'horaire, vous ne devriez pas avoir à refuser... ni à jouer à Tétris avec l'horaire pour arriver à l'y glisser de peine et de misère. Optimisez le rendement de votre réseau grâce à une redistribution automatisée et hautement intelligente des campagnes, le tout en un seul clic.",
+			"cta": "En savoir plus"
+		},
+		"rebalancing": {
+			"overtitle": "Réajustement des campagnes",
+			"title": "Gardez les campagnes sur la bonne voie",
+			"par": "N'en faites pas plus ni moins qu'il faut dans l'exécution de vos campagnes : vous devez simplement satisfaire les attentes de vos clients. Assurez-vous que les objectifs de la campagne sont atteints grâce à un rééquilibrage et à un rythme intelligents qui ajustent automatiquement la fréquence de diffusion de la campagne. Ainsi, vos clients obtiendront toujours (et seulement) ce pour quoi ils ont payé."
+		},
+		"campaigns": {
+			"subtitle": "Types de campagne proposés :",
+			"types": ["Share of voice", "Impressions", "Budget", "Plays", "Frequency", "Takeover"]
+		},
+		"comingSoon": "Bientôt disponible!"
+	},
+	"ad_server": {
+		"new": "Nouveauté!",
+		"overtitle": "Ad Server DOOH de nouvelle génération",
+		"title": "Planifiez des campagnes adaptées au public grâce à des outils de ciblage sophistiqués",
+		"par": "Menez des campagnes plus précises et planifiez-les en fonction d'un public particulier et d'exigences de ciblage (données démographiques, lieu, météo, etc.); observez la diffusion en temps réel de vos campagnes réservées."
+	},
+	"lattice": {
+		"title": "Répondez mieux aux besoins des annonceurs _sans_ surcharger votre inventaire publicitaire",
+		"par": "Améliorez votre stratégie de vente directe grâce à la flexibilité accrue des campagnes adaptées au public cible, qui viennent compléter les campagnes ponctuelles et celles basées sur la fréquence.",
+		"boxes": [
+			{
+				"icon": "screen",
+				"title": "Répondre aux besoins en matière de ciblage des acheteurs omnicanaux",
+				"par": "Ajoutez dès maintenant les bons outils de ciblage à vos réseaux afin de pouvoir offrir des campagnes adaptées au public de votre clientèle. Découvrez de nouvelles méthodes de vente de campagnes et tirez parti de l'expertise de votre équipe de vente directe pour maximiser les dépenses publicitaires des acheteurs omnicanaux."
+			},
+			{
+				"icon": "people",
+				"title": "Atteindre le bon public au bon moment grâce à des déclencheurs contextuels",
+				"par": "Aidez les acheteurs à dépenser plus efficacement leur budget publicitaire en n'atteignant que les segments du public les plus pertinents. Exploitez les déclencheurs démographiques et contextuels basés sur les données, tels que l'âge, le lieu et la météo, pour diffuser des campagnes auprès du bon public et au bon moment."
+			},
+			{
+				"icon": "list",
+				"title": "Optimiser les taux de diffusion pour maximiser vos revenus",
+				"par": "En complétant vos outils de vente directe existants avec notre serveur publicitaire, vous maximiserez vos taux de diffusion et, par conséquent, vos revenus. Une plus grande flexibilité dans la diffusion des campagnes vous permet de vendre vos campagnes basées sur les impressions en fonction de vos campagnes basées sur la fréquence."
+			},
+			{
+				"icon": "report",
+				"title": "Diffuser et surveiller vos campagnes réservées en temps réel",
+				"par": "Suivez les KPI pertinents tels que les impressions, le budget dépensé et les publicités diffusées via une plate-forme de création de rapports complète. Faites tout en un seul endroit; créez votre campagne et suivez les performances de votre campagne au sein du serveur publicitaire."
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQ",
+		"list": [
+			{
+				"id": "faq_campaign_planning_ad_serving_1",
+				"q": "Si mon client souhaite lancer une campagne en fonction d'un budget, puis-je répondre à sa demande?",
+				"a": "Bien sûr! Notre solution de gestion de campagnes est conçue pour vous aider à vendre vos stocks de la meilleure façon possible pour vous et pour vos clients. Qu'un acheteur souhaite une campagne fixe ou flexible, vous pourrez définir des paramètres pour créer la campagne en fonction du budget ou même d'un nombre précis d'impressions. Pour en savoir plus sur les différents types de campagnes proposées, <a href='https://broadsign.com/case-studies-customer-spotlights' target='_blank'>cliquez ici</a>."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_2",
+				"q": "Que se passe-t-il une fois que j'ai réservé une campagne?",
+				"a": "Notre outil de gestion de campagnes est intégré à notre solution de gestion de contenu de manière native, de sorte que les campagnes que vous réservez seront automatiquement programmées. Vos planificateurs médias et vos équipes d'opérations publicitaires auront accès aux mêmes données en temps réel pour suivre le déroulement de la campagne."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_3",
+				"q": "Puis-je mettre en place une campagne de faible priorité ou une campagne bonus qui sera lancée si de l'espace publicitaire est encore disponible?",
+				"a": "Oui. Nous appelons ce type de campagnes des « campagnes non prioritaires », et vous pouvez stratégiquement désigner une campagne comme non prioritaire et l'affecter à des écrans précis en un simple clic."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_4",
+				"q": "Que se passe-t-il si mon client souhaite acheter un volume d'impressions ou de répétitions, mais réparties sur différentes parties du réseau et à des dates différentes?",
+				"a": "Vous pouvez facilement répondre à cette demande grâce à nos campagnes basées sur des objectifs, où plusieurs diffusions peuvent être combinées pour contribuer à un objectif unique."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_5",
+				"q": "Comment ajouter des données d'audience?",
+				"a": "Vous pouvez facilement ajouter des mesures d'audience en téléversant un fichier .csv. L'outil ingérera ces données et associera les données d'audience et d'impression à tous vos écrans concernés."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_6",
+				"q": "Qu'est-ce qu'un moteur d'optimisation?",
+				"a": "Notre moteur d'optimisation est une technologie qui utilise des calculs assez complexes afin d'assurer la meilleure distribution possible des publicités sur les stocks appropriés disponibles. Il redistribue le contenu de manière efficace et intelligente afin de répondre à vos engagements existants tout en ouvrant la porte à des campagnes supplémentaires potentielles. Pour en savoir plus sur les avantages de notre moteur d'optimisation, regardez cette <a id='broadsign_direct_video_link' role='button'>courte vidéo</a>."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_7",
+				"q": "Puis-je toujours bénéficier de l'optimisation même si j'ai un petit réseau avec moins d'écrans?",
+				"a": "Tout le monde peut bénéficier de l'optimisation du rendement, quelle que soit la taille du réseau. En tant que propriétaire de médias, vous devriez tirer le meilleur parti de vos écrans existants, en particulier après la vente de campagnes basées sur les impressions ou sur l'audience. La redistribution de ce type de campagnes pour faire place à de nouvelles affaires est un travail ardu, mais notre moteur d'optimisation automatise l'ensemble du processus afin que vous puissiez vous concentrer sur des questions plus importantes pour votre entreprise."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_8",
+				"q": "Le système peut-il optimiser la diffusion des campagnes en direct?",
+				"a": "Oui, il le peut! Notre moteur d'optimisation est équipé d'un outil de rééquilibrage qui permet une réparation automatique. Par exemple, si le rendement d'une campagne en direct est insuffisant ou excessif, l'outil intervient afin de la remettre sur la bonne voie."
+			}
+		]
+	},
+	"shin": {
+		"title": "Découvrez ce que nous pouvons faire pour votre réseau",
+		"par": "Contactez-nous et un membre de notre équipe vous contactera dans les plus brefs délais pour organiser un appel. Laissez-nous faire savoir s'il y a des questions dont vous aimeriez discuter.",
+		"ctaBookCall": "Réservez un appel",
+		"ctaDemo": "Demander une démo",
+		"ctaPricing": "Découvrir nos forfaits"
+	},
+	"bookACall": {
+		"title": "Réservez un appel"
+	}
+}

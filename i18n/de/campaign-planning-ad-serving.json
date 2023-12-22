@@ -1,0 +1,133 @@
+{
+	"seo": {
+		"title": "Kampagnenplanung und Anzeigenschaltung",
+		"description": "Nutzen Sie die Leistungsfähigkeit von Inventarverfügbarkeit in Echtzeit und buchen Sie umgehend flexibel geplante und dynamisch bereitgestellte digitale Out-of-Home-Kampagnen."
+	},
+	"hero": {
+		"overtitle": "Kampagnenplanung und Anzeigenschaltung",
+		"title": "Mehr Einnahmen generieren mit fortschrittlichen OOH-Kampagnentools",
+		"blurb": "Nutzen Sie die Leistungsfähigkeit von Inventarverfügbarkeit in Echtzeit und buchen Sie umgehend flexibel geplante und dynamisch bereitgestellte digitale Out-of-Home-Kampagnen.",
+		"ctaBookCall": "Büchen Sie einen Anruf",
+		"ctaDemo": "Demo anfordern",
+		"ctaPricing": "Unsere Angebote anzeigen"
+	},
+	"logos": {
+		"title": "Programmatische DOOH-Leaders in aller Welt bringen uns ihr Vertrauen entgegen"
+	},
+	"features": {
+		"inventory": {
+			"overtitle": "Inventarverfügbarkeit in Echtzeit",
+			"title": "Inventarabsicherung mit Echtzeitdaten",
+			"par": "Sie wollen sich bei der Aushandlung und dem Abschluss eines Geschäfts nicht mehr auf endlose E-Mails und Anrufe verlassen? Mit Echtzeitzugriff auf Ihr Inventar können Sie sich den besten verfügbaren Anzeigenplatz für die Durchführung oder die Planung einer OOH-Kampagne sichern und schneller zum Geschäftsabschluss kommen."
+		},
+		"flexibility": {
+			"overtitle": "Flexible Kampagnenarten",
+			"title": "Kampagnen mit einem Maximum an Flexibilität planen",
+			"par": "Die Beschränkung ihrer Verkaufsstrategie auf eine Kampagnenart kann Gelegenheiten für neue Geschäftsabschlüsse einschränken. Statten Sie Ihre Medienplaner mit flexiblen Kampagnenarten aus, damit Sie die Ziele der Werbetreibenden besser erreichen, sich den sich ändernden Anforderungen des Marktes anpassen und mit Ihrem bestehenden Inventar mehr Geschäftsabschlüsse tätigen können.",
+			"cta": "Mehr erfahren"
+		},
+		"reallocation": {
+			"overtitle": "Umverteilung von Kampagnen",
+			"title": "Stets bereit für neue Kampagnen – egal wie komplex",
+			"par": "Wenn ein verlockender neuer Abschluss nicht in Ihren bestehenden Zeitplan passt, sollten Sie sich ihn nicht entgehen lassen ... oder sich verrenken müssen, um ihn noch irgendwo unterzubringen. Optimieren Sie die Erträge Ihres Netzwerks mit einer automatischen Umverteilung von Kampagnen, die so intelligent ist, dass sie nie per Hand durchgeführt werden könnte – und das alles mit einem Klick.",
+			"cta": "Mehr erfahren"
+		},
+		"rebalancing": {
+			"overtitle": "Neuausrichtung von Kampagnen",
+			"title": "Kampagnen auf Kurs halten",
+			"par": "Liefern Sie nicht zu wenig oder zu viel - liefern Sie einfach. Stellen Sie sicher, dass die Kampagnenziele mit intelligentem Rebalancing und Pacing erreicht werden, das die Häufigkeit der Kampagnenzustellung automatisch anpasst, damit Ihre Kunden immer - und nur - das bekommen, wofür sie bezahlt haben."
+		},
+		"campaigns": {
+			"subtitle": "Angebotene Kampagnenarten:",
+			"types": ["Share of voice", "Impressionen", "Budget", "Aufrufen", "Frequenz", "Übernahme (Takeover)"]
+		},
+		"comingSoon": "In Kürze!"
+	},
+	"ad_server": {
+		"new": "Neu!",
+		"overtitle": "OOH-Ad-Server der nächsten Generation",
+		"title": "Planen Sie zielgruppenbasierte Kampagnen mit ausgefeilten Targeting-Tools",
+		"par": "Planen Sie Kampagnen basierend auf spezifischen Zielgruppen- und Targeting-Anforderungen wie Demografie, Standort, Interessengebieten, Wetter usw. – und beobachten Sie, wie Ihre gebuchten Kampagnen in Echtzeit ablaufen."
+	},
+	"lattice": {
+		"title": "Gehen Sie auf die Wünsche Ihrer Werbetreibenden ein, ohne dass hierdurch Lücken in Ihrem Bestand entstehen.",
+		"par": "Verbessern Sie Ihre Direktvertriebsstrategie mit der zusätzlichen Flexibilität zielgruppenbasierter Kampagnen als Ergänzung zu frequenz- oder spotbasierten Kampagnen.",
+		"boxes": [
+			{
+				"icon": "screen",
+				"title": "Erfüllung der Targeting-Anforderungen des Omnichannel-Käufers von heute",
+				"par": "Warten Sie nicht darauf, dass Käufer nach zielgruppenbasierten Kampagnen fragen, um Ihr Netzwerk mit den notwendigen Targeting-Tools auszustatten. Greifen Sie schon heute auf die neuen Möglichkeiten für den Vertrieb von Kampagnen zu und nutzen Sie das Fachwissen Ihres Direktvertriebsteams, um sich Werbegelder von Omnichannel-Käufern zu sichern."
+			},
+			{
+				"icon": "people",
+				"title": "Erreichen der richtigen Zielgruppe zur richtigen Zeit mit kontextbezogenen Triggern",
+				"par": "Helfen Sie Käufern, ihre Werbegelder effektiver einzusetzen, indem nur die relevantesten Zielgruppensegmente angesprochen werden. Nutzen Sie datengestützte demografische Angaben und kontextbezogene Trigger wie Alter, Standort und Wetter, um Kampagnen der gewünschten Zielgruppe zum optimalen Zeitpunkt anzuzeigen."
+			},
+			{
+				"icon": "list",
+				"title": "Optimierung der Belegungsquoten zur Maximierung Ihres Umsatzes",
+				"par": "Wenn Sie Ihre bestehenden Direktvertriebstools mit unserem Ad Server ergänzen, können Sie Ihre Bildschirmbelegungsquoten und somit auch Ihren Umsatz maximieren. Dank zusätzlicher Flexibilität bei der Schaltung Ihrer Kampagnen können sie Ihre auf Impressions basierenden Kampagnen als Ergänzung zu Ihren frequenzbasierten Kampagnen verkaufen."
+			},
+			{
+				"icon": "report",
+				"title": "Durchführung und Überwachung von Kampagnen in Echtzeit",
+				"par": "Verfolgen Sie relevante KPIs wie Impressions, ausgegebenes Budget und geschaltete Anzeigen über eine umfassende Reporting-Plattform. Erledigen Sie alles zentral von einer Stelle aus: Erstellen Sie Ihre Kampagne und verfolgen Sie deren Performance innerhalb des Ad Servers."
+			}
+		]
+	},
+	"faq": {
+		"title": "Häufig gestellte Fragen",
+		"list": [
+			{
+				"id": "faq_campaign_planning_ad_serving_1",
+				"q": "Kann ich den Wunsch meines Kunden erfüllen, wenn er eine Kampagne auf Grundlage eines Budgets durchführen will?",
+				"a": "Natürlich! Unsere Lösung für das Kampagnenmanagement soll Sie dabei unterstützen, Ihr Inventar auf die für Sie und Ihren Kunden beste Art und Weise zu verkaufen. Egal, ob Ihr Kunde eine feste oder flexible Kampagnenart wünscht, Sie können Parameter festlegen, um die Kampagne auf der Grundlage eines Budgets oder sogar einer bestimmten Anzahl von Impressionen zu erstellen. Wenn Sie mehr über die verschiedenen angebotenen Kampagnenarten erfahren möchten, <a href='https://broadsign.com/case-studies-customer-spotlights' target='_blank'>klicken Sie hier</a>."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_2",
+				"q": "Was passiert, wenn ich eine Kampagne gebucht habe?",
+				"a": "Unser Kampagnenmanagement-Tool ist nativ mit unserer Content-Management-Lösung integriert, so dass die von Ihnen gebuchten Kampagnen automatisch geplant werden. Ihre Mediaplaner und Ad-Operation-Teams haben Zugang zu denselben Live-Daten, um die Entwicklung zu verfolgen."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_3",
+				"q": "Kann ich eine Kampagne mit niedriger Priorität oder eine Bonus-Kampagne einrichten, die ausgeführt wird, wenn noch Anzeigenplatz verfügbar ist?",
+				"a": "Ja! Wir nennen diese Kampagnen „unterbrechbare Kampagnen“ und Sie können eine Kampagne strategisch als unterbrechbare Kampagne festlegen und diese mit nur einem Mausklick bestimmten Bildschirmen zuweisen."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_4",
+				"q": "Was ist, wenn mein Kunde eine große Anzahl von Impressionen oder Wiederholungen buchen, aber diese über verschiedene Teile des Netzwerks und über verschiedene Daten verteilen möchte?",
+				"a": "Das können Sie mithilfe von Ziel-basierten Kampagnen ganz leicht einrichten, weil mehrere Durchläufe kombiniert werden können, um ein einziges Ziel zu erreichen."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_5",
+				"q": "Wie kann ich Zielgruppendaten hinzufügen?",
+				"a": "Zielgruppendaten lassen sich durch ein CSV-Upload leicht hinzufügen. Das Tool nimmt diese Daten auf und weist die Zielgruppen- und Impressionsdaten den entsprechenden Bildschirmen in Ihrem Bestand zu."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_6",
+				"q": "Was genau ist eine Optimierungs-Engine?",
+				"a": "Bei unserer Optimierungs-Engine handelt es sich um eine Technologie, die ziemlich komplizierte Mathematik einsetzt, um die bestmögliche Verteilung von Anzeigen über ein entsprechendes verfügbares Inventar zu gewährleisten. Inhalt wird auf effiziente und intelligente Weise umverteilt, um Ihre bestehenden Verpflichtungen zu erfüllen und Ihnen gleichzeitig die Möglichkeit zu geben, bei Bedarf weitere Kampagnen durchzuführen. Wenn Sie mehr über unsere Optimierungs-Engine erfahren möchten, <a id='broadsign_direct_video_link' role='button'>können Sie sich unser kurzes Video anschauen</a>!"
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_7",
+				"q": "Kann ich auch dann von einer Optimierung profitieren, wenn ich ein kleines Netzwerk mit weniger Bildschirmen habe?",
+				"a": "Jeder kann von einer Ertragsoptimierung profitieren – ungeachtet der Größe des Netzwerks. Als Medieninhaber sollten Sie das meiste aus Ihren bestehenden Bildschirmen herausholen, besonders nach dem Verkauf von Impressions- oder Zielgruppen-basierten Kampagnen. Diese Kampagnenarten umzuverteilen, um Platz für neue Geschäftsabschlüsse zu schaffen, ist aufwendig, aber unsere Optimierungs-Engine automatisiert den gesamten Prozess, so dass Sie sich auf die Dinge konzentrieren können, die wichtiger für Ihr Unternehmen sind."
+			},
+			{
+				"id": "faq_campaign_planning_ad_serving_8",
+				"q": "Kann das System die Bereitstellung von Live-Kampagnen optimieren?",
+				"a": "Ja, das kann es tatsächlich. Unsere Optimierungs-Engine ist mit einem Neuausrichtungstool mit automatischer Selbstheilung ausgestattet. Wenn eine Live-Kampagne beispielsweise mehr oder weniger als vereinbart ausgeführt wird, sorgt dieses Tool dafür, dass die Kampagne wieder auf Kurs kommt."
+			}
+		]
+	},
+	"shin": {
+		"title": "Entdecken Sie, was wir für Ihr Netzwerk tun können",
+		"par": "Setzen Sie sich mit uns in Verbindung und ein Teammitglied wird sich so schnell wie möglich mit Ihnen in Verbindung setzen, um einen Gesprächstermin zu vereinbaren. Bitte lassen Sie uns wissen, wenn Sie Fragen haben, die Sie gerne besprechen möchten.",
+		"ctaBookCall": "Büchen Sie einen Anruf",
+		"ctaDemo": "Demo anfordern",
+		"ctaPricing": "Unsere Angebote anzeigen"
+	},
+	"bookACall": {
+		"title": "Büchen Sie einen Anruf"
+	}
+}

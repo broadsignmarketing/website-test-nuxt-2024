@@ -1,0 +1,103 @@
+{
+	"seo": {
+		"title": "Local Signage Messaging",
+		"description": "Enable on-site teams to easily create custom digital signage messages while remaining on-brand with a customizable content management tool."
+	},
+	"hero": {
+		"overtitle": "Local Signage Messaging",
+		"title": "Make Messages More Relevant With Customizable Content",
+		"blurb": "Enable on-site teams to easily create custom digital signage messages while remaining on-brand with a customizable content management tool.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"logos": {
+		"title": "Trusted by our customers worldwide"
+	},
+	"features": {
+		"local_messaging": {
+			"overtitle": "Local messaging",
+			"title": "Engage local audiences with custom, relevant messages",
+			"par": "Increase the relevance of digital signage content to an audience by enabling individual businesses to personalize the on-screen message."
+		},
+		"custom_content": {
+			"overtitle": "Custom content",
+			"title": "Create messages that are always on-brand",
+			"par": "Ensure your clients' content remains on brand by providing access to a library of pre-approved images, videos and design templates."
+		},
+		"content_management": {
+			"overtitle": "Integrated content management",
+			"title": "Seamlessly connect local content to your network's messaging schedule",
+			"par": "Your local content solution comes with direct integration with our content management system, so all your custom messages will easily fit alongside your other scheduled media."
+		},
+		"insights": {
+			"overtitle": "Insights",
+			"title": "Easier monitoring and reporting",
+			"par": "Want to better understand how different teams use their messaging access? Our Insights Dashboard gives you full visibility into the custom content created across your network whenever you want it."
+		},
+		"user_friendly": {
+			"overtitle": "User-friendly",
+			"title": "No technical or design skills required",
+			"par": "With our custom messaging tool's intuitive visual interface, your clients will be creating great-looking content in no time, minimal training required."
+		},
+		"clients_groups": {
+			"overtitle": "Clients groups",
+			"title": "Stay in control of product access",
+			"par": "Messaging access for your clients' teams shouldn't be a free-for-all. With our product, you can grant different levels of access to different teams and keep a separation between their messaging and the rest of your content."
+		},
+		"timeline_visualization": {
+			"overtitle": "Timeline visualization",
+			"title": "See all of your scheduled content at once",
+			"par": "See all of your scheduled messages on a timeline to ensure that your content goes out when and where you need it."
+		},
+		"comingSoon": "Coming Soon"
+	},
+	"customers": {
+		"title": "Trusted by our customers worldwide",
+		"testimonials": [
+			{
+				"id": "bonjour_sante",
+				"quote": "Broadsign's local signage messaging tool was a hit with our customers right away. They love being able to quickly produce messages and get them out across their screens alongside regularly scheduled content."
+			},
+			{
+				"id": "hmn",
+				"quote": "Broadsign's local signage messaging tool enables our practices to display their own custom messages to their patients, allowing them to create a much better and much more targeted communication strategy."
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": [
+			{
+				"id": "faq_local_signage_messaging_1",
+				"q": "Can I preview my messages or playlists before publishing them?",
+				"a": "Yup! All regular assets, including messages, images and videos, can be previewed before publication."
+			},
+			{
+				"id": "faq_local_signage_messaging_2",
+				"q": "Can I quickly change the messages on my screen to reflect local conditions?",
+				"a": "Users can modify certain aspects of a pre-defined template, which will allow messages to reflect local conditions like price changes and special offers."
+			},
+			{
+				"id": "faq_local_signage_messaging_3",
+				"q": "Can I take over certain screens to broadcast emergency messages?",
+				"a": "Media owners can give select users permission to play an emergency message that interrupts the scheduled content and takes over the entire screen until it is de-activated."
+			},
+			{
+				"id": "faq_local_signage_messaging_4",
+				"q": "Can I set different permission levels for my users?",
+				"a": "Media owners can create and define different user roles, privileges and restrictions."
+			}
+		]
+	},
+	"shin": {
+		"title": "Discover what we can do for your network",
+		"par": "Get in touch with us and a member of our team will reach out as soon as possible to set up a call. Please let us know if there are any questions you would like to discuss.",
+		"ctaBookCall": "Book a call",
+		"ctaDemo": "Request a demo",
+		"ctaPricing": "See our plans"
+	},
+	"bookACall": {
+		"title": "Book a call"
+	}
+}
