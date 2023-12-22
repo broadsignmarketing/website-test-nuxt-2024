@@ -8,7 +8,7 @@ export default defineNuxtConfig({
 		exclude: ["**/node_modules/**", "./.nuxt/", "./dist"],
 	},
 
-	modules: ["@nuxtjs/i18n", "@nuxt/image", "@pinia/nuxt", "@vueuse/nuxt", "@nuxtjs/tailwindcss" /* "@nuxtjs/sanity" */ /*, "@nuxtjs/eslint-module" */],
+	modules: ["@nuxtjs/i18n", "@nuxt/image", "@pinia/nuxt", "@vueuse/nuxt", "@nuxtjs/tailwindcss"],
 
 	app: {
 		head: {
@@ -18,10 +18,6 @@ export default defineNuxtConfig({
 	},
 
 	css: ["~/assets/css/global.scss"],
-
-	build: {
-		transpile: ["vue-i18n"],
-	},
 
 	i18n: {
 		/* lazy: true,
