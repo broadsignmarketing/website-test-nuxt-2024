@@ -20,8 +20,9 @@ export default defineNuxtConfig({
 	css: ["~/assets/css/global.scss"],
 
 	i18n: {
-		/* lazy: true,
-		langDir: "i18n", */
+		baseUrl: "https://broadsign.com",
+		lazy: true,
+		langDir: "i18n",
 		defaultLocale: "en",
 		compilation: { strictMessage: false },
 		pages: router,
@@ -29,27 +30,27 @@ export default defineNuxtConfig({
 			{
 				code: "en",
 				name: "English",
-				// file: "en.js",
+				file: "en.js",
 			},
 			{
 				code: "fr",
 				name: "Français",
-				// file: "fr.js",
+				file: "fr.js",
 			},
 			{
 				code: "es",
 				name: "Español",
-				// file: "es.js",
+				file: "es.js",
 			},
 			{
 				code: "de",
 				name: "Deutsch",
-				// file: "de.js",
+				file: "de.js",
 			},
 			{
 				code: "jp",
 				name: "中文",
-				// file: "ja.js",
+				file: "jp.js",
 			},
 		],
 	},
