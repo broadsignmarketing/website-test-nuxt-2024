@@ -1,18 +1,36 @@
 <template>
-	<div></div>
+	<div>
+		<Html :lang="head.htmlAttrs.lang" :dir="head.htmlAttrs.dir">
+			<Head>
+				<Title>{{ title }}</Title>
+				<template v-for="link in head.link" :key="link.id">
+					<Link :id="link.id" :rel="link.rel" :href="link.href" :hreflang="link.hreflang" />
+				</template>
+				<template v-for="meta in head.meta" :key="meta.id">
+					<Meta :id="meta.id" :property="meta.property" :content="meta.content" />
+				</template>
+			</Head>
+		</Html>
+	</div>
 </template>
 
 <script setup lang="ts">
-const i18n = useI18n();
+const route = useRoute();
+const { t } = useI18n();
 
-console.log(i18n.messages.value);
+const routeName = route.name.replace(/___\w+/, "");
+
+const title = computed(() => t(`${routeName}.seo.title`));
+const description = computed(() => t(`${routeName}.seo.description`));
+console.log(title);
+
+const head = useLocaleHead({
+	addDirAttribute: true,
+	identifierAttribute: "id",
+	addSeoAttributes: true,
+});
 
 useHead({
-	title: "My App",
-	meta: [{ name: "description", content: "My amazing site." }],
-	bodyAttrs: {
-		class: "test",
-	},
-	script: [{ innerHTML: "console.log('Hello world')" }],
+	meta: [{ property: "description", content: description.value }],
 });
 </script>

@@ -25,30 +25,36 @@ export default defineNuxtConfig({
 		langDir: "i18n",
 		defaultLocale: "en",
 		compilation: { strictMessage: false },
+		customRoutes: "config",
 		pages: router,
 		locales: [
 			{
 				code: "en",
+				iso: "en-US",
 				name: "English",
 				file: "en.js",
 			},
 			{
 				code: "fr",
+				iso: "fr-CA",
 				name: "Français",
 				file: "fr.js",
 			},
 			{
 				code: "es",
+				iso: "es-ES",
 				name: "Español",
 				file: "es.js",
 			},
 			{
 				code: "de",
+				iso: "de-DE",
 				name: "Deutsch",
 				file: "de.js",
 			},
 			{
 				code: "jp",
+				iso: "ja-JP",
 				name: "中文",
 				file: "jp.js",
 			},

@@ -1,7 +1,7 @@
 <template>
-	<h1>{{ $t("globalProgrammaticSSP.seo.title") }}</h1>
-	<h2>{{ $t("globalProgrammaticSSP.hero.title") }}</h2>
-	<p>{{ $t("globalProgrammaticSSP.hero.blurb") }}</p>
+	<h1>{{ $t("global-programmatic-ssp.seo.title") }}</h1>
+	<h2>{{ $t("global-programmatic-ssp.hero.title") }}</h2>
+	<p>{{ $t("global-programmatic-ssp.hero.blurb") }}</p>
 </template>
 
 <script setup></script>

@@ -7,11 +7,11 @@ import staticCampaigns from "~/i18n/en/static-campaigns.json";
 
 export default defineI18nLocale(async (locale) => {
 	return {
-		campaignPlanningAdServing,
-		contentNetworkManagement,
-		globalProgrammaticSSP,
-		index,
-		localSignageMessaging,
-		staticCampaigns,
+		"campaign-planning-ad-serving": campaignPlanningAdServing,
+		"content-network-management": contentNetworkManagement,
+		"global-programmatic-ssp": globalProgrammaticSSP,
+		index: index,
+		"local-signage-messaging": localSignageMessaging,
+		"static-campaigns": staticCampaigns,
 	};
 });

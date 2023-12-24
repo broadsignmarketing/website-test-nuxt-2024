@@ -1,7 +1,7 @@
 <template>
-	<h1>{{ $t("campaignPlanningAdServing.seo.title") }}</h1>
-	<h2>{{ $t("campaignPlanningAdServing.hero.title") }}</h2>
-	<p>{{ $t("campaignPlanningAdServing.hero.blurb") }}</p>
+	<h1>{{ $t("campaign-planning-ad-serving.seo.title") }}</h1>
+	<h2>{{ $t("campaign-planning-ad-serving.hero.title") }}</h2>
+	<p>{{ $t("campaign-planning-ad-serving.hero.blurb") }}</p>
 </template>
 
 <script setup>
