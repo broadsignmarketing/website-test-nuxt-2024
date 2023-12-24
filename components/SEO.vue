@@ -15,14 +15,15 @@
 </template>
 
 <script setup lang="ts">
+const router = useRouter();
 const route = useRoute();
 const { t } = useI18n();
 
-const routeName = route.name.replace(/___\w+/, "");
+const routeName = ref(route.name.replace(/___\w+/, ""));
+const title = computed(() => t(`${routeName.value}.seo.title`));
+const description = computed(() => t(`${routeName.value}.seo.description`));
 
-const title = computed(() => t(`${routeName}.seo.title`));
-const description = computed(() => t(`${routeName}.seo.description`));
-console.log(title);
+console.log(title.value, "-----", description.value);
 
 const head = useLocaleHead({
 	addDirAttribute: true,
@@ -30,7 +31,16 @@ const head = useLocaleHead({
 	addSeoAttributes: true,
 });
 
+router.afterEach((to) => {
+	routeName.value = to.name.replace(/___\w+/, "");
+});
+
+console.log(routeName.value);
+
 useHead({
+	titleTemplate: (titleChunk) => {
+		return routeName.value === "index" ? titleChunk : `${titleChunk} | Broadsign`;
+	},
 	meta: [{ property: "description", content: description.value }],
 });
 </script>

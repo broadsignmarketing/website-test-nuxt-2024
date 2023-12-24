@@ -4,7 +4,7 @@
 		"description": "La solución integral para propietarios y compradores de medios para planificar, gestionar y entregar publicidad exterior OOH"
 	},
 	"hero": {
-		"title": "La plataforma que impulsa la publicidad exterior",
+		"title": ["La ", "plataforma", "que impulsa la", "publicidad", "exterior"],
 		"par": "La solución integral para propietarios y compradores de medios para planificar, gestionar y entregar publicidad exterior OOH",
 		"ctaContact": "Contáctanos",
 		"ctaPlans": "Ver nuestros planes"
