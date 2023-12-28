@@ -67,12 +67,12 @@ export default defineNuxtConfig({
 		],
 	},
 
-	routeRules: {
+	/* routeRules: {
 		"/blog": { prerender: true },
 		"/blog/**": { prerender: true },
 		"/blogue": { prerender: true },
 		"/blogue/**": { prerender: true },
-	},
+	}, */
 
 	image: {
 		domains: ["netlify.app"],

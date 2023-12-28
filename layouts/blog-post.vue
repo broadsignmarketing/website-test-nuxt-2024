@@ -1,5 +1,6 @@
 <template>
 	<header>
+		BLAAAAAAAAAAAAAAAAAAAAAAAAAAH
 		<LangSwitcher />
 		<Nav />
 	</header>

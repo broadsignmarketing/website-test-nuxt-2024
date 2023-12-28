@@ -1,7 +1,14 @@
 <template>
-	<h1>{{ title }}</h1>
-	<p>{{ blogPostSlug(slug, locale) }}</p>
-	<pre>{{ detailedTranslations }}</pre>
+	<NuxtLayout name="blog-post">
+		<Html :lang="head.htmlAttrs.lang" :dir="head.htmlAttrs.dir">
+			<Head>
+				<Title>{{ title }}</Title>
+			</Head>
+		</Html>
+		<h1>{{ title }}</h1>
+		<p>{{ blogPostSlug(slug, locale) }}</p>
+		<pre>{{ detailedTranslations }}</pre>
+	</NuxtLayout>
 </template>
 
 <script setup>
