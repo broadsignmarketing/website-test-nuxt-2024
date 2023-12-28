@@ -1,14 +1,10 @@
 <template>
-	<NuxtLayout name="blog-post">
-		<Html :lang="head.htmlAttrs.lang" :dir="head.htmlAttrs.dir">
-			<Head>
-				<Title>{{ title }}</Title>
-			</Head>
-		</Html>
-		<h1>{{ title }}</h1>
-		<p>{{ blogPostSlug(slug, locale) }}</p>
-		<pre>{{ detailedTranslations }}</pre>
-	</NuxtLayout>
+	<Head>
+		<Title>{{ title }}</Title>
+	</Head>
+	<h1>{{ title }}</h1>
+	<p>{{ blogPostSlug(slug, locale) }}</p>
+	<pre>{{ detailedTranslations }}</pre>
 </template>
 
 <script setup>
@@ -30,4 +26,8 @@ setLocale(lang);
 
 console.log(slug, locale.value);
 console.log(i18n);
+
+definePageMeta({
+	layout: "blog-post",
+});
 </script>
