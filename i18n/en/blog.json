@@ -1,0 +1,88 @@
+{
+	"seo": {
+		"title": "Broadsign's Blog",
+		"description": "Get the latest insights from the Broadsign team, including industry explainers, deep dives into our solutions, and case studies of interesting networks and campaigns across the OOH industry."
+	},
+	"aboutTheAuthor": "About the author",
+	"blog": "Blog",
+	"search": "Search",
+	"oohMediaOwners": "OOH Media Owners",
+	"optimizeYourOOHBusiness": "Optimize your OOH business",
+	"programmaticSalesSuccess": "Programmatic & sales success",
+	"broadsignPlatformUpdates": "Broadsign Platform updates",
+	"agenciesBrands": "Agencies & Brands",
+	"programmaticDOOHInsights": "Programmatic DOOH Insights",
+	"omnichannelMediaPlanning": "Omnichannel media planning",
+	"verticalStrategies": "Vertical strategies",
+	"caseStudiesCustomerSpotlights": "Case studies & customer spotlights",
+	"broadsignAdsUpdates": "Broadsign Ads updates",
+	"specialtyNetworks": "Specialty Networks",
+	"evCharging": "EV Charging Stations & DOOH",
+	"retailMediaNetworks": "Retail Media Networks",
+	"customerSuccess": "Customer Success",
+	"mediaOwnerSpotlights": "Media owner spotlights",
+	"campaignCaseStudies": "Campaign case studies",
+	"getDOOHCertified": "Get DOOH Certified",
+	"dOOH101": "DOOH 101",
+	"pDOOH101": "PDOOH 101",
+	"pDOOHAdvanced": "PDOOH Advanced",
+	"eventsWebinars": "Events & Webinars",
+	"upcomingEventsWebinars": "Upcoming events & webinars",
+	"onDemandArchive": "On-demand archive",
+	"recommended": "Recommended",
+	"readArticle": "Read Article",
+	"readMoreByAuthor": "See more articles by",
+	"readAllByAuthor": "See all of their articles",
+	"author": "Author",
+	"newsletter": {
+		"formHeader": "Subscribe to our newsletter"
+	},
+	"ctaBox": {
+		"ad-server": {
+			"title": "Ready to get the most value out of your inventory with our ad server?",
+			"par": "Contact us today to see how we can help!",
+			"cta": "Book a Call"
+		},
+		"book-a-call-platform": {
+			"tagline": "Want to learn more about the Broadsign Platform?",
+			"cta": "Book a Call"
+		},
+		"book-a-call-programmatic": {
+			"tagline": "Ready to get started with programmatic digital out-of-home?",
+			"cta": "Book a Call"
+		},
+		"newsletter": {
+			"tagline": "Subscribe to our newsletter"
+		},
+		"platform-deep-dive": {
+			"title": "Want to learn more about our new features that will be made available soon?",
+			"par": "Contact us to learn more about the eligibility requirements to have access to these new features or to join our ongoing beta programs.",
+			"cta": "Book a Call"
+		},
+		"free-trial": {
+			"tagline": "Start modernizing your static OOH network today. Sign up for your 60-day free trial today.",
+			"cta": "Book a Call"
+		},
+		"polaris": {
+			"tagline": "Want to incorporate audience-based campaigns into your sales strategy? Get started with our ad server today.",
+			"cta": "Book a Call"
+		},
+		"static-survey": {
+			"tagline": "Sign up for early access to The State of Static Out-of-Home report",
+			"cta": "Sign up"
+		}
+	},
+	"searchResults": {
+		"resultsFound": {
+			"one": "result found",
+			"many": "results found"
+		},
+		"whenIncluding": "when including",
+		"whenExcluding": "when excluding",
+		"andExcluding": "and excluding",
+		"keywords": {
+			"one": "keyword",
+			"many": "keywords"
+		}
+	}
+}

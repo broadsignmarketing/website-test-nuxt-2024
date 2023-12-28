@@ -1,0 +1,71 @@
+{
+	"seo": {
+		"title": "Blogue de Broadsign",
+		"description": "Suivez les dernières informations de l'équipe Broadsign, incluant une prise du poulx du secteur, des explorations approfondies dans nos solutions et des études de cas sur des réseaux et des campagnes."
+	},
+	"aboutTheAuthor": "A propos de l'auteur",
+	"blog": "Blogue",
+	"search": "Chercher",
+	"recommended": "Recommandé",
+	"readArticle": "Lire l'article",
+	"oohMediaOwners": "Propriétaires de médias OOH",
+	"optimizeYourOOHBusiness": "Optimisez votre activité OOH",
+	"programmaticSalesSuccess": "Succès programmatique et commercial",
+	"broadsignPlatformUpdates": "Mises à jour de la plateforme Broadsign",
+	"agenciesBrands": "Agences & Marques",
+	"programmaticDOOHInsights": "Informations DOOH programmatiques",
+	"omnichannelMediaPlanning": "Planification média omnicanal",
+	"verticalStrategies": "Stratégies verticales",
+	"caseStudiesCustomerSpotlights": "Études de cas et focus clients",
+	"broadsignAdsUpdates": "Mises à jour de Broadsign Ads",
+	"retailMediaNetworks": "Réseaux de médias de détail",
+	"customerSuccess": "Réussite client",
+	"mediaOwnerSpotlights": "Focus sur les propriétaires de médias",
+	"campaignCaseStudies": "Études de cas de campagne",
+	"getDOOHCertified": "Obtenez la certification DOOH",
+	"dOOH101": "DOOH 101",
+	"pDOOH101": "ADP 101",
+	"pDOOHAdvanced": "PDOOH Avancé",
+	"eventsWebinars": "Événements et webinaires",
+	"upcomingEventsWebinars": "Événements et webinaires à venir",
+	"onDemandArchive": "Archivage à la demande",
+	"newsletter": {
+		"formHeader": "Inscrivez-vous à notre bulletin de nouvelles"
+	},
+	"ctaBox": {
+		"ad-server": {
+			"title": "Prêt à tirer le meilleur parti de votre inventaire avec notre serveur publicitaire?",
+			"par": "Contactez-nous aujourd'hui pour voir comment nous pouvons vous aider!",
+			"cta": "Réservez un appel"
+		},
+		"book-a-call-programmatic": {
+			"tagline": "Prêt(e) à vous lancer avec le DOOH programmatique?",
+			"cta": "Réservez un appel"
+		},
+		"free-trial": {
+			"tagline": "Commencez la modernisation de votre réseau d'affichage extérieur statique dès aujourd'hui. Inscrivez-vous dès aujourd'hui pour votre essai gratuit de 60 jours.",
+			"cta": "Réservez un appel"
+		},
+		"newsletter": {
+			"tagline": "Inscrivez-vous à notre bulletin de nouvelles"
+		},
+		"platform-deep-dive": {
+			"title": "Vous souhaitez en savoir plus sur nos nouvelles fonctionnalités qui seront bientôt disponibles ?",
+			"par": "Contactez-nous pour en savoir plus sur les critères d'éligibilité pour avoir accès à ces nouvelles fonctionnalités ou pour rejoindre nos programmes bêta en cours.",
+			"cta": "Réservez un appel"
+		}
+	},
+	"searchResults": {
+		"resultsFound": {
+			"one": "résultat trouvé",
+			"many": "résultats trouvés"
+		},
+		"whenIncluding": "en incluant",
+		"whenExcluding": "en excluant",
+		"andExcluding": "and excluding",
+		"keywords": {
+			"one": "le mot-clé",
+			"many": "les mots-clés"
+		}
+	}
+}

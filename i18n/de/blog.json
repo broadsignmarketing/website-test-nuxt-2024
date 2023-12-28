@@ -1,0 +1,61 @@
+{
+	"seo": {
+		"title": "Broadsigns Blog",
+		"description": "Holen Sie sich die neuesten Einblicke vom Broadsign-Team, darunter Branchenerklärer, ausführliche Einblicke in unsere Lösungen und Fallstudien zu interessanten Netzwerken und Kampagnen in der gesamten."
+	},
+	"aboutTheAuthor": "Über den Autor",
+	"blog": "Blog",
+	"search": "Suchen",
+	"recommended": "Empfohlen",
+	"readArticle": "Artikel lesen",
+	"oohMediaOwners": "OOH-Medienbesitzer",
+	"optimizeYourOOHBusiness": "Optimieren Sie Ihr OOH-Geschäft",
+	"programmaticSalesSuccess": "Programmatic & Sales-Erfolg",
+	"broadsignPlatformUpdates": "Updates der Broadsign-Plattform",
+	"agenciesBrands": "Agenturen & Marken",
+	"programmaticDOOHInsights": "Programmatische DOOH-Einblicke",
+	"omnichannelMediaPlanning": "Omnichannel-Mediaplanung",
+	"verticalStrategies": "Vertikale Strategien",
+	"caseStudiesCustomerSpotlights": "Fallstudien & Kunden-Spotlights",
+	"broadsignAdsUpdates": "Broadsign Ads-Updates",
+	"retailMediaNetworks": "Mediennetzwerke für den Einzelhandel",
+	"customerSuccess": "Kundenerfolg",
+	"mediaOwnerSpotlights": "Medieneigentümer im Rampenlicht",
+	"campaignCaseStudies": "Fallstudien zur Kampagne",
+	"getDOOHCertified": "Holen Sie sich die DOOH-Zertifizierung",
+	"dOOH101": "DOOH 101",
+	"pDOOH101": "PDOOH101",
+	"pDOOHAdvanced": "PDOOH Fortgeschritten",
+	"eventsWebinars": "Veranstaltungen & Webinare",
+	"upcomingEventsWebinars": "Kommende Veranstaltungen und Webinare",
+	"onDemandArchive": "On-Demand-Archiv",
+	"readMoreByAuthor": "Siehe weitere Artikel von",
+	"readAllByAuthor": "Sehen Sie sich alle ihre Artikel an",
+	"author": "Autor",
+	"newsletter": {
+		"formHeader": "Abonniere unseren Newsletter"
+	},
+	"ctaBox": {
+		"ad-server": {
+			"title": "Sind Sie bereit, mit unserem Ad-Server den größten Nutzen aus Ihrem Inventar zu ziehen?",
+			"par": "Kontaktieren Sie uns noch heute zu erfahren, wie wir Ihnen damit helfen können!",
+			"cta": "Büchen Sie Einen Anruf"
+		},
+		"book-a-call-programmatic": {
+			"tagline": "Sind Sie bereit, mit programmatischem DOOH durchzustarten?",
+			"cta": "Büchen Sie Einen Anruf"
+		},
+		"free-trial": {
+			"tagline": "Beginnen Sie noch heute mit der Modernisierung Ihres statischen OOH-Netzwerks. Melden Sie sich heute für Ihre 60-tägige kostenlose Testversion an.",
+			"cta": "Büchen Sie Einen Anruf"
+		},
+		"newsletter": {
+			"tagline": "Subscribe to our newsletter"
+		},
+		"platform-deep-dive": {
+			"title": "Möchten Sie mehr über unsere neuen Funktionen erfahren, die bald verfügbar sein werden?",
+			"par": "Kontaktieren Sie uns, um mehr über die Berechtigungsvoraussetzungen für den Zugriff auf diese neuen Funktionen oder die Teilnahme an unseren laufenden Betaprogrammen zu erfahren.",
+			"cta": "Büchen Sie Einen Anruf"
+		}
+	}
+}

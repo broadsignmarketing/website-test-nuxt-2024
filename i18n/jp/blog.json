@@ -1,0 +1,82 @@
+{
+	"seo": {
+		"title": "ブログ",
+		"description": "OOH業界のネットワークやキャンペーンのケーススタディなど、Broadsignチームからの最新のインサイトをご覧ください。"
+	},
+	"aboutTheAuthor": "",
+	"blog": "ブログ",
+	"search": "",
+	"oohMediaOwners": "",
+	"optimizeYourOOHBusiness": "",
+	"programmaticSalesSuccess": "",
+	"broadsignPlatformUpdates": "",
+	"agenciesBrands": "",
+	"programmaticDOOHInsights": "",
+	"omnichannelMediaPlanning": "",
+	"verticalStrategies": "",
+	"caseStudiesCustomerSpotlights": "",
+	"broadsignAdsUpdates": "",
+	"specialtyNetworks": "",
+	"evCharging": "",
+	"retailMediaNetworks": "",
+	"customerSuccess": "",
+	"mediaOwnerSpotlights": "",
+	"campaignCaseStudies": "",
+	"getDOOHCertified": "DOOH認定を取得する",
+	"dOOH101": "DOOH 101",
+	"pDOOH101": "PDOOH 101",
+	"pDOOHAdvanced": "高度なPDOOH",
+	"eventsWebinars": "イベントとウェビナー",
+	"upcomingEventsWebinars": "今後のイベントとウェビナー",
+	"onDemandArchive": "",
+	"recommended": "おすすめ",
+	"readArticle": "記事を読む",
+	"readMoreByAuthor": "",
+	"readAllByAuthor": "",
+	"author": "",
+	"newsletter": {
+		"formHeader": ""
+	},
+	"ctaBox": {
+		"ad-server": {
+			"title": "在庫の価値を最大限に引き出す準備はできていますか？今すぐお問い合わせください！",
+			"cta": "問い合わせる"
+		},
+		"book-a-call-programmatic": {
+			"tagline": "プログラマティックDOOHを始める準備はできましたか？",
+			"cta": "問い合わせる"
+		},
+		"free-trial": {
+			"tagline": "今日から静的なOOHネットワークの近代化を開始しましょう。今日から60日間の無料トライアルにサインアップしてください。",
+			"cta": "問い合わせる"
+		},
+		"newsletter": {
+			"tagline": "ニュースレターを購読する。"
+		},
+		"platform-deep-dive": {
+			"title": "近日公開の新機能についてもっと知りたいですか？",
+			"par": "新機能にアクセスするための要件や、ベータプログラムへの参加については、弊社までお問い合わせください。"
+		},
+		"static-campaigns": {
+			"tagline": "OOHネットワークの近代化を今すぐ始めましょう。今すぐ60日間の無料トライアルにお申し込みください。",
+			"cta": "問い合わせる"
+		},
+		"polaris": {
+			"tagline": "オーディエンスベースのキャンペーンを取り入れたいとお考えですか？今すぐ弊社のアドサーバーをご利用ください。",
+			"cta": "問い合わせる"
+		}
+	},
+	"searchResults": {
+		"resultsFound": {
+			"one": "件の結果が見つかりました",
+			"many": "件の結果が見つかりました"
+		},
+		"whenIncluding": "",
+		"whenExcluding": "",
+		"andExcluding": "",
+		"keywords": {
+			"one": "",
+			"many": ""
+		}
+	}
+}

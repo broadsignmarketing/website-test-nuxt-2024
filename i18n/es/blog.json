@@ -1,0 +1,74 @@
+{
+	"seo": {
+		"title": "Blog de Broadsign",
+		"description": "Obtenga la información más reciente del equipo de Broadsign, que incluyen inmersiones profundas en nuestras soluciones y estudios de casos de campañas y redes interesantes en toda la industria OOH."
+	},
+	"aboutTheAuthor": "Sobre el autor",
+	"blog": "Blog",
+	"search": "Buscar",
+	"recommended": "Recomendado",
+	"readArticle": "Leer el artículo",
+	"oohMediaOwners": "Propietarios de medios OOH",
+	"optimizeYourOOHBusiness": "Optimice su negocio OOH",
+	"programmaticSalesSuccess": "Éxito programático y de ventas",
+	"broadsignPlatformUpdates": "Actualizaciones de la plataforma Broadsign",
+	"agenciesBrands": "Agencias y Marcas",
+	"programmaticDOOHInsights": "Perspectivas DOOH programáticas",
+	"omnichannelMediaPlanning": "Planificación de medios omnicanal",
+	"verticalStrategies": "Estrategias verticales",
+	"caseStudiesCustomerSpotlights": "Casos de estudio y clientes destacados",
+	"broadsignAdsUpdates": "Actualizaciones de Broadsign Ads",
+	"retailMediaNetworks": "Redes de medios minoristas",
+	"customerSuccess": "Éxito del cliente",
+	"mediaOwnerSpotlights": "Destacados de propietarios de medios",
+	"campaignCaseStudies": "Estudios de casos de campaña",
+	"getDOOHCertified": "Obtenga la certificación DOOH",
+	"dOOH101": "DOOH 101",
+	"pDOOH101": "PDOOH 101",
+	"pDOOHAdvanced": "PDOOH Avanzado",
+	"eventsWebinars": "Eventos y seminarios web",
+	"upcomingEventsWebinars": "Próximos eventos y seminarios web",
+	"onDemandArchive": "Archivo bajo demanda",
+	"readMoreByAuthor": "Ver más artículos de",
+	"readAllByAuthor": "Ver todos sus artículos",
+	"author": "Autor",
+	"newsletter": {
+		"formHeader": "Suscríbete a nuestro boletín"
+	},
+	"ctaBox": {
+		"ad-server": {
+			"title": "¿Listo para obtener el valor completo de su inventario con nuestro servidor de anuncios?",
+			"par": "¡Contáctenos hoy para ver cómo podemos ayudar!",
+			"cta": "Reservar una llamada"
+		},
+		"book-a-call-programmatic": {
+			"tagline": "¿Listo para comenzar con el DOOH programático?",
+			"cta": "Reservar una llamada"
+		},
+		"free-trial": {
+			"tagline": "Comienza a modernizar tu red estática de medios exteriores hoy. ¡Regístrate hoy para tu prueba gratuita de 60 días!",
+			"cta": "Reservar una llamada"
+		},
+		"newsletter": {
+			"tagline": "Suscríbete a nuestro boletín"
+		},
+		"platform-deep-dive": {
+			"title": "¿Quiere obtener más información sobre nuestras nuevas funciones que estarán disponibles pronto?",
+			"par": "Comuníquese con nosotros para obtener más información sobre los requisitos de elegibilidad para tener acceso a estas nuevas funciones o para unirse a nuestros programas beta en curso.",
+			"cta": "Reservar una llamada"
+		}
+	},
+	"searchResults": {
+		"resultsFound": {
+			"one": "resultado encontrado",
+			"many": "resultados encontrados"
+		},
+		"whenIncluding": "al incluir",
+		"whenExcluding": "al excluir",
+		"andExcluding": "y excluir",
+		"keywords": {
+			"one": "la palabra clave",
+			"many": "las palabras clave"
+		}
+	}
+}

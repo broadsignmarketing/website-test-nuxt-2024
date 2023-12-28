@@ -1,3 +1,4 @@
+import blog from "~/i18n/es/blog.json";
 import campaignPlanningAdServing from "~/i18n/es/campaign-planning-ad-serving.json";
 import contentNetworkManagement from "~/i18n/es/content-network-management.json";
 import globalProgrammaticSSP from "~/i18n/es/global-programmatic-ssp.json";
@@ -7,6 +8,7 @@ import staticCampaigns from "~/i18n/es/static-campaigns.json";
 
 export default defineI18nLocale(async (locale) => {
 	return {
+		blog: blog,
 		"campaign-planning-ad-serving": campaignPlanningAdServing,
 		"content-network-management": contentNetworkManagement,
 		"global-programmatic-ssp": globalProgrammaticSSP,

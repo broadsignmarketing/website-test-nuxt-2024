@@ -40,5 +40,19 @@
 		"es": "/campanas-estaticas",
 		"de": "/statische-kampagnen",
 		"jp": "/static-campaigns"
+	},
+	"blog": {
+		"en": "/blog",
+		"fr": "/blogue",
+		"es": "/blog",
+		"de": "/blog",
+		"jp": "/blog"
+	},
+	"[blog]/[slug]": {
+		"en": "/blog/[slug]",
+		"fr": "/blogue/[slug]",
+		"es": "/blog/[slug]",
+		"de": "/blog/[slug]",
+		"jp": "/blog/[slug]"
 	}
 }

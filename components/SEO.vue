@@ -20,10 +20,24 @@ const route = useRoute();
 const { t } = useI18n();
 
 const routeName = ref(route.name.replace(/___\w+/, ""));
-const title = computed(() => t(`${routeName.value}.seo.title`));
-const description = computed(() => t(`${routeName.value}.seo.description`));
 
-console.log(title.value, "-----", description.value);
+const title = computed(() => {
+	if (pageType === "blog-post") {
+		return "";
+	}
+
+	return t(`${routeName.value}.seo.title`);
+});
+
+const description = computed(() => {
+	if (pageType === "blog-post") {
+		return "";
+	}
+
+	return t(`${routeName.value}.seo.description`);
+});
+
+const { pageType } = usePageContext();
 
 const head = useLocaleHead({
 	addDirAttribute: true,
@@ -38,7 +52,7 @@ router.afterEach((to) => {
 console.log(routeName.value);
 
 useHead({
-	titleTemplate: (titleChunk) => {
+	titleTemplate: (titleChunk: string) => {
 		return routeName.value === "index" ? titleChunk : `${titleChunk} | Broadsign`;
 	},
 	meta: [{ property: "description", content: description.value }],

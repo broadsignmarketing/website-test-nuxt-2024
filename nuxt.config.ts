@@ -17,6 +17,12 @@ export default defineNuxtConfig({
 		},
 	},
 
+	runtimeConfig: {
+		public: {
+			WP_URL: process.env.WP_URL,
+		},
+	},
+
 	css: ["~/assets/css/global.scss"],
 
 	i18n: {
