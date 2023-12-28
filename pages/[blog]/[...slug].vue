@@ -2,7 +2,7 @@
 	<Head>
 		<Title>{{ title }}</Title>
 	</Head>
-	<NuxtImg class="hero" :src="featuredImage" />
+	<NuxtImg class="hero" :src="featuredImage" height="500" width="900" />
 	<h1>{{ title }}</h1>
 	<p>{{ blogPostSlug(slug, locale) }}</p>
 	<pre>{{ detailedTranslations }}</pre>
@@ -39,6 +39,8 @@ definePageMeta({
 <style lang="scss">
 .hero {
 	max-width: 900px;
+	height: auto;
+	width: 100%;
 }
 
 .post_content {
