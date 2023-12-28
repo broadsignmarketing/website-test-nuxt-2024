@@ -70,8 +70,6 @@ export default defineNuxtConfig({
 	routeRules: {
 		"/blog": { prerender: true },
 		"/blog/**": { prerender: true },
-		"/blogue": { prerender: true },
-		"/blogue/**": { prerender: true },
 	},
 
 	image: {
