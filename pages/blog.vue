@@ -1,7 +1,10 @@
 <template>
 	<h1>{{ $t("blog.blog") }}</h1>
-	<div class="">
+	<div class="" v-if="posts">
 		<BlogPostThumbnail v-for="post in posts" :post="post" :key="post.link" />
+	</div>
+	<div class="" v-else>
+		<p>Loading...</p>
 	</div>
 </template>
 
