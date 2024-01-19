@@ -1,6 +1,6 @@
 <template>
 	<h1>{{ $t("blog.blog") }}</h1>
-	<div class="" v-if="posts">
+	<div class="" v-if="posts && posts.length > 0">
 		<BlogPostThumbnail v-for="post in posts" :post="post" :key="post.link" />
 	</div>
 	<div class="" v-else>
