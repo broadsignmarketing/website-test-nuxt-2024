@@ -26,7 +26,6 @@
 </template>
 
 <script setup lang="ts">
-import MegaMenu from "primevue/megamenu";
 const { t } = useI18n();
 
 const items = computed(() => [
