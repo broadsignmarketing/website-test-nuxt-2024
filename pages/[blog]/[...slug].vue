@@ -4,6 +4,7 @@
 	</Head>
 	<NuxtImg class="hero" :src="featuredImage" height="500" width="900" />
 	<h1>{{ title }}</h1>
+	<p>Now : {{ new Date() }}</p>
 	<p>{{ blogPostSlug(slug, locale) }}</p>
 	<pre>{{ detailedTranslations }}</pre>
 	<div class="post_content" v-html="content" />
