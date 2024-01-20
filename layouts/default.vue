@@ -1,7 +1,6 @@
 <template>
 	<SEO />
 	<header>
-		<LangSwitcher />
 		<Nav />
 	</header>
 	<NuxtPage />
