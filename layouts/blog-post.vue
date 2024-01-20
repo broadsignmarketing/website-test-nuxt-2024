@@ -1,6 +1,5 @@
 <template>
 	<header>
-		<LangSwitcher />
 		<Nav />
 	</header>
 	<NuxtPage />
