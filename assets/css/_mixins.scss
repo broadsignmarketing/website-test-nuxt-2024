@@ -1,0 +1,77 @@
+@mixin fontThin {
+	font-family: "Roboto Thin", sans-serif;
+	font-weight: 100;
+}
+
+@mixin fontLighter {
+	font-family: "Roboto Light", "Roboto Regular", "Roboto", "Arial", sans-serif;
+	font-weight: 300;
+}
+
+@mixin fontLight {
+	font-family: "Roboto", "Arial Narrow", "Arial", "Helvetica", sans-serif;
+	font-weight: 400;
+}
+
+@mixin fontReg {
+	font-family: "Roboto", "Arial", "Helvetica", sans-serif;
+	font-weight: 500;
+}
+
+@mixin fontMed {
+	font-family: "Roboto Medium", "Roboto", "Arial", "Helvetica", sans-serif;
+	font-weight: 500;
+}
+
+@mixin fontBold {
+	font-family: "Roboto Bold", "Roboto", "Arial", "Helvetica", sans-serif;
+	font-weight: 700;
+}
+
+@mixin fontBolder {
+	font-family: "Roboto Black", "Roboto", "Arial Black", "Arial", "Helvetica", sans-serif;
+	font-weight: 900;
+}
+
+@mixin fontBlack {
+	font-family: "Roboto Black", "Roboto", "Arial Black", "Arial", "Helvetica", sans-serif;
+	font-weight: 900;
+}
+
+@mixin fontSuperBold {
+	font-family: "Roboto Black", "Roboto", "Arial Black", "Arial", "Helvetica", sans-serif;
+	font-variant: small-caps;
+	font-weight: 900;
+	line-height: 80%;
+	text-transform: lowercase;
+}
+
+@mixin fontAltLighter {
+	font-family: "Merriweather Light", "Merriweather", "times", serif;
+	font-weight: 300;
+}
+
+@mixin fontAlt {
+	font-family: "Merriweather", "times", serif;
+	font-weight: 400;
+}
+
+@mixin fontAltBold {
+	font-family: "Merriweather Bold", "Merriweather", "times", serif;
+	font-weight: 700;
+}
+
+@mixin fontAltBolder {
+	font-family: "Merriweather Black", "Merriweather", "times", serif;
+	font-weight: 900;
+}
+
+@mixin bg {
+	height: 100%;
+	left: 0;
+	object-fit: cover;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 0;
+}

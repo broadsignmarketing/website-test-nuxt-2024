@@ -6,14 +6,8 @@
 			</NuxtLinkLocale>
 		</template>
 		<template #item="{ item }">
-			<a
-				v-if="item.root"
-				v-ripple
-				class="flex align-items-center cursor-pointer px-3 py-2 overflow-hidden relative font-semibold text-lg uppercase"
-				style="border-radius: 2rem"
-			>
-				<span :class="item.icon" />
-				<span class="ml-2">{{ item.label }}</span>
+			<a v-if="item.root" v-ripple class="flex align-items-center cursor-pointer px-3 py-2 relative uppercase" style="border-radius: 2rem">
+				{{ item.label }}
 			</a>
 			<div v-else class="bg-white flex flex-column align-items-start gap-3">
 				<NuxtLinkLocale :to="item.to">{{ item.label }}</NuxtLinkLocale>
@@ -85,6 +79,7 @@ const items = computed(() => [
 .main_nav {
 	.p-megamenu-panel {
 		background: #fff;
+		position: absolute;
 	}
 
 	.p-menuitem {

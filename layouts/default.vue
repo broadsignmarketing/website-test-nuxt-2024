@@ -8,7 +8,9 @@
 
 <script setup></script>
 
-<style lang="scss" scoped>
+<style lang="scss">
+@import "@/assets/css/global.scss";
+
 header {
 	z-index: 10;
 	display: flex;

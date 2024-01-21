@@ -1,1 +1,16 @@
-body {}
+@import "dependencies";
+@import "colors";
+
+html {
+	line-height: 140%;
+	-webkit-text-size-adjust: 100%;
+	scroll-behavior: auto;
+}
+
+html[data-scroll-behavior="smooth"] {
+	scroll-behavior: smooth;
+}
+
+body {
+	color: $reflex;
+}

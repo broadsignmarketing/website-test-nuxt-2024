@@ -29,9 +29,6 @@ const detailedTranslations = post.detailed_translations;
 
 setLocale(lang);
 
-console.log(slug, locale.value);
-console.log(post);
-
 definePageMeta({
 	layout: "blog-post",
 });
