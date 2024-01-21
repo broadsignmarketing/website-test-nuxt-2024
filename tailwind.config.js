@@ -1,6 +1,12 @@
 /** @type {import('tailwindcss').Config} */
 export default {
 	content: [],
+	screens: {
+		sm: "600px",
+		md: "900px",
+		lg: "1088px",
+		xl: "1440px",
+	},
 	theme: {
 		colors: {
 			reflex: "#001464",

@@ -1,6 +1,24 @@
 @import "dependencies";
 @import "colors";
 
+:root {
+	--header-height: 106px;
+	--header-main-nav-height: 70px;
+	--header-brand-logo-height: 60px;
+	--header-brand-logo-max-width: 160px;
+	--header-master-drawer-top-pos: 111px;
+	--header-mobile-nav-top-pos: 106px;
+}
+
+:root[data-reduced-nav="true"] {
+	--header-height: 76px;
+	--header-main-nav-height: 40px;
+	--header-brand-logo-height: 30px;
+	--header-brand-logo-max-width: 95px;
+	--header-master-drawer-top-pos: 81px;
+	--header-mobile-nav-top-pos: 76px;
+}
+
 html {
 	line-height: 140%;
 	-webkit-text-size-adjust: 100%;
@@ -12,5 +30,12 @@ html[data-scroll-behavior="smooth"] {
 }
 
 body {
+	background-color: #DFE3E8;
 	color: $reflex;
+}
+
+#global {
+	background-color: #FFF;
+	margin: 0 auto;
+	max-width: 1600px;
 }

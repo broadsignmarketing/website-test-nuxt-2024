@@ -1,9 +1,11 @@
 <template>
 	<SEO />
-	<header>
-		<Nav />
-	</header>
-	<NuxtPage />
+	<div id="global">
+		<header>
+			<Nav />
+		</header>
+		<NuxtPage />
+	</div>
 </template>
 
 <script setup></script>
@@ -15,8 +17,5 @@ header {
 	z-index: 10;
 	display: flex;
 	margin-bottom: 30px;
-}
-ul {
-	margin-right: 30px;
 }
 </style>
