@@ -9,7 +9,7 @@
 	</div>
 </template>
 
-<script setup lang="ts">
+<script setup>
 const switchLocalePath = useSwitchLocalePath();
 const { locale } = useI18n();
 

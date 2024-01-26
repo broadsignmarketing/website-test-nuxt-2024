@@ -107,5 +107,19 @@ const items = computed(() => [
 			box-shadow: 4px 4px 16px #eee;
 		}
 	}
+
+	.p-megamenu-root-list li:hover {
+		.p-megamenu-panel,
+		.p-submenu-list {
+			transition: max-height 0.6s ease, opacity 0.6s ease 0s, box-shadow 0.3s;
+			pointer-events: all;
+			max-height: 50vh;
+			opacity: 1;
+		}
+
+		.p-megamenu-panel {
+			box-shadow: 4px 4px 16px #eee;
+		}
+	}
 }
 </style>
