@@ -1,22 +1,24 @@
 <template>
-	<MegaMenu :model="items" class="main_nav">
-		<template #start>
-			<NuxtLinkLocale to="/">
-				<img src="@/img/broadsign/broadsign.svg" alt="" width="170" height="40" />
-			</NuxtLinkLocale>
-		</template>
-		<template #item="{ item }">
-			<a v-if="item.root" v-ripple class="flex align-items-center cursor-pointer px-3 py-2 relative uppercase" style="border-radius: 2rem">
-				{{ item.label }}
-			</a>
-			<div v-else class="bg-white flex flex-column align-items-start gap-3">
-				<NuxtLinkLocale :to="item.to">{{ item.label }}</NuxtLinkLocale>
-			</div>
-		</template>
-		<template #end>
-			<LangSwitcher />
-		</template>
-	</MegaMenu>
+	<div class="container">
+		<MegaMenu :model="items" class="main_nav">
+			<template #start>
+				<NuxtLinkLocale to="/">
+					<img src="@/img/broadsign/broadsign.svg" alt="" width="170" height="40" />
+				</NuxtLinkLocale>
+			</template>
+			<template #item="{ item }">
+				<a v-if="item.root" v-ripple class="flex align-items-center cursor-pointer px-3 py-2 relative uppercase" style="border-radius: 2rem">
+					{{ item.label }}
+				</a>
+				<div v-else class="bg-white flex flex-column align-items-start gap-3">
+					<NuxtLinkLocale :to="item.to">{{ item.label }}</NuxtLinkLocale>
+				</div>
+			</template>
+			<template #end>
+				<LangSwitcher />
+			</template>
+		</MegaMenu>
+	</div>
 </template>
 
 <script setup lang="ts">
@@ -80,6 +82,7 @@ const items = computed(() => [
 	.p-megamenu-panel {
 		background: #fff;
 		position: absolute;
+		transform: translateY(10px);
 	}
 
 	.p-menuitem {
@@ -119,6 +122,19 @@ const items = computed(() => [
 
 		.p-megamenu-panel {
 			box-shadow: 4px 4px 16px #eee;
+		}
+	}
+
+	.p-megamenu-root-list > li:hover {
+		&:after {
+			background: rgba(#fff, 0.01);
+			content: "";
+			position: absolute;
+			height: 100%;
+			width: 100%;
+			display: block;
+			left: 50%;
+			transform: translate(-50%, 0);
 		}
 	}
 }
