@@ -84,6 +84,10 @@ export default defineNuxtConfig({
 		quality: 80,
 	},
 
+	serverMiddleware: {
+		"/_ipx": "~/server/middleware/ipx.js",
+	},
+
 	primevue: {
 		/* Options */
 	},
