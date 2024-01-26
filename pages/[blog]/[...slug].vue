@@ -1,13 +1,15 @@
 <template>
-	<Head>
-		<Title>{{ title }}</Title>
-	</Head>
-	<NuxtImg class="hero" :src="featuredImage" height="500" width="900" />
-	<h1>{{ title }}</h1>
-	<p>Now : {{ new Date() }}</p>
-	<p>{{ blogPostSlug(slug, locale) }}</p>
-	<pre>{{ detailedTranslations }}</pre>
-	<div class="post_content" v-html="content" />
+	<div class="blog_post">
+		<Head>
+			<Title>{{ title }}</Title>
+		</Head>
+		<NuxtImg class="hero" :src="featuredImage" height="500" width="900" />
+		<h1>{{ title }}</h1>
+		<p>Now : {{ new Date() }}</p>
+		<p>{{ blogPostSlug(slug, locale) }}</p>
+		<pre>{{ detailedTranslations }}</pre>
+		<div class="post_content" v-html="content" />
+	</div>
 </template>
 
 <script setup>
@@ -34,7 +36,7 @@ definePageMeta({
 });
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .hero {
 	max-width: 900px;
 	height: auto;

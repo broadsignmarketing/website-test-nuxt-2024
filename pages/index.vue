@@ -1,9 +1,9 @@
 <template>
-	<section class="hero">
+	<section class="hero w-full">
 		<div class="container z-2">
-			<div class="grid">
-				<div class="col-12 md:col-6">
-					<div class="flex flex-column align-items-center justify-content-center md:align-items-start">
+			<div class="flex gap-x-8">
+				<div class="w-full md:w-1/2">
+					<div class="flex flex-col items-center justify-center md:align-items-start">
 						<h1 class="text-white font-superbold">
 							<span v-for="span in $tm('index.hero.title')">{{ $rt(span) }}</span>
 						</h1>
@@ -18,7 +18,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-12 py-0 md:col-6">
+				<div class="w-full py-0 md:w-1/2">
 					<div class="desktop_resize md:pl-6 lg:pl-0">
 						<div class="blue_gradient"></div>
 						<div class="slides flex align-items-end">
@@ -65,6 +65,66 @@ function showContactModal() {
 <style lang="scss" scoped>
 @import "@/assets/css/dependencies";
 
+@keyframes textSlideInFromLeft {
+	0% {
+		opacity: 0;
+		transform: translateX(-20%);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateX(0%);
+	}
+}
+
+@keyframes textSlideInFromRight {
+	0% {
+		opacity: 0;
+		transform: translateX(20%);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateX(0%);
+	}
+}
+
+@keyframes gradientBlueEnter {
+	0% {
+		opacity: 0;
+		transform: translateX(20%);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateX(0%);
+	}
+}
+
+@keyframes buildingsEnter {
+	0% {
+		opacity: 0;
+		transform: translateY(-20%);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0%);
+	}
+}
+
+@keyframes personEnter {
+	0% {
+		opacity: 0;
+		transform: translate(-50%, 20%);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translate(-50%, 0%);
+	}
+}
+
 h1 {
 	cursor: default;
 	display: flex;
@@ -75,7 +135,7 @@ h1 {
 	max-width: 6.6em;
 	position: relative;
 	transform-origin: left top;
-	/* user-select: none; */
+	user-select: none;
 
 	span {
 		align-items: center;
@@ -86,7 +146,7 @@ h1 {
 		font-size: 1em;
 		height: 0.8em;
 		letter-spacing: 0.01em;
-		opacity: 0;
+		opacity: 1;
 		position: relative;
 		-webkit-text-stroke: 1px $reflex;
 		text-stroke: 1px $reflex;
@@ -258,6 +318,270 @@ h1 {
 
 	.CTA {
 		max-width: 420px;
+	}
+}
+
+html[lang="fr"] {
+	h1 {
+		transform: scale(0.9);
+
+		span:nth-child(4) {
+			padding-left: 1.6em;
+		}
+	}
+}
+
+html[lang="es"] {
+	h1 {
+		transform: scale(0.9);
+
+		span:nth-child(3) {
+			padding-left: 0;
+		}
+	}
+}
+
+html[lang="de"] {
+	h1 {
+		transform: scale(0.9);
+
+		span:nth-child(4) {
+			padding-left: 0;
+		}
+	}
+}
+
+html[lang="ja"] {
+	h1 {
+		span {
+			background-size: 10em 2.1em;
+			font-weight: 900;
+			height: min(1.2em, 100px);
+
+			&:nth-child(2) {
+				letter-spacing: -0.1em;
+			}
+
+			&:nth-child(3) {
+				letter-spacing: -0.25em;
+				padding-left: 0;
+			}
+		}
+	}
+}
+
+html[lang="zh"] {
+	h1 {
+		span {
+			font-weight: 900;
+			height: min(1.2em, 100px);
+		}
+	}
+}
+
+@media (min-width: 600px) {
+	.hero {
+	}
+}
+
+@media (min-width: 600px) and (max-width: 899px) {
+	.hero {
+		.ooh_wrapper {
+			bottom: 0;
+			top: auto;
+
+			img,
+			picture {
+				object-position: center bottom;
+			}
+		}
+	}
+}
+
+@media (min-width: 900px) {
+	h1 {
+		font-size: min(7vw, 88px);
+		left: 0;
+		margin: 40px 0;
+		max-width: 100%;
+	}
+
+	.hero {
+		.blue_gradient {
+			border-radius: 15px 0px 0px 15px;
+			left: min(8vw, 50px);
+			max-width: 760px;
+			width: 50vw;
+		}
+
+		.slides {
+			left: 0;
+			max-width: 820px;
+			overflow: visible;
+			width: 54vw;
+		}
+
+		.slide {
+			width: 100%;
+		}
+
+		.slide_1 {
+			$backgroundHeight: 552px;
+
+			.buildings {
+				height: #{$backgroundHeight + 16};
+				margin-bottom: 50px;
+				max-height: #{$backgroundHeight + 16};
+			}
+
+			.ooh_wrapper {
+				height: $backgroundHeight;
+				max-height: $backgroundHeight;
+			}
+
+			.ooh_10 {
+				transform: translateY(16px);
+			}
+		}
+	}
+}
+
+@media (min-width: 900px) {
+	.hero .desktop_resize {
+		transform: scale(0.65);
+		transform-origin: left top;
+
+		.blue_gradient {
+			max-width: 800px;
+			width: 80vw;
+		}
+
+		.person {
+			left: 37vw;
+		}
+	}
+}
+
+@media (min-width: 1100px) {
+	.hero .desktop_resize {
+		transform: scale(0.8);
+
+		.blue_gradient {
+			max-width: 840px;
+		}
+
+		.person {
+			left: 31vw;
+		}
+	}
+}
+
+@media (min-width: 1088px) {
+	h1 {
+		font-size: min(6vw, 78px);
+		transform: translateX(-0.2em);
+
+		span {
+			opacity: 0;
+		}
+
+		.anim_appear {
+			&:nth-child(1) {
+				animation: 1s ease-out 0s 1 normal forwards running textSlideInFromLeft;
+			}
+
+			&:nth-child(2) {
+				animation: 1s ease-out 0.3s 1 normal forwards running textSlideInFromRight;
+			}
+
+			&:nth-child(3) {
+				animation: 1s ease-out 0.6s 1 normal forwards running textSlideInFromLeft;
+			}
+
+			&:nth-child(4) {
+				animation: 1s ease-out 0.9s 1 normal forwards running textSlideInFromRight;
+			}
+
+			&:nth-child(5) {
+				animation: 1s ease-out 1.2s 1 normal forwards running textSlideInFromRight;
+			}
+		}
+	}
+
+	.hero {
+		.blue_gradient {
+			animation: 0.6s ease-out 0.4s 1 normal forwards running gradientBlueEnter;
+			opacity: 0;
+		}
+
+		.slide_1 {
+			.buildings {
+				animation: 0.5s ease-out 1s 1 normal forwards running buildingsEnter;
+				opacity: 0;
+			}
+
+			.person {
+				animation: 0.6s ease-out 1.2s 1 normal forwards running personEnter;
+				opacity: 0;
+			}
+
+			.ooh_wrapper {
+				animation: 0.5s ease-out 1s 1 normal forwards running buildingsEnter;
+				opacity: 0;
+			}
+		}
+	}
+
+	html[lang="fr"] h1 {
+		transform: scale(0.9) translateX(-0.5em);
+	}
+
+	html[lang="es"] h1 {
+		transform: scale(0.9) translateX(-0.5em);
+	}
+
+	html[lang="de"] h1 {
+	}
+
+	html[lang="ja"] h1 {
+		transform: translateX(-0.4em);
+	}
+}
+
+@media (min-width: 1440px) {
+	h1 {
+		font-size: min(5.4vw, 88px);
+		transform: translateX(-0.7em);
+	}
+
+	.hero {
+		.desktop_resize {
+			transform: scale(0.9);
+			transform-origin: left top;
+
+			.person {
+				left: 50%;
+			}
+		}
+	}
+}
+
+@media (prefers-reduced-motion) {
+	h1 {
+		.anim_appear {
+			animation: none !important;
+			opacity: 1;
+		}
+	}
+
+	.hero {
+		.blue_gradient,
+		.slide_1 .person,
+		.slide_1 .buildings,
+		.slide_1 .ooh {
+			animation: none;
+			opacity: 1;
+		}
 	}
 }
 </style>

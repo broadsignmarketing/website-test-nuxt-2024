@@ -19,6 +19,14 @@
 	--header-mobile-nav-top-pos: 76px;
 }
 
+@mixin fontSuperBold {
+	font-family: "Roboto Black", "Roboto", "Arial Black", "Arial", "Helvetica", sans-serif;
+	font-variant: small-caps;
+	font-weight: 900;
+	line-height: 80%;
+	text-transform: lowercase;
+}
+
 html {
 	line-height: 140%;
 	-webkit-text-size-adjust: 100%;
@@ -39,4 +47,8 @@ body {
 	margin: 0 auto;
 	max-width: 1600px;
 	width: 100vw;
+}
+
+.font-superbold {
+	@include fontSuperBold;
 }
