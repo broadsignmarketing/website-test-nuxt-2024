@@ -9,7 +9,7 @@
 
 <script setup>
 const { states, speed } = defineProps(["states", "speed"]);
-const current = ref(0);
+const current = ref(1);
 
 let interval;
 
