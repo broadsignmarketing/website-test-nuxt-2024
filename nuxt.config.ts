@@ -82,10 +82,9 @@ export default defineNuxtConfig({
 			xl: 1400,
 		},
 		quality: 80,
-	},
-
-	serverMiddleware: {
-		"/_ipx": "~/server/middleware/ipx.js",
+		cloudflare: {
+			baseURL: "https://bs-nuxt-2024.pages.dev/",
+		},
 	},
 
 	primevue: {
