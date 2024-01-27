@@ -24,8 +24,14 @@
 						<div class="slides flex align-items-end">
 							<div class="slide slide_1">
 								<div class="inner">
-									<NuxtImg class="person" src="img/pages/index/hero_slide1_person.png" alt="" />
-									<NuxtImg class="buildings" src="img/pages/index/hero_slide1_buildings.png" objectPosition="left bottom" alt="" />
+									<NuxtImg provider="cloudflare" class="person" src="img/pages/index/hero_slide1_person.png" alt="" />
+									<NuxtImg
+										provider="cloudflare"
+										class="buildings"
+										src="img/pages/index/hero_slide1_buildings.png"
+										objectPosition="left bottom"
+										alt=""
+									/>
 									<HomeRotatingBillboards />
 								</div>
 							</div>
