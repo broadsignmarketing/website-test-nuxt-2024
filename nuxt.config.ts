@@ -81,6 +81,7 @@ export default defineNuxtConfig({
 			md: 900,
 			xl: 1400,
 		},
+		densities: [1, 2],
 		quality: 80,
 		cloudflare: {
 			baseURL: "https://bs-nuxt-2024.pages.dev/",
