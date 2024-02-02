@@ -73,7 +73,7 @@ export default defineNuxtConfig({
 	},
 
 	image: {
-		domains: ["netlify.app", "wpengine.com"],
+		domains: ["netlify.app", "wpengine.com", "broadsignstage.wpengine.com", "broadsign.com"],
 		format: ["avif", "webp"],
 		screens: {
 			xs: 320,
