@@ -67,10 +67,7 @@ export default defineNuxtConfig({
 		],
 	},
 
-	routeRules: {
-		"/blog": { prerender: true },
-		"/blog/**": { prerender: true },
-	},
+	routeRules: {},
 
 	image: {
 		domains: ["netlify.app", "wpengine.com", "broadsignstage.wpengine.com", "broadsign.com"],

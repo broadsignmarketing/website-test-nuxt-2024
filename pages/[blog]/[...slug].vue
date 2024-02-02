@@ -25,6 +25,8 @@ const post = data.value[0];
 const title = post.title.rendered;
 const content = post.content.rendered;
 const featuredImage = post._embedded["wp:featuredmedia"][0].source_url;
+console.log(featuredImage);
+
 const { categories, tags, lang, translations } = post;
 const { schema } = post.yoast_head_json;
 const detailedTranslations = post.detailed_translations;
