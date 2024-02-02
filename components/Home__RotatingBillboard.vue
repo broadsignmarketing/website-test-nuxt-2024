@@ -1,6 +1,5 @@
 <template>
 	<NuxtImg
-		provider="cloudflare"
 		v-for="state in states"
 		:src="`img/pages/index/hero_slide1_billboards_state${state}.png`"
 		:class="['state w-full', `state_${state}`, { active: state === current }]"
