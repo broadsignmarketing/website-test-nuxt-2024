@@ -3,7 +3,7 @@
 		<Head>
 			<Title>{{ title }}</Title>
 		</Head>
-		<NuxtImg class="hero" :src="featuredImage" height="500" width="900" />
+		<NuxtPicture class="hero" :src="featuredImage" height="500" width="900" />
 		<h1>{{ title }}</h1>
 		<p>Now : {{ new Date() }}</p>
 		<p>{{ blogPostSlug(slug, locale) }}</p>

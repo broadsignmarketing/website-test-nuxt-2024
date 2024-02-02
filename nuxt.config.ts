@@ -70,7 +70,7 @@ export default defineNuxtConfig({
 	routeRules: {},
 
 	image: {
-		domains: ["netlify.app", "wpengine.com", "broadsignstage.wpengine.com", "broadsign.com"],
+		domains: ["netlify.app", "wpengine.com", "broadsignstage.wpengine.com", "broadsign.com", "writers.broadsign.com"],
 		format: ["avif", "webp"],
 		screens: {
 			xs: 320,

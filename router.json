@@ -41,7 +41,7 @@
 		"de": "/statische-kampagnen",
 		"jp": "/static-campaigns"
 	},
-	"[blog]": {
+	"blog": {
 		"en": "/blog",
 		"fr": "/blogue",
 		"es": "/blog",

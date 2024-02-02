@@ -1,5 +1,5 @@
 <template>
-	<NuxtImg
+	<NuxtPicture
 		v-for="state in states"
 		:src="`img/pages/index/hero_slide1_billboards_state${state}.png`"
 		:class="['state w-full', `state_${state}`, { active: state === current }]"
@@ -32,7 +32,7 @@ onBeforeUnmount(() => {
 <style lang="scss" scoped>
 @import "@/assets/css/dependencies";
 
-.state {
+.slide_1 .state {
 	@include bg;
 	opacity: 0;
 	pointer-events: none;

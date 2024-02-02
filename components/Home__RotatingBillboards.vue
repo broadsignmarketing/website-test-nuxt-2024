@@ -86,11 +86,6 @@ $backgroundMaxWidth: 900px;
 	.ooh_wrapper {
 		bottom: 0;
 		top: auto;
-
-		img,
-		picture {
-			object-position: center bottom;
-		}
 	}
 }
 
