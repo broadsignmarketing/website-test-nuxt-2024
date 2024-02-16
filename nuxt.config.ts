@@ -8,7 +8,7 @@ export default defineNuxtConfig({
 		exclude: ["**/node_modules/**", "./.nuxt/", "./dist"],
 	},
 
-	modules: ["@nuxthq/studio", "@nuxtjs/i18n", "@nuxt/image", "@pinia/nuxt", "@vueuse/nuxt", "@nuxtjs/tailwindcss", "nuxt-primevue"],
+	modules: ["@nuxthq/studio", "@nuxt/content", "@nuxtjs/i18n", "@nuxt/image", "@pinia/nuxt", "@vueuse/nuxt", "@nuxtjs/tailwindcss", "nuxt-primevue"],
 
 	app: {
 		head: {
@@ -19,7 +19,6 @@ export default defineNuxtConfig({
 
 	runtimeConfig: {
 		public: {
-			NUXT_PUBLIC_STUDIO_TOKENS: process.env.NUXT_PUBLIC_STUDIO_TOKENS,
 			WP_URL: process.env.WP_URL,
 		},
 	},
