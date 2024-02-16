@@ -85,6 +85,11 @@ export default defineNuxtConfig({
 		},
 	},
 
+	content: {
+		defaultLocale: "en",
+		locales: ["fr", "es", "de", "jp"],
+	},
+
 	primevue: {
 		/* Options */
 	},

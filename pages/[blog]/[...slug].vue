@@ -3,12 +3,15 @@
 		<Head>
 			<Title>{{ title }}</Title>
 		</Head>
-		<NuxtPicture class="hero" :src="featuredImage" height="500" width="900" />
+		<!-- <NuxtPicture class="hero" :src="featuredImage" height="500" width="900" /> -->
 		<h1>{{ title }}</h1>
-		<p>Now : {{ new Date() }}</p>
+		<p>{{ slug }}</p>
+		<ContentDoc :path="`blog/${locale}/${slug}`" v-if="source === 'content'" />
+		<!-- <p>Now : {{ new Date() }}</p>
 		<p>{{ blogPostSlug(slug, locale) }}</p>
 		<pre>{{ detailedTranslations }}</pre>
-		<div class="post_content" v-html="content" />
+		<div class="post_content" v-html="content" /> -->
+		<pre>{{ post }}</pre>
 	</div>
 </template>
 
@@ -17,19 +20,80 @@ const { locale, setLocale } = useI18n();
 const i18n = useI18n();
 const route = useRoute();
 const slug = route.params.slug.join("/");
+const source = ref("content");
+
+let content = "";
+let categories = [];
+let tags = [];
+let lang = "";
+let translations = [];
+let schema = "";
+let detailedTranslations = [];
 
 const { WP_URL } = useRuntimeConfig().public;
-const { data } = await useFetch(`${WP_URL}/wp-json/wp/v2/posts?slug=${slug}&_embed`);
-const post = data.value[0];
 
-const title = post.title.rendered;
-const content = post.content.rendered;
-const featuredImage = post._embedded["wp:featuredmedia"][0].source_url;
-console.log(featuredImage);
+const { data } = await useAsyncData("post", () => {
+	let out = queryContent(`/blog/en/${slug}`).findOne();
 
-const { categories, tags, lang, translations } = post;
-const { schema } = post.yoast_head_json;
-const detailedTranslations = post.detailed_translations;
+	if (out) {
+		source.value = "content";
+		return out;
+	}
+
+	out = useFetch(`${WP_URL}/wp-json/wp/v2/posts?slug=${slug}&_embed`);
+
+	if (out) {
+		source.value = "wordpress";
+		post.value = "wordpress";
+		return out.data.value[0];
+	}
+});
+
+console.log(data.value);
+
+const post = computed(() => {
+	if (source.value === "content") {
+		return data.value.body;
+	}
+
+	if (source.value === "wp") {
+		return data.value;
+	}
+
+	return {};
+});
+
+const title = computed(() => {
+	if (source.value === "content") {
+		return data.value.title;
+	}
+
+	if (source.value === "wp") {
+		return post.title.rendered;
+	}
+
+	return "";
+});
+
+const featuredImage = computed(() => {
+	if (source.value === "content") {
+		return "Hello";
+	}
+
+	if (source.value === "wp") {
+		return post._embedded["wp:featuredmedia"][0].source_url;
+	}
+
+	return "";
+});
+
+/* content = post.content.rendered;
+	featuredImage =
+	console.log(featuredImage);
+
+	// ({ categories, tags, lang, translations } = post);
+	// ({ schema } = post.yoast_head_json);
+	detailedTranslations = post.detailed_translations; */
 
 setLocale(lang);
 
