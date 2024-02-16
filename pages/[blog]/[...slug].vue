@@ -30,7 +30,7 @@ const source = ref("content");
 console.log(locale.value, slug);
 
 let content = "";
-let wpPost = ref("");
+const wpPost = ref("");
 let categories = [];
 let tags = [];
 let lang = "";
@@ -46,15 +46,7 @@ const { data } = await useAsyncData("post", () =>
 		.findOne()
 );
 
-const { data: wpData } = useFetch(`${WP_URL}/wp-json/wp/v2/posts?slug=${slug}&_embed`, {
-	onResponse({ request, response, options }) {
-		// Process the response data
-		source.value = "wp";
-		wpPost.value = out.data.value[0];
-	},
-});
-
-console.log(data.value, wpData.value);
+console.log(data.value, wpPost.value);
 
 const post = computed(() => {
 	if (source.value === "content" && post?.body) {
@@ -90,6 +82,19 @@ const hero = computed(() => {
 	}
 
 	return "";
+});
+
+watch(data, () => {
+	if (!data.value) {
+		const { data: wp } = useFetch(`${WP_URL}/wp-json/wp/v2/posts?slug=${slug}&_embed`, {
+			onResponse({ request, response, options }) {
+				// Process the response data
+				console.log(response);
+				source.value = "wp";
+				wpPost.value = out.data.value[0];
+			},
+		});
+	}
 });
 
 /* content = post.content.rendered;
