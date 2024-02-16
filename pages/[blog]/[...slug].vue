@@ -3,6 +3,7 @@
 		<Head>
 			<Title>{{ title }}</Title>
 		</Head>
+		<p>{{ source }}</p>
 		<NuxtPicture class="hero" :src="hero" height="500" width="900" />
 		<h1>{{ title }}</h1>
 		<p>{{ slug }}</p>
