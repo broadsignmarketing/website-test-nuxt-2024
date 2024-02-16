@@ -7,11 +7,11 @@
 			<h2>Blaaaaaah</h2>
 			<p>Now : {{ new Date() }}</p>
 			<p>{{ source }}</p>
-			<NuxtPicture class="hero" :src="hero" height="500" width="900" />
-			<h1>{{ title }}</h1>
+			<NuxtPicture class="hero" :src="hero" height="500" width="900" v-if="hero" />
+			<h1 v-if="title">{{ title }}</h1>
 			<p>{{ slug }}</p>
 			<ContentDoc :path="`blog/${locale}/${slug}`" v-if="source === 'content'" />
-			<div class="post_content" v-html="content" v-if="source === 'wp'" />
+			<div class="post_content" v-html="content" v-if="source === 'wp' && content" />
 			<!--
 			<p>{{ blogPostSlug(slug, locale) }}</p>
 			<pre>{{ detailedTranslations }}</pre>
