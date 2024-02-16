@@ -3,7 +3,7 @@
 		<Head>
 			<Title>{{ title }}</Title>
 		</Head>
-		<!-- <NuxtPicture class="hero" :src="featuredImage" height="500" width="900" /> -->
+		<NuxtPicture class="hero" :src="hero" height="500" width="900" />
 		<h1>{{ title }}</h1>
 		<p>{{ slug }}</p>
 		<ContentDoc :path="`blog/${locale}/${slug}`" v-if="source === 'content'" />
@@ -77,9 +77,9 @@ const title = computed(() => {
 	return "";
 });
 
-const featuredImage = computed(() => {
+const hero = computed(() => {
 	if (source.value === "content") {
-		return "Hello";
+		return data.value.hero;
 	}
 
 	if (source.value === "wp") {
