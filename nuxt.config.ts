@@ -19,6 +19,7 @@ export default defineNuxtConfig({
 
 	runtimeConfig: {
 		public: {
+			NUXT_PUBLIC_STUDIO_TOKENS: process.env.NUXT_PUBLIC_STUDIO_TOKENS,
 			WP_URL: process.env.WP_URL,
 		},
 	},
