@@ -8,7 +8,7 @@ export default defineNuxtConfig({
 		exclude: ["**/node_modules/**", "./.nuxt/", "./dist"],
 	},
 
-	modules: ["@nuxtjs/i18n", "@nuxt/image", "@pinia/nuxt", "@vueuse/nuxt", "@nuxtjs/tailwindcss", "nuxt-primevue"],
+	modules: ["@nuxthq/studio", "@nuxtjs/i18n", "@nuxt/image", "@pinia/nuxt", "@vueuse/nuxt", "@nuxtjs/tailwindcss", "nuxt-primevue"],
 
 	app: {
 		head: {
