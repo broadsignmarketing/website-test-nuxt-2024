@@ -7,6 +7,6 @@
 
 <script setup>
 const route = useRoute();
-console.log(route.params.slug);
+console.log(route);
 const { data } = await useAsyncData("post", () => queryContent("/").findOne());
 </script>
