@@ -1,7 +1,7 @@
 ---
 title: "Unlock new opportunities and additional revenue with Broadsign's Audience Campaigns"
 description: "A description"
-hero: ""
+hero: "img/blog/blog_Unlock-new-opportunities-and-additional-revenue-with-Broadsigns-DOOH-Ad-Server.jpg"
 ---
 When looking at the different ways DOOH inventory is sold today, the two primary ways are through direct sales and programmatic digital out-of-home. We often compare them, trying to decide which is the best method to sell DOOH inventory. However, the reality is that many media owners sell both directly and programmatically, as it helps them optimize their inventory. 
 
