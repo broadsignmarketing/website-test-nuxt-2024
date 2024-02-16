@@ -8,7 +8,8 @@
 		<p>{{ slug }}</p>
 		<ContentDoc :path="`blog/${locale}/${slug}`" v-if="source === 'content'" />
 		<div class="post_content" v-html="content" v-if="source === 'wp'" />
-		<!-- <p>Now : {{ new Date() }}</p>
+		<!--
+			<p>Now : {{ new Date() }}</p>
 		<p>{{ blogPostSlug(slug, locale) }}</p>
 		<pre>{{ detailedTranslations }}</pre>
 		<pre>{{ post }}</pre>
