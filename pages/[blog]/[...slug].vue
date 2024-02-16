@@ -58,11 +58,11 @@ const { data } = await useAsyncData("post", () => {
 console.log(data.value);
 
 const post = computed(() => {
-	if (source.value === "content") {
+	if (source.value === "content" && data.value?.body) {
 		return data.value.body;
 	}
 
-	if (source.value === "wp") {
+	if (source.value === "wp" && data.value) {
 		return data.value;
 	}
 
@@ -70,11 +70,11 @@ const post = computed(() => {
 });
 
 const title = computed(() => {
-	if (source.value === "content") {
+	if (source.value === "content" && data.value?.title) {
 		return data.value.title;
 	}
 
-	if (source.value === "wp") {
+	if (source.value === "wp" && post?.title.rendered) {
 		return post.title.rendered;
 	}
 
@@ -82,11 +82,11 @@ const title = computed(() => {
 });
 
 const hero = computed(() => {
-	if (source.value === "content") {
+	if (source.value === "content" && data.value?.hero) {
 		return data.value.hero;
 	}
 
-	if (source.value === "wp") {
+	if (source.value === "wp" && post?._embedded["wp:featuredmedia"][0].source_url) {
 		return post._embedded["wp:featuredmedia"][0].source_url;
 	}
 
