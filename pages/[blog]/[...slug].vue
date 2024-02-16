@@ -24,7 +24,7 @@
 <script setup>
 const { locale, setLocale } = useI18n();
 const route = useRoute();
-const slug = route.params.slug.join("/");
+const slug = route.params.slug.join("/").replace(/\/$/, "");
 const source = ref("content");
 
 console.log(locale.value, slug);
