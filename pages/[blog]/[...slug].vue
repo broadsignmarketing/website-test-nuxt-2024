@@ -3,18 +3,21 @@
 		<Head>
 			<Title>{{ title }}</Title>
 		</Head>
-		<p>{{ source }}</p>
-		<NuxtPicture class="hero" :src="hero" height="500" width="900" />
-		<h1>{{ title }}</h1>
-		<p>{{ slug }}</p>
-		<ContentDoc :path="`blog/${locale}/${slug}`" v-if="source === 'content'" />
-		<div class="post_content" v-html="content" v-if="source === 'wp'" />
-		<!--
+		<div class="container">
+			<h2>Blaaaaaah</h2>
 			<p>Now : {{ new Date() }}</p>
-		<p>{{ blogPostSlug(slug, locale) }}</p>
-		<pre>{{ detailedTranslations }}</pre>
-		<pre>{{ post }}</pre>
-		-->
+			<p>{{ source }}</p>
+			<NuxtPicture class="hero" :src="hero" height="500" width="900" />
+			<h1>{{ title }}</h1>
+			<p>{{ slug }}</p>
+			<ContentDoc :path="`blog/${locale}/${slug}`" v-if="source === 'content'" />
+			<div class="post_content" v-html="content" v-if="source === 'wp'" />
+			<!--
+			<p>{{ blogPostSlug(slug, locale) }}</p>
+			<pre>{{ detailedTranslations }}</pre>
+			<pre>{{ post }}</pre>
+			-->
+		</div>
 	</div>
 </template>
 
