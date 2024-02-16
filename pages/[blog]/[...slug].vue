@@ -7,7 +7,7 @@
 			<h2>Blaaaaaah</h2>
 			<p>Now : {{ new Date() }}</p>
 			<p>{{ source }}</p>
-			<!-- <NuxtPicture class="hero" :src="hero" height="500" width="900" v-if="hero" /> -->
+			<NuxtPicture class="hero" :src="hero" height="500" width="900" v-if="hero" />
 			<h1 v-if="title">{{ title }}</h1>
 			<p>{{ slug }}</p>
 			<ContentDoc :path="`blog/${locale}/${slug}`" v-if="source === 'content'" />
@@ -23,12 +23,14 @@
 
 <script setup>
 const { locale, setLocale } = useI18n();
-const i18n = useI18n();
 const route = useRoute();
 const slug = route.params.slug.join("/");
 const source = ref("content");
 
+console.log(locale.value, slug);
+
 let content = "";
+let wpPost = ref("");
 let categories = [];
 let tags = [];
 let lang = "";
@@ -38,56 +40,53 @@ let detailedTranslations = [];
 
 const { WP_URL } = useRuntimeConfig().public;
 
-const { data } = await useAsyncData("post", () => {
-	let out = queryContent(`/blog/en/${slug}`).findOne();
+const { data } = await useAsyncData("post", () =>
+	queryContent("blog")
+		.where({ path: { $contains: slug }, locale: locale.value })
+		.findOne()
+);
 
-	if (out) {
-		source.value = "content";
-		return out;
-	}
-
-	out = useFetch(`${WP_URL}/wp-json/wp/v2/posts?slug=${slug}&_embed`);
-
-	if (out) {
+const { data: wpData } = useFetch(`${WP_URL}/wp-json/wp/v2/posts?slug=${slug}&_embed`, {
+	onResponse({ request, response, options }) {
+		// Process the response data
 		source.value = "wp";
-		post.value = out.data.value[0];
-		return out.data.value[0];
-	}
+		wpPost.value = out.data.value[0];
+	},
 });
 
-console.log(data.value);
+console.log(data.value, wpData.value);
 
 const post = computed(() => {
-	if (source.value === "content" && data.value?.body) {
-		return data.value.body;
+	if (source.value === "content" && post?.body) {
+		return post;
 	}
 
-	if (source.value === "wp" && data.value) {
-		return data.value;
+	if (source.value === "wp" && post) {
+		return post;
 	}
 
 	return {};
 });
 
 const title = computed(() => {
-	if (source.value === "content" && data.value?.title) {
-		return data.value.title;
+	if (source.value === "content" && post.title) {
+		return post.title;
 	}
 
-	if (source.value === "wp" && post?.title.rendered) {
-		return post.title.rendered;
+	if (source.value === "wp" && wpPost?.title?.rendered) {
+		return wpPost.title.rendered;
 	}
 
 	return "";
 });
 
 const hero = computed(() => {
-	if (source.value === "content" && data.value?.hero) {
-		return data.value.hero;
+	if (source.value === "content" && post?.hero) {
+		return post.hero;
 	}
 
-	if (source.value === "wp" && post?._embedded["wp:featuredmedia"][0].source_url) {
-		return post._embedded["wp:featuredmedia"][0].source_url;
+	if (source.value === "wp" && wpPost?._embedded?.["wp:featuredmedia"][0].source_url) {
+		return wpPost._embedded["wp:featuredmedia"][0].source_url;
 	}
 
 	return "";
