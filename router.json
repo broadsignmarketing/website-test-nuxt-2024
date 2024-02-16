@@ -48,6 +48,13 @@
 		"de": "/blog",
 		"jp": "/blog"
 	},
+	"[blog]/[language]/[slug]": {
+		"en": "/blog/[slug]",
+		"fr": "/blogue/[slug]",
+		"es": "/blog/[slug]",
+		"de": "/blog/[slug]",
+		"jp": "/blog/[slug]"
+	},
 	"[blog]/[slug]": {
 		"en": "/blog/[slug]",
 		"fr": "/blogue/[slug]",
