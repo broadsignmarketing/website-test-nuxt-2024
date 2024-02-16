@@ -7,11 +7,12 @@
 		<h1>{{ title }}</h1>
 		<p>{{ slug }}</p>
 		<ContentDoc :path="`blog/${locale}/${slug}`" v-if="source === 'content'" />
+		<div class="post_content" v-html="content" v-if="source === 'wp'" />
 		<!-- <p>Now : {{ new Date() }}</p>
 		<p>{{ blogPostSlug(slug, locale) }}</p>
 		<pre>{{ detailedTranslations }}</pre>
-		<div class="post_content" v-html="content" /> -->
 		<pre>{{ post }}</pre>
+		-->
 	</div>
 </template>
 
@@ -43,8 +44,8 @@ const { data } = await useAsyncData("post", () => {
 	out = useFetch(`${WP_URL}/wp-json/wp/v2/posts?slug=${slug}&_embed`);
 
 	if (out) {
-		source.value = "wordpress";
-		post.value = "wordpress";
+		source.value = "wp";
+		post.value = out.data.value[0];
 		return out.data.value[0];
 	}
 });
