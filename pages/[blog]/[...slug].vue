@@ -10,7 +10,7 @@
 			<NuxtPicture class="hero" :src="hero" height="500" width="900" v-if="hero" />
 			<h1 v-if="title">{{ title }}</h1>
 			<p>{{ slug }}</p>
-			<ContentDoc :path="`blog/${locale}/${slug}`" v-if="source === 'content'" />
+			<ContentRendererMarkdown :value="data.body" v-if="data?.body" />
 			<div class="post_content" v-html="content" v-if="source === 'wp' && content" />
 			<!--
 			<p>{{ blogPostSlug(slug, locale) }}</p>
@@ -40,13 +40,9 @@ let detailedTranslations = [];
 
 const { WP_URL } = useRuntimeConfig().public;
 
-const { data } = await useAsyncData("post", () =>
-	queryContent("blog")
-		.where({ path: { $contains: slug }, locale: locale.value })
-		.findOne()
-);
+const { data } = await useAsyncData("post", () => queryContent("blog").findOne());
 
-console.log(data.value, wpPost.value);
+console.log("data : ", data.value);
 
 const post = computed(() => {
 	if (source.value === "content" && post?.body) {
@@ -59,6 +55,8 @@ const post = computed(() => {
 
 	return {};
 });
+
+console.log(post.value);
 
 const title = computed(() => {
 	if (source.value === "content" && post.title) {
@@ -84,7 +82,7 @@ const hero = computed(() => {
 	return "";
 });
 
-watch(data, () => {
+/* watch(data, () => {
 	if (!data.value) {
 		const { data: wp } = useFetch(`${WP_URL}/wp-json/wp/v2/posts?slug=${slug}&_embed`, {
 			onResponse({ request, response, options }) {
@@ -95,7 +93,7 @@ watch(data, () => {
 			},
 		});
 	}
-});
+}); */
 
 /* content = post.content.rendered;
 	featuredImage =
