@@ -4,26 +4,19 @@
 			<Title>{{ title }}</Title>
 		</Head>
 		<div class="container">
-			<h2>Title that doesn't come from the post</h2>
-			<p>Now : {{ new Date() }}</p>
-			<p>{{ source }}</p>
-			<NuxtPicture class="hero" :src="hero" height="500" width="900" v-if="hero" />
-			<h1 v-if="title">{{ title }}</h1>
-			<!-- <p>{{ slug }}</p> -->
-			<div class="post_content" v-html="content" v-if="source === 'wp' && content" />
-			<!--
-			<p>{{ blogPostSlug(slug, locale) }}</p>
-			<pre>{{ detailedTranslations }}</pre>
-			-->
-			<pre>{{ has_content_data }}</pre>
+			<BlogPostWP :post="post" v-if="source === 'wp' && content" />
+			<BlogPostContent :post="post" v-if="source === 'content' && content" />
 		</div>
 	</div>
 </template>
 
-<script setup>
+<script setup lang="ts">
+const { post } = defineProps(["post"]);
+
 const { locale, setLocale } = useI18n();
 const route = useRoute();
 const slug = route.params.slug.join("/").replace(/\/$/, "");
+const source = ref("content");
 
 let content = "";
 const wpPost = ref("");
@@ -33,37 +26,6 @@ let lang = "";
 let translations = [];
 let schema = "";
 let detailedTranslations = [];
-
-const { WP_URL } = useRuntimeConfig().public;
-
-const { data: has_content_data } = await useAsyncData("content_post", () => queryContent().where({ slug }).findOne());
-const { data: has_wp_data } = await useFetch(`${WP_URL}/wp-json/wp/v2/posts?slug=${slug}&_fields=slug`);
-
-console.log(has_content_data.value, has_wp_data.value);
-
-const source = computed(() => {
-	if (source.value === "content" && post?.body) {
-		return post;
-	}
-
-	if (source.value === "wp" && post) {
-		return post;
-	}
-
-	return {};
-});
-
-const post = computed(() => {
-	if (source.value === "content" && post?.body) {
-		return post;
-	}
-
-	if (source.value === "wp" && post) {
-		return post;
-	}
-
-	return {};
-});
 
 const title = computed(() => {
 	if (source.value === "content" && post.title) {
@@ -87,16 +49,6 @@ const hero = computed(() => {
 	}
 
 	return "";
-});
-
-console.log("blog post !!!");
-
-watch(has_content_data, () => {
-	console.log("WATCH CONTENT", has_content_data.value);
-});
-
-watch(has_wp_data, () => {
-	console.log("WATCH WP", has_wp_data.value);
 });
 
 /* watch(data, () => {
