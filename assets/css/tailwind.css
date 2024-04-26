@@ -13,10 +13,15 @@
 		background-color: transparent;
 		border-style: none;
 		position: relative;
+		display: inline-block;
 	}
 
 	picture {
 		background-color: transparent;
+		display: inline-block;
+		box-sizing: border-box;
+	}
+	picture img {
 	}
 
 	figure {

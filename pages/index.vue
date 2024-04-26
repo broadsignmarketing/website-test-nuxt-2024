@@ -1,9 +1,9 @@
 <template>
 	<section class="hero w-full overflow-hidden">
 		<div class="container z-2">
-			<div class="flex gap-x-8">
+			<div class="flex gap-x-4 -m-2">
 				<div class="w-full md:w-1/2">
-					<div class="flex flex-col items-center justify-center md:align-items-start">
+					<div class="flex flex-col items-center justify-center md:items-start">
 						<h1 class="text-white font-black uppercase">
 							<span class="anim_appear" v-for="span in $tm('index.hero.title')">{{ $rt(span) }}</span>
 						</h1>
@@ -25,7 +25,13 @@
 							<div class="slide slide_1">
 								<div class="inner">
 									<NuxtPicture class="person" src="img/pages/index/hero_slide1_person.png" alt="" />
-									<NuxtPicture class="buildings" src="img/pages/index/hero_slide1_buildings.png" objectPosition="left bottom" alt="" />
+									<NuxtPicture
+										class="buildings"
+										src="img/pages/index/hero_slide1_buildings.png"
+										:imgAttrs="{ style: 'object-position:left bottom;max-height:100%;' }"
+										fit="contain"
+										alt=""
+									/>
 									<HomeRotatingBillboards />
 								</div>
 							</div>
@@ -116,6 +122,7 @@ h1 {
 	max-width: 6.6em;
 	position: relative;
 	transform-origin: left top;
+	line-height: 120%;
 	user-select: none;
 
 	span {
@@ -125,7 +132,7 @@ h1 {
 		display: flex;
 		flex: 0 0 100%;
 		font-size: 1em;
-		height: 1em;
+		height: 1.1em;
 		letter-spacing: 0.01em;
 		opacity: 0;
 		position: relative;
@@ -378,7 +385,7 @@ html[lang="zh"] {
 
 @media (min-width: 1088px) {
 	h1 {
-		transform: translateX(-0.2em);
+		transform: translateX(-0.6em);
 
 		span {
 			opacity: 0;

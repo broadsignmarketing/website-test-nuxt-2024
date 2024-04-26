@@ -23,7 +23,10 @@
 <script setup>
 const { locale, setLocale } = useI18n();
 const route = useRoute();
-const slug = route.params.slug.join("/").replace(/\/$/, "");
+const slug = route.params.slug
+	.filter((part) => part !== locale.value)
+	.join("/")
+	.replace(/\/$/, "");
 
 let content = "";
 const wpPost = ref("");
@@ -36,10 +39,19 @@ let detailedTranslations = [];
 
 const { WP_URL } = useRuntimeConfig().public;
 
-const { data: has_content_data } = await useAsyncData("content_post", () => queryContent().where({ slug }).findOne());
+const { data: has_content_data } = await useAsyncData("content_post", () =>
+	queryContent()
+		.where({ _path: { $contains: "blog", $contains: `/${locale.value}/`, $contains: slug } })
+		.find()
+);
 const { data: has_wp_data } = await useFetch(`${WP_URL}/wp-json/wp/v2/posts?slug=${slug}&_fields=slug`);
 
-console.log(has_content_data.value, has_wp_data.value);
+console.table({
+	"locale.value": locale.value,
+	slug: slug,
+	"has_content_data.value": has_content_data.value,
+	"has_wp_data.value": has_wp_data.value,
+});
 
 const source = computed(() => {
 	if (source.value === "content" && post?.body) {

@@ -25,7 +25,7 @@ const billboardsSwitchSpeeds = [3100, 4000, 3200, 3900, 3300, 3800, 3400, 3700, 
 
 $backgroundWidth: 130vw;
 $backgroundMaxHeight: 520px;
-$backgroundMaxWidth: 900px;
+$backgroundMaxWidth: 870px;
 
 .ooh_wrapper {
 	max-height: $backgroundMaxHeight;
@@ -35,10 +35,19 @@ $backgroundMaxWidth: 900px;
 }
 
 .ooh {
+	height: 100%;
+	left: 0;
+	-o-object-fit: cover;
+	object-fit: cover;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 0;
+	will-change: opacity;
 }
 
 .ooh_1 {
-	clip-path: polygon(0% 10%, 12% 10%, 12% 40%, 0% 40%);
+	clip-path: polygon(0% 10%, 12% 10%, 12% 41%, 0% 41%);
 }
 
 .ooh_2 {
@@ -46,7 +55,7 @@ $backgroundMaxWidth: 900px;
 }
 
 .ooh_3 {
-	clip-path: polygon(49% 0%, 59% 0%, 59% 29%, 49% 29%);
+	clip-path: polygon(49% 0%, 59% 0%, 59% 31%, 49% 31%);
 }
 
 .ooh_4 {
