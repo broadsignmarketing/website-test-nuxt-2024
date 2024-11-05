@@ -4,6 +4,8 @@ description: A description
 hero: img/blog/blog_Unlock-new-opportunities-and-additional-revenue-with-Broadsigns-DOOH-Ad-Server.jpg
 ---
 
+![blog\_Unlock-new-opportunities-and-additional-revenue-with-Broadsigns-DOOH-Ad-Server.jpg](/img/blog/blog_Unlock-new-opportunities-and-additional-revenue-with-Broadsigns-DOOH-Ad-Server.jpg)
+
 When looking at the different ways DOOH inventory is sold today, the two primary ways are through direct sales and programmatic digital out-of-home. We often compare them, trying to decide which is the best method to sell DOOH inventory. However, the reality is that many media owners sell both directly and programmatically, as it helps them optimize their inventory.
 
 While directly sold campaigns are generally long-term commitments with fixed start and end dates, programmatic campaigns are more flexible, allowing you to slot them in when there’s availability. In essence, programmatic campaigns can be used to help fill the remaining space not taken up by fixed campaigns.
